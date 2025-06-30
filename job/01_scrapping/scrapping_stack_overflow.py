@@ -1,0 +1,28 @@
+import pandas as pd
+
+
+df = pd.read_csv('source/survey_results_public.csv')
+
+df["WantToWorkWith"] = df["LanguageWantToWorkWith"].fillna("")
+
+
+tech_wanted = df["WantToWorkWith"].str.split(";").explode().value_counts()
+top_tech = tech_wanted.head(150)
+
+
+top_tech.to_csv("data/raw/top_technos_voulues.csv", header=["Nombre"])
+
+print(" Export des technologies les plus recherchées dans 'top_technos_voulues.csv'")
+
+
+stack_columns = [
+    ("DatabaseHaveWorkedWith", "data/raw/bases_de_donnees.csv"),
+    ("PlatformHaveWorkedWith", "data/raw/plateformes.csv"),
+    ("WebframeHaveWorkedWith", "data/raw/frameworks_web.csv")
+]
+
+for col_name, filename in stack_columns:
+    df[col_name] = df[col_name].fillna("")
+    exploded = df[col_name].str.split(";").explode().value_counts().head(150)
+    exploded.to_csv(filename, header=["Nombre"])
+    print(f" Export de la stack {col_name} dans '{filename}'")

@@ -1,0 +1,37 @@
+DatabaseHaveWorkedWith,Nombre
+PostgreSQL,25536
+MySQL,21099
+SQLite,17365
+,15183
+Microsoft SQL Server,13275
+MongoDB,13007
+Redis,10463
+MariaDB,8991
+Elasticsearch,6533
+Oracle,5273
+Dynamodb,4138
+Firebase Realtime Database,3018
+Cloud Firestore,2842
+BigQuery,2531
+Microsoft Access,2193
+Supabase,2078
+H2,2006
+Cosmos DB,1746
+Snowflake,1364
+InfluxDB,1338
+Cassandra,1268
+Databricks SQL,1003
+Neo4J,998
+IBM DB2,914
+Clickhouse,890
+Solr,766
+DuckDB,710
+Firebird,563
+Couch DB,534
+Cockroachdb,507
+Couchbase,353
+Presto,323
+Datomic,184
+EventStoreDB,162
+RavenDB,159
+TiDB,127
