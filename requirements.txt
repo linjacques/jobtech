@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+requests
+Selenium
+django
+djangorestframework 
+markdown
