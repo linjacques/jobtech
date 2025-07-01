@@ -1,0 +1,34 @@
+1. top_tech
+Méthode : GET
+
+Fonction : Récupère la liste des technologies les plus utilisées ou les plus populaires.
+
+Sécurité : Requête sécurisée par une clé API.
+
+2. adzuna
+Méthode : GET
+
+Fonction : Fournit les données issues des offres d’emploi ou d’un agrégat lié à celles-ci.
+
+Sécurité : Requête sécurisée par une clé API.
+
+3. database
+Méthode : GET
+
+Fonction : Retourne les bases de données les plus citées ou utilisées.
+
+Sécurité : Requête sécurisée par une clé API.
+
+4. platform
+Méthode : GET
+
+Fonction : Donne accès aux données sur les plateformes techniques référencées.
+
+Sécurité : Requête sécurisée par une clé API.
+
+5. web_framework
+Méthode : GET
+
+Fonction : Permet d’obtenir les frameworks web les plus utilisés ou les plus recherchés.
+
+Sécurité : Requête sécurisée par une clé API.
