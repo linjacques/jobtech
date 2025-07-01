@@ -1,0 +1,1001 @@
+name,owner,language,stargazers_count,forks_count,html_url,open_issues_count,watchers_count,created_at,updated_at,license,homepage
+freeCodeCamp,freeCodeCamp,TypeScript,421848,40596,https://github.com/freeCodeCamp/freeCodeCamp,311,421848,2014-12-24T17:49:19Z,2025-07-01T08:11:54Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://contribute.freecodecamp.org
+build-your-own-x,codecrafters-io,Markdown,392920,36573,https://github.com/codecrafters-io/build-your-own-x,394,392920,2018-05-09T12:03:18Z,2025-07-01T08:11:42Z,,https://codecrafters.io
+awesome,sindresorhus,,376573,30122,https://github.com/sindresorhus/awesome,42,376573,2014-07-11T13:42:37Z,2025-07-01T08:13:45Z,Creative Commons Zero v1.0 Universal,
+free-programming-books,EbookFoundation,Python,361681,63658,https://github.com/EbookFoundation/free-programming-books,39,361681,2013-10-11T06:50:37Z,2025-07-01T07:53:13Z,Creative Commons Attribution 4.0 International,https://ebookfoundation.github.io/free-programming-books/
+public-apis,public-apis,Python,354172,37157,https://github.com/public-apis/public-apis,502,354172,2016-03-20T23:49:42Z,2025-07-01T08:13:46Z,MIT License,https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo
+developer-roadmap,kamranahmedse,TypeScript,329685,42245,https://github.com/kamranahmedse/developer-roadmap,249,329685,2017-03-15T13:45:52Z,2025-07-01T08:11:36Z,Other,https://roadmap.sh
+coding-interview-university,jwasham,,321672,79418,https://github.com/jwasham/coding-interview-university,73,321672,2016-06-06T02:34:12Z,2025-07-01T08:14:01Z,Creative Commons Attribution Share Alike 4.0 International,
+system-design-primer,donnemartin,Python,309270,50930,https://github.com/donnemartin/system-design-primer,502,309270,2017-02-26T16:15:28Z,2025-07-01T08:13:07Z,Other,
+996.ICU,996icu,,273318,21095,https://github.com/996icu/996.ICU,16704,273318,2019-03-26T07:31:14Z,2025-07-01T07:29:05Z,Other,https://996.icu
+awesome-python,vinta,Python,248477,25880,https://github.com/vinta/awesome-python,491,248477,2014-06-27T21:00:06Z,2025-07-01T08:10:59Z,Other,https://awesome-python.com/
+react,facebook,JavaScript,236863,48813,https://github.com/facebook/react,1000,236863,2013-05-24T16:15:54Z,2025-07-01T08:02:55Z,MIT License,https://github.com/EricCH97
+awesome-selfhosted,awesome-selfhosted,,234520,10895,https://github.com/awesome-selfhosted/awesome-selfhosted,0,234520,2015-06-01T02:33:17Z,2025-07-01T08:11:54Z,Other,https://awesome-selfhosted.net/
+project-based-learning,practical-tutorials,,233511,30542,https://github.com/practical-tutorials/project-based-learning,230,233511,2017-04-12T05:07:46Z,2025-07-01T08:08:53Z,MIT License,
+vue,vuejs,TypeScript,209059,33748,https://github.com/vuejs/vue,601,209059,2013-07-29T03:24:51Z,2025-07-01T07:35:47Z,MIT License,http://v2.vuejs.org
+Python,TheAlgorithms,Python,202274,46968,https://github.com/TheAlgorithms/Python,404,202274,2016-07-16T09:44:01Z,2025-07-01T07:25:07Z,MIT License,https://thealgorithms.github.io/Python/
+linux,torvalds,C,196713,56762,https://github.com/torvalds/linux,477,196713,2011-09-04T22:48:12Z,2025-07-01T08:05:26Z,Other,
+javascript-algorithms,trekhleb,JavaScript,191626,30692,https://github.com/trekhleb/javascript-algorithms,365,191626,2018-03-24T07:47:04Z,2025-07-01T07:01:53Z,MIT License,
+tensorflow,tensorflow,C++,190531,74732,https://github.com/tensorflow/tensorflow,1370,190531,2015-11-07T01:19:20Z,2025-07-01T08:06:51Z,Apache License 2.0,https://tensorflow.org
+computer-science,ossu,HTML,187299,23400,https://github.com/ossu/computer-science,13,187299,2014-05-04T00:18:39Z,2025-07-01T08:11:13Z,MIT License,
+You-Dont-Know-JS,getify,,182506,33647,https://github.com/getify/You-Dont-Know-JS,125,182506,2013-11-16T02:37:24Z,2025-07-01T07:37:32Z,Other,
+CS-Notes,CyC2018,,180761,51173,https://github.com/CyC2018/CS-Notes,189,180761,2018-02-13T14:56:24Z,2025-07-01T07:34:36Z,,http://cyc2018.xyz
+ohmyzsh,ohmyzsh,Shell,179582,26123,https://github.com/ohmyzsh/ohmyzsh,499,179582,2009-08-28T18:15:37Z,2025-07-01T07:25:03Z,MIT License,https://ohmyz.sh
+AutoGPT,Significant-Gravitas,Python,176540,45838,https://github.com/Significant-Gravitas/AutoGPT,199,176540,2023-03-16T09:21:07Z,2025-07-01T08:13:51Z,Other,https://agpt.co
+the-book-of-secret-knowledge,trimstray,,174864,10895,https://github.com/trimstray/the-book-of-secret-knowledge,94,174864,2018-06-23T10:43:14Z,2025-07-01T08:11:21Z,MIT License,
+vscode,microsoft,TypeScript,174041,33394,https://github.com/microsoft/vscode,11189,174041,2015-09-03T20:23:38Z,2025-07-01T07:26:18Z,MIT License,https://code.visualstudio.com
+bootstrap,twbs,MDX,172464,79125,https://github.com/twbs/bootstrap,549,172464,2011-07-29T21:19:00Z,2025-07-01T06:52:51Z,MIT License,https://getbootstrap.com
+flutter,flutter,Dart,171233,28800,https://github.com/flutter/flutter,12623,171233,2015-03-06T22:54:58Z,2025-07-01T07:58:54Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://flutter.dev
+Python-100-Days,jackfrued,Jupyter Notebook,168505,54073,https://github.com/jackfrued/Python-100-Days,728,168505,2018-03-01T16:05:52Z,2025-07-01T08:05:14Z,,
+gitignore,github,,167606,83042,https://github.com/github/gitignore,314,167606,2010-11-08T20:17:14Z,2025-07-01T07:55:22Z,Creative Commons Zero v1.0 Universal,
+the-art-of-command-line,jlevy,,156734,14690,https://github.com/jlevy/the-art-of-command-line,249,156734,2015-05-20T15:11:03Z,2025-07-01T07:50:26Z,,
+stable-diffusion-webui,AUTOMATIC1111,Python,154024,28619,https://github.com/AUTOMATIC1111/stable-diffusion-webui,2409,154024,2022-08-22T14:05:26Z,2025-07-01T08:04:50Z,GNU Affero General Public License v3.0,
+JavaGuide,Snailclimb,Java,150543,45896,https://github.com/Snailclimb/JavaGuide,72,150543,2018-05-07T13:27:00Z,2025-07-01T08:04:46Z,Apache License 2.0,https://javaguide.cn
+javascript,airbnb,JavaScript,146994,26768,https://github.com/airbnb/javascript,172,146994,2012-11-01T23:13:50Z,2025-07-01T08:11:09Z,MIT License,
+awesome-go,avelino,Go,146473,12380,https://github.com/avelino/awesome-go,122,146473,2014-07-06T13:42:15Z,2025-07-01T07:45:53Z,MIT License,https://awesome-go.com
+transformers,huggingface,Python,146260,29496,https://github.com/huggingface/transformers,1861,146260,2018-10-29T13:56:00Z,2025-07-01T07:48:27Z,Apache License 2.0,https://huggingface.co/transformers
+ollama,ollama,Go,145203,12254,https://github.com/ollama/ollama,1905,145203,2023-06-26T19:39:32Z,2025-07-01T07:59:14Z,MIT License,https://ollama.com
+Microsoft-Activation-Scripts,massgravel,Batchfile,140062,13580,https://github.com/massgravel/Microsoft-Activation-Scripts,2,140062,2020-01-12T23:03:34Z,2025-07-01T08:16:10Z,GNU General Public License v3.0,https://massgrave.dev
+youtube-dl,ytdl-org,Python,136295,10386,https://github.com/ytdl-org/youtube-dl,4143,136295,2010-10-31T14:35:07Z,2025-07-01T03:53:54Z,The Unlicense,http://ytdl-org.github.io/youtube-dl/
+next.js,vercel,JavaScript,132836,28715,https://github.com/vercel/next.js,3233,132836,2016-10-05T23:32:51Z,2025-07-01T08:02:58Z,MIT License,https://nextjs.org
+awesome-chatgpt-prompts,f,JavaScript,129914,17220,https://github.com/f/awesome-chatgpt-prompts,275,129914,2022-12-05T13:54:13Z,2025-07-01T08:16:08Z,Creative Commons Zero v1.0 Universal,https://prompts.chat
+go,golang,Go,128641,18225,https://github.com/golang/go,9362,128641,2014-08-19T04:33:40Z,2025-07-01T07:55:49Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://go.dev
+fucking-algorithm,labuladong,Markdown,128398,23396,https://github.com/labuladong/fucking-algorithm,41,128398,2020-02-19T09:01:23Z,2025-07-01T08:06:29Z,,https://labuladong.online/algo/
+tech-interview-handbook,yangshun,TypeScript,127248,15508,https://github.com/yangshun/tech-interview-handbook,53,127248,2016-07-05T05:00:48Z,2025-07-01T07:34:12Z,MIT License,https://www.techinterviewhandbook.org
+scrcpy,Genymobile,C,124450,11650,https://github.com/Genymobile/scrcpy,2445,124450,2017-11-21T18:00:27Z,2025-07-01T07:56:48Z,Apache License 2.0,
+30-seconds-of-code,Chalarangelo,JavaScript,124320,12229,https://github.com/Chalarangelo/30-seconds-of-code,0,124320,2017-11-29T17:35:03Z,2025-07-01T04:33:49Z,Creative Commons Attribution 4.0 International,https://30secondsofcode.org/
+react-native,facebook,C++,122874,24727,https://github.com/facebook/react-native,983,122874,2015-01-09T18:10:16Z,2025-07-01T07:10:36Z,MIT License,https://reactnative.dev
+PowerToys,microsoft,C#,120385,7132,https://github.com/microsoft/PowerToys,6836,120385,2019-05-01T17:44:02Z,2025-07-01T07:53:38Z,MIT License,
+HelloGitHub,521xueweihan,Python,119898,10497,https://github.com/521xueweihan/HelloGitHub,202,119898,2016-05-04T06:24:11Z,2025-07-01T08:16:07Z,,https://hellogithub.com
+electron,electron,C++,117293,16178,https://github.com/electron/electron,858,117293,2013-04-12T01:47:36Z,2025-07-01T08:13:45Z,MIT License,https://electronjs.org
+yt-dlp,yt-dlp,Python,117140,9264,https://github.com/yt-dlp/yt-dlp,1953,117140,2020-10-26T04:22:55Z,2025-07-01T08:14:03Z,The Unlicense,https://discord.gg/H5MNcFW63r
+kubernetes,kubernetes,Go,116056,40868,https://github.com/kubernetes/kubernetes,2602,116056,2014-06-06T22:56:04Z,2025-07-01T07:25:32Z,Apache License 2.0,https://kubernetes.io
+free-programming-books-zh_CN,justjavac,,114483,28345,https://github.com/justjavac/free-programming-books-zh_CN,31,114483,2013-11-04T01:59:19Z,2025-07-01T07:32:19Z,GNU General Public License v3.0,http://weibo.com/justjavac
+hello-algo,krahets,Java,113913,14124,https://github.com/krahets/hello-algo,30,113913,2022-11-04T11:08:34Z,2025-07-01T08:03:08Z,Other,https://www.hello-algo.com
+n8n,n8n-io,TypeScript,113771,33305,https://github.com/n8n-io/n8n,1063,113771,2019-06-22T09:24:21Z,2025-07-01T08:13:50Z,Other,https://n8n.io
+node,nodejs,JavaScript,112001,31984,https://github.com/nodejs/node,2250,112001,2014-11-26T19:57:11Z,2025-07-01T08:09:15Z,Other,https://nodejs.org
+d3,d3,Shell,110973,22854,https://github.com/d3/d3,21,110973,2010-09-27T17:22:42Z,2025-07-01T08:16:02Z,ISC License,https://d3js.org
+langchain,langchain-ai,Jupyter Notebook,110503,17963,https://github.com/langchain-ai/langchain,280,110503,2022-10-17T02:58:36Z,2025-07-01T08:14:37Z,MIT License,https://python.langchain.com
+axios,axios,JavaScript,107146,11151,https://github.com/axios/axios,685,107146,2014-08-18T22:30:27Z,2025-07-01T07:33:06Z,MIT License,https://axios-http.com
+three.js,mrdoob,JavaScript,106933,35832,https://github.com/mrdoob/three.js,567,106933,2010-03-23T18:58:01Z,2025-07-01T06:35:47Z,MIT License,https://threejs.org/
+dify,langgenius,TypeScript,105264,15883,https://github.com/langgenius/dify,798,105264,2023-04-12T07:40:24Z,2025-07-01T08:12:33Z,Other,https://dify.ai
+TypeScript,microsoft,TypeScript,105105,12900,https://github.com/microsoft/TypeScript,6057,105105,2014-06-17T15:28:39Z,2025-07-01T06:32:56Z,Apache License 2.0,https://www.typescriptlang.org
+rust,rust-lang,Rust,104717,13483,https://github.com/rust-lang/rust,11276,104717,2010-06-16T20:39:03Z,2025-07-01T07:54:25Z,Other,https://www.rust-lang.org
+deno,denoland,Rust,103464,5637,https://github.com/denoland/deno,2254,103464,2018-05-15T01:34:26Z,2025-07-01T08:07:46Z,MIT License,https://deno.com
+create-react-app,facebook,JavaScript,103336,27036,https://github.com/facebook/create-react-app,2324,103336,2016-07-17T14:55:11Z,2025-07-01T06:45:32Z,MIT License,https://create-react-app.dev
+nodebestpractices,goldbergyoni,Dockerfile,103185,10477,https://github.com/goldbergyoni/nodebestpractices,81,103185,2017-09-15T08:33:19Z,2025-07-01T08:10:56Z,Creative Commons Attribution Share Alike 4.0 International,https://twitter.com/nodepractices/
+excalidraw,excalidraw,TypeScript,102824,10159,https://github.com/excalidraw/excalidraw,2210,102824,2020-01-02T01:04:43Z,2025-07-01T08:12:05Z,MIT License,https://excalidraw.com
+free-for-dev,ripienaar,HTML,101939,10835,https://github.com/ripienaar/free-for-dev,15,101939,2015-03-18T21:06:26Z,2025-07-01T08:10:01Z,,https://free-for.dev/
+open-webui,open-webui,JavaScript,100791,13392,https://github.com/open-webui/open-webui,249,100791,2023-10-06T22:08:27Z,2025-07-01T08:07:58Z,Other,https://openwebui.com
+GitHub-Chinese-Top-Charts,GrowingGit,Java,99821,13106,https://github.com/GrowingGit/GitHub-Chinese-Top-Charts,187,99821,2019-09-05T03:01:56Z,2025-07-01T08:14:53Z,Other,
+terminal,microsoft,C++,98769,8632,https://github.com/microsoft/terminal,1665,98769,2017-08-11T18:38:22Z,2025-07-01T08:06:23Z,MIT License,
+godot,godotengine,C++,98489,22715,https://github.com/godotengine/godot,15608,98489,2014-01-04T16:05:36Z,2025-07-01T07:32:15Z,MIT License,https://godotengine.org
+angular,angular,TypeScript,98244,26369,https://github.com/angular/angular,1554,98244,2014-09-18T16:12:01Z,2025-07-01T08:11:56Z,MIT License,https://angular.dev
+DeepSeek-V3,deepseek-ai,Python,97930,15936,https://github.com/deepseek-ai/DeepSeek-V3,81,97930,2024-12-26T09:52:40Z,2025-07-01T07:36:00Z,MIT License,
+material-ui,mui,TypeScript,96016,32580,https://github.com/mui/material-ui,1762,96016,2014-08-18T19:11:54Z,2025-07-01T08:01:23Z,MIT License,https://mui.com/material-ui/
+frp,fatedier,Go,95645,14169,https://github.com/fatedier/frp,59,95645,2015-12-21T15:24:59Z,2025-07-01T08:13:14Z,Apache License 2.0,
+ant-design,ant-design,TypeScript,95250,52828,https://github.com/ant-design/ant-design,1253,95250,2015-04-24T15:37:24Z,2025-07-01T07:45:18Z,MIT License,https://ant.design
+papers-we-love,papers-we-love,Shell,95176,6009,https://github.com/papers-we-love/papers-we-love,1,95176,2013-12-15T14:31:41Z,2025-07-01T07:03:09Z,,http://paperswelove.org/
+iptv,iptv-org,TypeScript,95005,3683,https://github.com/iptv-org/iptv,377,95005,2018-11-14T22:00:57Z,2025-07-01T08:11:25Z,The Unlicense,https://iptv-org.github.io
+Awesome-Hacking,Hack-with-Github,,94278,9368,https://github.com/Hack-with-Github/Awesome-Hacking,25,94278,2016-03-30T15:47:10Z,2025-07-01T07:15:01Z,Creative Commons Zero v1.0 Universal,
+tauri,tauri-apps,Rust,94082,2922,https://github.com/tauri-apps/tauri,1146,94082,2019-07-13T09:09:37Z,2025-07-01T08:13:48Z,Apache License 2.0,https://tauri.app
+clean-code-javascript,ryanmcdermott,JavaScript,93150,12443,https://github.com/ryanmcdermott/clean-code-javascript,109,93150,2016-11-25T22:25:41Z,2025-07-01T08:14:07Z,MIT License,
+thefuck,nvbn,Python,92614,3720,https://github.com/nvbn/thefuck,383,92614,2015-04-08T15:08:04Z,2025-07-01T07:49:43Z,MIT License,
+java-design-patterns,iluwatar,Java,92149,27062,https://github.com/iluwatar/java-design-patterns,148,92149,2014-08-09T16:45:18Z,2025-07-01T03:56:52Z,Other,https://java-design-patterns.com
+rustdesk,rustdesk,Rust,91806,13316,https://github.com/rustdesk/rustdesk,64,91806,2020-09-28T15:36:08Z,2025-07-01T08:12:25Z,GNU Affero General Public License v3.0,https://rustdesk.com
+pytorch,pytorch,Python,91137,24556,https://github.com/pytorch/pytorch,16545,91137,2016-08-13T05:26:41Z,2025-07-01T07:27:18Z,Other,https://pytorch.org
+puppeteer,puppeteer,TypeScript,91036,9221,https://github.com/puppeteer/puppeteer,272,91036,2017-05-09T22:16:13Z,2025-07-01T07:07:36Z,Apache License 2.0,https://pptr.dev
+neovim,neovim,Vim Script,90715,6150,https://github.com/neovim/neovim,1963,90715,2014-01-31T13:39:22Z,2025-07-01T08:15:17Z,Other,https://neovim.io
+HowToCook,Anduin2017,Dockerfile,90485,10319,https://github.com/Anduin2017/HowToCook,435,90485,2020-02-29T10:43:49Z,2025-07-01T08:12:35Z,The Unlicense,https://cook.aiursoft.cn
+DeepSeek-R1,deepseek-ai,,90327,11657,https://github.com/deepseek-ai/DeepSeek-R1,89,90327,2025-01-20T11:57:28Z,2025-07-01T07:13:28Z,MIT License,
+ui,shadcn-ui,TypeScript,90023,6213,https://github.com/shadcn-ui/ui,1735,90023,2023-01-04T12:43:27Z,2025-07-01T08:06:32Z,MIT License,https://ui.shadcn.com
+Web-Dev-For-Beginners,microsoft,JavaScript,89946,13579,https://github.com/microsoft/Web-Dev-For-Beginners,146,89946,2020-11-10T02:44:00Z,2025-07-01T08:08:49Z,MIT License,https://microsoft.github.io/Web-Dev-For-Beginners/
+vue-element-admin,PanJiaChen,Vue,89567,30623,https://github.com/PanJiaChen/vue-element-admin,1362,89567,2017-04-17T03:35:49Z,2025-07-01T07:33:23Z,MIT License,
+tailwindcss,tailwindlabs,TypeScript,88692,4606,https://github.com/tailwindlabs/tailwindcss,85,88692,2017-10-06T14:59:14Z,2025-07-01T08:10:28Z,MIT License,https://tailwindcss.com/
+every-programmer-should-know,mtdvio,,87416,8036,https://github.com/mtdvio/every-programmer-should-know,55,87416,2017-08-24T13:18:26Z,2025-07-01T06:44:00Z,Creative Commons Attribution 4.0 International,
+generative-ai-for-beginners,microsoft,Jupyter Notebook,87186,45731,https://github.com/microsoft/generative-ai-for-beginners,16,87186,2023-06-19T16:28:59Z,2025-07-01T08:16:14Z,MIT License,https://microsoft.github.io/generative-ai-for-beginners/
+storybook,storybookjs,TypeScript,87096,9595,https://github.com/storybookjs/storybook,2149,87096,2016-03-18T04:23:44Z,2025-07-01T08:10:33Z,MIT License,https://storybook.js.org
+fastapi,fastapi,Python,86789,7544,https://github.com/fastapi/fastapi,335,86789,2018-12-08T08:21:47Z,2025-07-01T07:46:43Z,MIT License,https://fastapi.tiangolo.com/
+nvm,nvm-sh,Shell,85542,8978,https://github.com/nvm-sh/nvm,355,85542,2010-04-15T17:47:47Z,2025-07-01T07:56:19Z,MIT License,
+supabase,supabase,TypeScript,85098,9072,https://github.com/supabase/supabase,707,85098,2019-10-12T05:56:49Z,2025-07-01T08:11:27Z,Apache License 2.0,https://supabase.com
+bitcoin,bitcoin,C++,84370,37450,https://github.com/bitcoin/bitcoin,754,84370,2010-12-19T15:16:43Z,2025-07-01T08:06:58Z,MIT License,https://bitcoincore.org/en/download
+awesome-mac,jaywcjlove,JavaScript,84282,6574,https://github.com/jaywcjlove/awesome-mac,156,84282,2016-07-17T15:33:47Z,2025-07-01T07:01:34Z,Creative Commons Zero v1.0 Universal,https://git.io/macx
+whisper,openai,Python,84180,10248,https://github.com/openai/whisper,83,84180,2022-09-16T20:02:54Z,2025-07-01T08:12:55Z,MIT License,
+django,django,Python,84062,32698,https://github.com/django/django,352,84062,2012-04-28T02:47:18Z,2025-07-01T07:57:40Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://www.djangoproject.com/
+NextChat,ChatGPTNextWeb,TypeScript,83981,61078,https://github.com/ChatGPTNextWeb/NextChat,740,83981,2023-03-10T18:27:54Z,2025-07-01T07:42:49Z,MIT License,https://nextchat.club/download
+app-ideas,florinpop17,,83850,9726,https://github.com/florinpop17/app-ideas,475,83850,2019-02-25T18:36:56Z,2025-07-01T06:52:54Z,MIT License,https://iCodeThis.com/?ref=app-ideas
+svelte,sveltejs,JavaScript,83260,4559,https://github.com/sveltejs/svelte,812,83260,2016-11-20T18:13:05Z,2025-07-01T03:39:13Z,MIT License,https://svelte.dev
+gin,gin-gonic,Go,82953,8246,https://github.com/gin-gonic/gin,854,82953,2014-06-16T23:57:25Z,2025-07-01T08:05:29Z,MIT License,https://gin-gonic.com/
+opencv,opencv,C++,82840,56210,https://github.com/opencv/opencv,2728,82840,2012-07-19T09:40:17Z,2025-07-01T08:09:06Z,Apache License 2.0,https://opencv.org
+llama.cpp,ggml-org,C++,82411,12224,https://github.com/ggml-org/llama.cpp,788,82411,2023-03-10T18:58:00Z,2025-07-01T08:15:38Z,MIT License,
+v2rayN,2dust,C#,82259,12859,https://github.com/2dust/v2rayN,9,82259,2019-07-30T03:47:24Z,2025-07-01T07:49:45Z,GNU General Public License v3.0,https://v2rayn.2dust.link
+hugo,gohugoio,Go,81892,7919,https://github.com/gohugoio/hugo,468,81892,2013-07-04T15:26:26Z,2025-07-01T08:01:06Z,Apache License 2.0,https://gohugo.io
+animate.css,animate-css,CSS,81858,16192,https://github.com/animate-css/animate.css,59,81858,2011-10-12T10:07:38Z,2025-07-01T07:47:15Z,Other,https://animate.style/
+realworld,gothinkster,Python,81790,7452,https://github.com/gothinkster/realworld,69,81790,2016-02-26T20:49:53Z,2025-07-01T02:09:04Z,MIT License,https://realworld-docs.netlify.app/
+laravel,laravel,Blade,81365,24405,https://github.com/laravel/laravel,31,81365,2011-06-08T03:06:08Z,2025-07-01T03:51:09Z,,https://laravel.com
+ComfyUI,comfyanonymous,Python,81221,9002,https://github.com/comfyanonymous/ComfyUI,2558,81221,2023-01-17T03:15:56Z,2025-07-01T08:15:31Z,GNU General Public License v3.0,https://www.comfy.org/
+mermaid,mermaid-js,TypeScript,80857,7724,https://github.com/mermaid-js/mermaid,1399,80857,2014-11-01T23:52:32Z,2025-07-01T07:21:43Z,MIT License,https://mermaid.js.org
+mall,macrozheng,Java,80851,29350,https://github.com/macrozheng/mall,16,80851,2018-04-04T01:11:44Z,2025-07-01T07:34:21Z,Apache License 2.0,https://www.macrozheng.com/admin/
+langflow,langflow-ai,Python,80318,6965,https://github.com/langflow-ai/langflow,778,80318,2023-02-08T22:28:03Z,2025-07-01T08:13:46Z,MIT License,http://www.langflow.org
+core,home-assistant,Python,79892,34189,https://github.com/home-assistant/core,3077,79892,2013-09-17T07:29:48Z,2025-07-01T08:15:54Z,Apache License 2.0,https://www.home-assistant.io
+FiraCode,tonsky,Clojure,79312,3150,https://github.com/tonsky/FiraCode,414,79312,2014-11-11T19:32:38Z,2025-07-01T08:13:45Z,SIL Open Font License 1.1,
+bun,oven-sh,Zig,78862,3175,https://github.com/oven-sh/bun,4935,78862,2021-04-14T00:48:17Z,2025-07-01T08:11:35Z,Other,https://bun.sh
+manim,3b1b,Python,78600,6769,https://github.com/3b1b/manim,449,78600,2015-03-22T18:50:58Z,2025-07-01T07:57:17Z,MIT License,
+advanced-java,doocs,Java,77895,19231,https://github.com/doocs/advanced-java,1,77895,2018-10-06T11:38:30Z,2025-07-01T07:03:45Z,Creative Commons Attribution Share Alike 4.0 International,https://java.doocs.org
+spring-boot,spring-projects,Java,77602,41255,https://github.com/spring-projects/spring-boot,664,77602,2012-10-19T15:02:57Z,2025-07-01T06:50:32Z,Apache License 2.0,https://spring.io/projects/spring-boot
+models,tensorflow,Python,77602,45568,https://github.com/tensorflow/models,1257,77602,2016-02-05T01:15:20Z,2025-07-01T03:29:42Z,Other,
+devops-exercises,bregman-arie,Python,76972,17276,https://github.com/bregman-arie/devops-exercises,44,76972,2019-10-03T17:31:21Z,2025-07-01T07:45:12Z,Other,
+LeetCodeAnimation,MisterBooo,Java,76239,14012,https://github.com/MisterBooo/LeetCodeAnimation,22,76239,2018-12-06T08:01:22Z,2025-07-01T03:40:09Z,,
+awesome-interview-questions,DopplerHQ,,75639,9113,https://github.com/DopplerHQ/awesome-interview-questions,50,75639,2015-11-28T09:48:17Z,2025-07-01T08:13:46Z,,https://doppler.com
+Font-Awesome,FortAwesome,JavaScript,75395,12217,https://github.com/FortAwesome/Font-Awesome,4131,75395,2012-02-17T14:19:43Z,2025-07-01T06:09:34Z,Other,https://fontawesome.com
+awesome-for-beginners,MunGell,,75059,7282,https://github.com/MunGell/awesome-for-beginners,15,75059,2015-10-24T19:53:36Z,2025-07-01T07:24:38Z,,
+netdata,netdata,C,74936,6075,https://github.com/netdata/netdata,231,74936,2013-06-17T18:39:10Z,2025-07-01T08:04:01Z,GNU General Public License v3.0,https://www.netdata.cloud
+json-server,typicode,JavaScript,74533,7186,https://github.com/typicode/json-server,717,74533,2013-11-27T13:21:13Z,2025-07-01T06:39:56Z,Other,
+funNLP,fighting41love,Python,74468,14900,https://github.com/fighting41love/funNLP,39,74468,2018-08-21T11:20:39Z,2025-07-01T08:06:40Z,,https://zhuanlan.zhihu.com/yangyangfuture
+playwright,microsoft,TypeScript,74263,4292,https://github.com/microsoft/playwright,851,74263,2019-11-15T18:32:42Z,2025-07-01T08:15:20Z,Apache License 2.0,https://playwright.dev
+github-readme-stats,anuraghazra,JavaScript,74111,25175,https://github.com/anuraghazra/github-readme-stats,426,74111,2020-07-09T10:34:22Z,2025-07-01T07:28:31Z,MIT License,https://github-readme-stats.vercel.app
+vite,vitejs,TypeScript,73889,6895,https://github.com/vitejs/vite,632,73889,2020-04-21T05:03:57Z,2025-07-01T08:01:00Z,MIT License,http://vite.dev
+gpt4all,nomic-ai,C++,73721,8056,https://github.com/nomic-ai/gpt4all,719,73721,2023-03-27T18:49:32Z,2025-07-01T07:02:20Z,MIT License,https://nomic.ai/gpt4all
+system-design-101,ByteByteGoHq,,73653,7871,https://github.com/ByteByteGoHq/system-design-101,47,73653,2023-09-18T20:52:03Z,2025-07-01T08:11:52Z,Other,https://bytebytego.com/guides
+ML-For-Beginners,microsoft,HTML,73367,16114,https://github.com/microsoft/ML-For-Beginners,15,73367,2021-03-03T01:34:05Z,2025-07-01T07:26:48Z,MIT License,https://microsoft.github.io/ML-For-Beginners/
+syncthing,syncthing,Go,73178,4646,https://github.com/syncthing/syncthing,339,73178,2013-11-26T09:48:21Z,2025-07-01T07:40:41Z,Mozilla Public License 2.0,https://syncthing.net/
+elasticsearch,elastic,Java,73088,25310,https://github.com/elastic/elasticsearch,5242,73088,2010-02-08T13:20:56Z,2025-07-01T07:17:56Z,Other,https://www.elastic.co/products/elasticsearch
+awesome-vue,vuejs,,73034,9473,https://github.com/vuejs/awesome-vue,58,73034,2015-10-20T00:16:14Z,2025-07-01T08:13:46Z,MIT License,
+hoppscotch,hoppscotch,TypeScript,72586,5018,https://github.com/hoppscotch/hoppscotch,528,72586,2019-08-21T13:15:24Z,2025-07-01T07:46:05Z,MIT License,https://hoppscotch.io
+code-server,coder,TypeScript,72501,6062,https://github.com/coder/code-server,136,72501,2019-02-27T16:50:41Z,2025-07-01T07:35:52Z,MIT License,https://coder.com
+nest,nestjs,TypeScript,71586,7934,https://github.com/nestjs/nest,73,71586,2017-02-04T20:12:52Z,2025-07-01T08:16:00Z,MIT License,https://nestjs.com
+Deep-Live-Cam,hacksider,Python,71437,10214,https://github.com/hacksider/Deep-Live-Cam,112,71437,2023-09-24T13:19:31Z,2025-07-01T08:12:50Z,GNU Affero General Public License v3.0,https://deeplivecam.net/
+fzf,junegunn,Go,71426,2533,https://github.com/junegunn/fzf,291,71426,2013-10-23T16:04:23Z,2025-07-01T07:56:37Z,MIT License,https://junegunn.github.io/fzf/
+uptime-kuma,louislam,JavaScript,71366,6305,https://github.com/louislam/uptime-kuma,782,71366,2021-07-03T01:02:42Z,2025-07-01T07:38:17Z,MIT License,https://uptime.kuma.pet
+stable-diffusion,CompVis,Jupyter Notebook,71039,10468,https://github.com/CompVis/stable-diffusion,605,71039,2022-08-10T14:36:44Z,2025-07-01T05:50:18Z,Other,https://ommer-lab.com/research/latent-diffusion-models/
+Best-websites-a-programmer-should-visit,sdmg15,,70726,8243,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,923,70726,2017-03-05T20:25:17Z,2025-07-01T08:13:27Z,MIT License,
+Front-End-Checklist,thedaviddias,,70302,6506,https://github.com/thedaviddias/Front-End-Checklist,1,70302,2017-10-16T10:12:36Z,2025-06-30T23:58:50Z,Creative Commons Zero v1.0 Universal,https://frontendchecklist.io
+d2l-zh,d2l-ai,Python,70289,11700,https://github.com/d2l-ai/d2l-zh,109,70289,2017-08-23T04:40:24Z,2025-07-01T08:16:06Z,Apache License 2.0,http://zh.d2l.ai
+screenshot-to-code,abi,Python,70283,8678,https://github.com/abi/screenshot-to-code,123,70283,2023-11-14T17:53:32Z,2025-07-01T06:52:02Z,MIT License,https://screenshottocode.com
+moby,moby,Go,70010,18778,https://github.com/moby/moby,3599,70010,2013-01-18T18:10:57Z,2025-07-01T07:21:05Z,Apache License 2.0,https://mobyproject.org/
+weekly,ruanyf,,69993,3481,https://github.com/ruanyf/weekly,5697,69993,2018-10-13T12:36:07Z,2025-07-01T08:09:27Z,,
+union,unionlabs,Rust,69932,3445,https://github.com/unionlabs/union,299,69932,2023-05-16T22:33:39Z,2025-07-01T08:04:18Z,Apache License 2.0,https://union.build
+flask,pallets,Python,69860,16485,https://github.com/pallets/flask,11,69860,2010-04-06T11:11:59Z,2025-07-01T04:32:34Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://flask.palletsprojects.com
+redis,redis,C,69831,24099,https://github.com/redis/redis,2620,69831,2009-03-21T22:32:25Z,2025-07-01T07:28:38Z,Other,http://redis.io
+immich,immich-app,TypeScript,69445,3645,https://github.com/immich-app/immich,562,69445,2022-02-03T15:56:27Z,2025-07-01T07:58:07Z,GNU Affero General Public License v3.0,https://immich.app
+cs-video-courses,Developer-Y,,69219,9332,https://github.com/Developer-Y/cs-video-courses,2,69219,2016-10-21T17:02:11Z,2025-07-01T04:59:12Z,,
+reveal.js,hakimel,JavaScript,69082,16734,https://github.com/hakimel/reveal.js,854,69082,2011-06-07T18:54:22Z,2025-07-01T07:14:51Z,MIT License,https://revealjs.com
+Ventoy,ventoy,C,68939,4383,https://github.com/ventoy/Ventoy,987,68939,2020-03-10T15:19:19Z,2025-07-01T08:13:04Z,GNU General Public License v3.0,https://www.ventoy.net
+gpt_academic,binary-husky,Python,68857,8359,https://github.com/binary-husky/gpt_academic,280,68857,2023-03-20T09:05:13Z,2025-07-01T06:36:29Z,GNU General Public License v3.0,https://github.com/binary-husky/gpt_academic/wiki/online
+swift,swiftlang,C++,68776,10494,https://github.com/swiftlang/swift,8368,68776,2015-10-23T21:15:07Z,2025-07-01T07:36:03Z,Apache License 2.0,https://swift.org
+awesome-machine-learning,josephmisiti,Python,68726,14986,https://github.com/josephmisiti/awesome-machine-learning,0,68726,2014-07-15T19:11:19Z,2025-07-01T04:32:56Z,Other,
+grafana,grafana,TypeScript,68726,12734,https://github.com/grafana/grafana,3778,68726,2013-12-11T15:59:56Z,2025-07-01T07:58:50Z,GNU Affero General Public License v3.0,https://grafana.com
+awesome-react,enaqx,,68713,7372,https://github.com/enaqx/awesome-react,30,68713,2014-08-06T05:31:44Z,2025-07-01T08:16:24Z,,
+node,base,Shell,68469,2719,https://github.com/base/node,67,68469,2023-02-01T13:55:02Z,2025-06-30T22:14:57Z,MIT License,https://base.org
+protobuf,protocolbuffers,C++,67887,15755,https://github.com/protocolbuffers/protobuf,389,67887,2014-08-26T15:52:15Z,2025-07-01T08:06:59Z,Other,http://protobuf.dev
+tesseract,tesseract-ocr,C++,67871,9991,https://github.com/tesseract-ocr/tesseract,444,67871,2014-08-12T18:04:59Z,2025-07-01T07:51:13Z,Apache License 2.0,https://tesseract-ocr.github.io/
+cpython,python,Python,67697,32231,https://github.com/python/cpython,9223,67697,2017-02-10T19:23:51Z,2025-07-01T07:28:49Z,Other,https://www.python.org
+express,expressjs,JavaScript,67255,19229,https://github.com/expressjs/express,203,67255,2009-06-26T18:56:01Z,2025-07-01T08:10:18Z,MIT License,https://expressjs.com
+strapi,strapi,TypeScript,67200,8661,https://github.com/strapi/strapi,1157,67200,2015-09-30T15:34:48Z,2025-07-01T07:42:13Z,Other,https://strapi.io
+superset,apache,TypeScript,66854,15246,https://github.com/apache/superset,828,66854,2015-07-21T18:55:34Z,2025-07-01T07:53:33Z,Apache License 2.0,https://superset.apache.org/
+PayloadsAllTheThings,swisskyrepo,Python,66834,15527,https://github.com/swisskyrepo/PayloadsAllTheThings,20,66834,2016-10-18T07:29:07Z,2025-07-01T08:13:27Z,MIT License,https://swisskyrepo.github.io/PayloadsAllTheThings/
+imgui,ocornut,C++,66545,10992,https://github.com/ocornut/imgui,1162,66545,2014-07-21T14:29:47Z,2025-07-01T07:44:59Z,MIT License,
+sherlock,sherlock-project,Python,66389,7628,https://github.com/sherlock-project/sherlock,226,66389,2018-12-24T14:30:48Z,2025-07-01T07:23:20Z,MIT License,https://sherlockproject.xyz
+Chart.js,chartjs,JavaScript,66134,11952,https://github.com/chartjs/Chart.js,483,66134,2013-03-17T23:56:36Z,2025-06-30T20:29:46Z,MIT License,https://www.chartjs.org/
+ansible,ansible,Python,65494,24037,https://github.com/ansible/ansible,816,65494,2012-03-06T14:58:02Z,2025-07-01T07:39:02Z,GNU General Public License v3.0,https://www.ansible.com/
+webpack,webpack,JavaScript,65417,9079,https://github.com/webpack/webpack,244,65417,2012-03-10T10:08:14Z,2025-07-01T07:03:43Z,MIT License,https://webpack.js.org
+33-js-concepts,leonardomso,JavaScript,65311,9101,https://github.com/leonardomso/33-js-concepts,81,65311,2018-09-04T13:27:04Z,2025-07-01T04:42:47Z,MIT License,
+obs-studio,obsproject,C,65264,8510,https://github.com/obsproject/obs-studio,957,65264,2013-10-01T02:40:31Z,2025-07-01T08:06:44Z,GNU General Public License v2.0,https://obsproject.com
+caddy,caddyserver,Go,65236,4373,https://github.com/caddyserver/caddy,216,65236,2015-01-13T19:45:03Z,2025-07-01T08:13:46Z,Apache License 2.0,https://caddyserver.com
+openai-cookbook,openai,MDX,65003,10767,https://github.com/openai/openai-cookbook,45,65003,2022-03-11T02:08:53Z,2025-07-01T08:10:20Z,MIT License,https://cookbook.openai.com
+cs-self-learning,PKUFlyingPig,HTML,64910,7439,https://github.com/PKUFlyingPig/cs-self-learning,121,64910,2021-10-20T13:43:42Z,2025-07-01T08:10:37Z,MIT License,https://csdiy.wiki
+awesome-cpp,fffaraz,,64606,8014,https://github.com/fffaraz/awesome-cpp,418,64606,2014-07-17T08:51:11Z,2025-07-01T07:21:48Z,MIT License,http://fffaraz.github.io/awesome-cpp/
+new-pac,Alvin9999,Python,64567,10092,https://github.com/Alvin9999/new-pac,424,64567,2016-03-23T08:43:36Z,2025-07-01T08:16:06Z,,
+gpt4free,xtekky,Python,64536,13660,https://github.com/xtekky/gpt4free,14,64536,2023-03-29T17:00:43Z,2025-07-01T07:53:08Z,GNU General Public License v3.0,https://t.me/g4f_channel
+tabby,Eugeny,TypeScript,64514,3642,https://github.com/Eugeny/tabby,2325,64514,2016-12-23T09:06:10Z,2025-07-01T07:28:03Z,MIT License,https://tabby.sh
+browser-use,browser-use,Python,64421,7354,https://github.com/browser-use/browser-use,519,64421,2024-10-31T16:00:56Z,2025-07-01T08:09:38Z,MIT License,https://browser-use.com
+interviews,kdn251,Java,64264,12942,https://github.com/kdn251/interviews,112,64264,2017-02-14T18:19:25Z,2025-07-01T06:27:51Z,MIT License,https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g?view_as=subscriber
+AppFlowy,AppFlowy-IO,Dart,64175,4399,https://github.com/AppFlowy-IO/AppFlowy,955,64175,2021-06-16T12:56:48Z,2025-07-01T08:02:30Z,GNU Affero General Public License v3.0,https://appflowy.com
+javascript-questions,lydiahallie,,64082,9105,https://github.com/lydiahallie/javascript-questions,44,64082,2019-06-12T08:26:27Z,2025-06-30T22:11:48Z,MIT License,
+act,nektos,Go,64029,1671,https://github.com/nektos/act,237,64029,2019-01-02T19:53:43Z,2025-07-01T08:01:28Z,MIT License,https://nektosact.com
+echarts,apache,TypeScript,63864,19749,https://github.com/apache/echarts,2024,63864,2013-04-03T03:18:59Z,2025-07-01T08:03:18Z,Apache License 2.0,https://echarts.apache.org
+SecLists,danielmiessler,PHP,63820,24438,https://github.com/danielmiessler/SecLists,7,63820,2012-02-19T01:30:18Z,2025-07-01T08:12:20Z,MIT License,https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project
+localsend,localsend,Dart,63718,3395,https://github.com/localsend/localsend,732,63718,2022-12-16T00:46:07Z,2025-07-01T07:48:13Z,Apache License 2.0,https://localsend.org
+clash-verge-rev,clash-verge-rev,TypeScript,63670,4850,https://github.com/clash-verge-rev/clash-verge-rev,69,63670,2023-11-21T18:24:03Z,2025-07-01T08:16:26Z,GNU General Public License v3.0,https://www.clashverge.dev
+system-prompts-and-models-of-ai-tools,x1xhlol,,63610,18619,https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools,49,63610,2025-03-05T16:38:29Z,2025-07-01T08:14:31Z,GNU General Public License v3.0,
+awesome-public-datasets,awesomedata,,63531,10145,https://github.com/awesomedata/awesome-public-datasets,129,63531,2014-11-20T06:20:50Z,2025-07-01T08:01:45Z,MIT License,https://awesomedataworld.slack.com
+nocode,kelseyhightower,Dockerfile,63410,4764,https://github.com/kelseyhightower/nocode,4572,63410,2018-02-06T23:54:00Z,2025-07-01T01:19:12Z,Apache License 2.0,
+the-algorithm,twitter,Scala,63351,12149,https://github.com/twitter/the-algorithm,460,63351,2023-03-27T14:57:57Z,2025-07-01T02:27:47Z,GNU Affero General Public License v3.0,https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm
+keras,keras-team,Python,63164,19586,https://github.com/keras-team/keras,299,63164,2015-03-28T00:35:42Z,2025-07-01T00:12:09Z,Apache License 2.0,http://keras.io/
+awesome-scalability,binhnguyennus,,62992,6439,https://github.com/binhnguyennus/awesome-scalability,15,62992,2017-12-27T03:46:40Z,2025-07-01T03:48:01Z,MIT License,
+lobe-chat,lobehub,TypeScript,62973,13094,https://github.com/lobehub/lobe-chat,891,62973,2023-05-21T07:19:12Z,2025-07-01T08:10:25Z,Other,https://lobechat.com
+Stirling-PDF,Stirling-Tools,Java,62846,5318,https://github.com/Stirling-Tools/Stirling-PDF,315,62846,2023-01-27T18:22:42Z,2025-07-01T07:50:31Z,Other,https://stirlingpdf.com
+resume.github.com,resume,JavaScript,62520,1356,https://github.com/resume/resume.github.com,66,62520,2011-02-06T13:39:55Z,2025-06-30T23:03:25Z,,https://resume.github.com
+scikit-learn,scikit-learn,Python,62498,26001,https://github.com/scikit-learn/scikit-learn,2191,62498,2010-08-17T09:43:38Z,2025-07-01T08:13:05Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://scikit-learn.org
+FreeDomain,DigitalPlatDev,HTML,62439,1202,https://github.com/DigitalPlatDev/FreeDomain,8,62439,2024-05-30T13:23:00Z,2025-07-01T08:16:12Z,GNU Affero General Public License v3.0,https://domain.digitalplat.org
+sway,FuelLabs,Rust,62213,5406,https://github.com/FuelLabs/sway,879,62213,2021-01-19T20:54:33Z,2025-07-01T07:28:19Z,Apache License 2.0,https://docs.fuel.network/docs/sway/
+Java,TheAlgorithms,Java,62182,20031,https://github.com/TheAlgorithms/Java,13,62182,2016-07-16T10:21:02Z,2025-07-01T07:05:16Z,MIT License,
+socket.io,socketio,TypeScript,62177,10135,https://github.com/socketio/socket.io,205,62177,2010-03-11T18:24:48Z,2025-07-01T05:58:27Z,MIT License,https://socket.io
+Apollo-11,chrislgarry,Assembly,62148,7228,https://github.com/chrislgarry/Apollo-11,128,62148,2014-04-03T15:45:02Z,2025-06-30T21:08:06Z,Other,
+zed,zed-industries,Rust,62029,4618,https://github.com/zed-industries/zed,2651,62029,2021-02-20T03:01:06Z,2025-07-01T08:14:29Z,Other,https://zed.dev
+anime,juliangarnier,JavaScript,61975,4142,https://github.com/juliangarnier/anime,100,61975,2016-03-13T21:37:45Z,2025-07-01T07:47:12Z,MIT License,https://animejs.com
+design-resources-for-developers,bradtraversy,,61928,11760,https://github.com/bradtraversy/design-resources-for-developers,1,61928,2020-05-06T14:40:35Z,2025-07-01T07:56:28Z,MIT License,
+awesome-nodejs,sindresorhus,,61566,6038,https://github.com/sindresorhus/awesome-nodejs,29,61566,2014-07-11T13:35:34Z,2025-07-01T08:13:45Z,Creative Commons Zero v1.0 Universal,https://node.cool
+annotated_deep_learning_paper_implementations,labmlai,Python,61531,6221,https://github.com/labmlai/annotated_deep_learning_paper_implementations,37,61531,2020-08-25T02:29:34Z,2025-07-01T07:08:06Z,MIT License,https://nn.labml.ai
+lazygit,jesseduffield,Go,61485,2104,https://github.com/jesseduffield/lazygit,761,61485,2018-05-19T00:53:06Z,2025-07-01T08:01:02Z,MIT License,
+redux,reduxjs,TypeScript,61256,15214,https://github.com/reduxjs/redux,43,61256,2015-05-29T23:53:15Z,2025-07-01T03:59:11Z,MIT License,https://redux.js.org
+awesome-courses,prakhar1989,,61252,8215,https://github.com/prakhar1989/awesome-courses,55,61252,2014-11-15T18:36:49Z,2025-07-01T06:04:03Z,,
+lodash,lodash,JavaScript,60704,7066,https://github.com/lodash/lodash,111,60704,2012-04-07T04:11:46Z,2025-07-01T07:21:47Z,Other,https://lodash.com/
+docusaurus,facebook,TypeScript,60566,9199,https://github.com/facebook/docusaurus,363,60566,2017-06-20T16:13:53Z,2025-07-01T06:35:58Z,MIT License,https://docusaurus.io
+atom,atom,JavaScript,60532,17312,https://github.com/atom/atom,993,60532,2012-01-20T18:18:21Z,2025-07-01T05:36:25Z,MIT License,https://atom.io
+Front-end-Developer-Interview-Questions,h5bp,Nunjucks,60387,11102,https://github.com/h5bp/Front-end-Developer-Interview-Questions,42,60387,2012-02-09T23:34:10Z,2025-07-01T06:36:30Z,MIT License,https://h5bp.org/Front-end-Developer-Interview-Questions/
+architect-awesome,xingshaocheng,,60282,17808,https://github.com/xingshaocheng/architect-awesome,66,60282,2018-04-06T13:30:58Z,2025-07-01T06:09:32Z,,
+markdown-here,adam-p,JavaScript,59945,11201,https://github.com/adam-p/markdown-here,320,59945,2012-05-13T03:27:22Z,2025-07-01T03:37:21Z,MIT License,https://markdown-here.com
+uv,astral-sh,Rust,59857,1705,https://github.com/astral-sh/uv,1940,59857,2023-10-02T20:24:11Z,2025-07-01T08:14:43Z,Apache License 2.0,https://docs.astral.sh/uv
+open-interpreter,OpenInterpreter,Python,59814,5091,https://github.com/OpenInterpreter/open-interpreter,269,59814,2023-07-14T07:10:44Z,2025-07-01T05:12:11Z,GNU Affero General Public License v3.0,http://openinterpreter.com/
+markitdown,microsoft,Python,59690,3113,https://github.com/microsoft/markitdown,281,59690,2024-11-13T19:56:40Z,2025-07-01T07:58:08Z,MIT License,
+OpenHands,All-Hands-AI,Python,59620,6944,https://github.com/All-Hands-AI/OpenHands,390,59620,2024-03-13T03:33:31Z,2025-07-01T07:49:37Z,MIT License,https://all-hands.dev
+jquery,jquery,JavaScript,59545,20580,https://github.com/jquery/jquery,97,59545,2009-04-03T15:20:14Z,2025-07-01T03:05:16Z,MIT License,https://jquery.com
+localstack,localstack,Python,59436,4176,https://github.com/localstack/localstack,312,59436,2016-10-25T23:48:03Z,2025-07-01T06:36:09Z,Other,https://localstack.cloud
+alacritty,alacritty,Rust,59337,3132,https://github.com/alacritty/alacritty,333,59337,2016-02-18T05:02:30Z,2025-07-01T07:28:29Z,Apache License 2.0,https://alacritty.org
+prometheus,prometheus,Go,59238,9625,https://github.com/prometheus/prometheus,733,59238,2012-11-24T11:14:12Z,2025-07-01T07:34:05Z,Apache License 2.0,https://prometheus.io/
+rustlings,rust-lang,Rust,59001,10679,https://github.com/rust-lang/rustlings,68,59001,2015-09-15T02:25:18Z,2025-07-01T06:51:27Z,MIT License,https://rustlings.rust-lang.org
+shadowsocks-windows,shadowsocks,C#,58880,16363,https://github.com/shadowsocks/shadowsocks-windows,195,58880,2013-01-14T07:54:16Z,2025-07-01T06:57:00Z,Other,
+awesome-mcp-servers,punkpeye,,58834,4539,https://github.com/punkpeye/awesome-mcp-servers,43,58834,2024-11-30T04:49:10Z,2025-07-01T08:15:06Z,MIT License,https://glama.ai/mcp/servers
+angular.js,angular,JavaScript,58767,27368,https://github.com/angular/angular.js,463,58767,2010-01-06T00:34:37Z,2025-07-01T02:29:36Z,MIT License,https://angularjs.org
+Prompt-Engineering-Guide,dair-ai,MDX,58710,5857,https://github.com/dair-ai/Prompt-Engineering-Guide,215,58710,2022-12-16T16:04:50Z,2025-07-01T07:39:38Z,MIT License,https://www.promptingguide.ai/
+ragflow,infiniflow,Python,58643,5801,https://github.com/infiniflow/ragflow,2350,58643,2023-12-12T06:13:13Z,2025-07-01T08:15:55Z,Apache License 2.0,https://ragflow.io
+nerd-fonts,ryanoasis,CSS,58468,3760,https://github.com/ryanoasis/nerd-fonts,21,58468,2014-12-05T04:31:17Z,2025-07-01T07:47:12Z,Other,https://NerdFonts.com
+llama,meta-llama,Python,58443,9779,https://github.com/meta-llama/llama,491,58443,2023-02-14T09:29:12Z,2025-07-01T06:23:51Z,Other,
+spring-framework,spring-projects,Java,58354,38556,https://github.com/spring-projects/spring-framework,306,58354,2010-12-08T04:04:45Z,2025-07-01T07:41:55Z,Apache License 2.0,https://spring.io/projects/spring-framework
+ghidra,NationalSecurityAgency,Java,58225,6508,https://github.com/NationalSecurityAgency/ghidra,1754,58225,2019-03-01T03:27:48Z,2025-07-01T08:11:56Z,Apache License 2.0,https://www.nsa.gov/ghidra
+LLMs-from-scratch,rasbt,Jupyter Notebook,57688,8015,https://github.com/rasbt/LLMs-from-scratch,2,57688,2023-07-23T18:15:57Z,2025-07-01T08:16:16Z,Other,https://amzn.to/4fqvn0D
+fuel-core,FuelLabs,Rust,57611,2849,https://github.com/FuelLabs/fuel-core,164,57611,2020-08-27T21:12:14Z,2025-06-30T13:33:17Z,Other,
+nuxt,nuxt,TypeScript,57445,5282,https://github.com/nuxt/nuxt,823,57445,2016-10-26T11:18:47Z,2025-07-01T06:30:55Z,MIT License,https://nuxt.com
+scrapy,scrapy,Python,57394,10944,https://github.com/scrapy/scrapy,656,57394,2010-02-22T02:01:14Z,2025-07-01T05:17:38Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://scrapy.org
+html5-boilerplate,h5bp,JavaScript,57031,12288,https://github.com/h5bp/html5-boilerplate,13,57031,2010-01-24T18:03:24Z,2025-07-01T05:24:35Z,MIT License,https://html5boilerplate.com/
+rails,rails,Ruby,57027,21856,https://github.com/rails/rails,1351,57027,2008-04-11T02:19:47Z,2025-07-01T08:14:43Z,MIT License,https://rubyonrails.org
+servers,modelcontextprotocol,Python,56985,6583,https://github.com/modelcontextprotocol/servers,472,56985,2024-11-19T01:10:17Z,2025-07-01T08:15:12Z,MIT License,https://modelcontextprotocol.io
+leetcode-master,youngyangyang04,Shell,56966,12050,https://github.com/youngyangyang04/leetcode-master,230,56966,2019-12-14T12:05:42Z,2025-07-01T07:55:22Z,,
+MetaGPT,FoundationAgents,Python,56882,6824,https://github.com/FoundationAgents/MetaGPT,70,56882,2023-06-30T09:04:55Z,2025-07-01T07:53:13Z,MIT License,https://mgx.dev/
+llm-course,mlabonne,,56528,6057,https://github.com/mlabonne/llm-course,64,56528,2023-06-17T22:16:25Z,2025-07-01T08:15:58Z,Apache License 2.0,https://mlabonne.github.io/blog/
+awesome-flutter,Solido,Dart,56320,6763,https://github.com/Solido/awesome-flutter,29,56320,2017-05-07T11:45:27Z,2025-07-01T08:10:41Z,,
+DeepLearning-500-questions,scutan90,JavaScript,56250,15967,https://github.com/scutan90/DeepLearning-500-questions,121,56250,2018-06-27T06:36:45Z,2025-07-01T06:01:40Z,GNU General Public License v3.0,https://github.com/scutan90/DeepLearning-500-questions
+tldr,tldr-pages,Markdown,56202,4544,https://github.com/tldr-pages/tldr,205,56202,2013-12-08T07:34:43Z,2025-07-01T06:59:46Z,Other,https://tldr.sh
+private-gpt,zylon-ai,Python,56143,7528,https://github.com/zylon-ai/private-gpt,275,56143,2023-05-02T09:15:31Z,2025-07-01T08:04:07Z,Apache License 2.0,https://privategpt.dev
+gatsby,gatsbyjs,JavaScript,55897,10293,https://github.com/gatsbyjs/gatsby,427,55897,2015-05-21T22:43:05Z,2025-07-01T03:33:44Z,MIT License,https://www.gatsbyjs.com
+you-get,soimort,Python,55790,9764,https://github.com/soimort/you-get,383,55790,2012-08-20T15:53:36Z,2025-07-01T05:31:55Z,Other,https://you-get.org/
+drawio-desktop,jgraph,JavaScript,55588,5339,https://github.com/jgraph/drawio-desktop,56,55588,2017-05-25T20:58:42Z,2025-07-01T07:27:19Z,Apache License 2.0,https://www.diagrams.net
+awesome-chatgpt-prompts-zh,PlexPt,,55538,13564,https://github.com/PlexPt/awesome-chatgpt-prompts-zh,41,55538,2022-12-12T01:55:03Z,2025-07-01T07:26:38Z,MIT License,https://chat.aimakex.com/
+nocodb,nocodb,TypeScript,55478,3983,https://github.com/nocodb/nocodb,713,55478,2017-10-29T18:51:48Z,2025-07-01T08:11:39Z,GNU Affero General Public License v3.0,https://nocodb.com
+git,git,C,55465,26371,https://github.com/git/git,244,55465,2008-07-23T14:21:26Z,2025-07-01T06:15:47Z,Other,
+leetcode,azl397985856,JavaScript,55455,9486,https://github.com/azl397985856/leetcode,11,55455,2018-03-30T09:13:51Z,2025-07-01T06:18:15Z,Other,https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/
+traefik,traefik,Go,55360,5383,https://github.com/traefik/traefik,647,55360,2015-09-13T19:04:02Z,2025-07-01T08:10:03Z,MIT License,https://traefik.io
+react-router,remix-run,TypeScript,55127,10651,https://github.com/remix-run/react-router,175,55127,2014-05-16T22:22:51Z,2025-07-01T06:54:36Z,MIT License,https://reactrouter.com
+face_recognition,ageitgey,Python,54986,13619,https://github.com/ageitgey/face_recognition,817,54986,2017-03-03T21:52:39Z,2025-07-01T06:50:02Z,MIT License,
+uBlock,gorhill,JavaScript,54825,3536,https://github.com/gorhill/uBlock,18,54825,2015-04-01T17:51:11Z,2025-07-01T06:35:39Z,GNU General Public License v3.0,
+Real-Time-Voice-Cloning,CorentinJ,Python,54605,9021,https://github.com/CorentinJ/Real-Time-Voice-Cloning,223,54605,2019-05-26T08:56:15Z,2025-07-01T08:01:06Z,Other,
+yolov5,ultralytics,Python,54413,17014,https://github.com/ultralytics/yolov5,277,54413,2020-05-18T03:45:11Z,2025-07-01T08:03:43Z,GNU Affero General Public License v3.0,https://docs.ultralytics.com
+gpt-engineer,AntonOsika,Python,54392,7186,https://github.com/AntonOsika/gpt-engineer,39,54392,2023-04-29T12:52:15Z,2025-07-01T04:46:47Z,MIT License,
+element,ElemeFE,Vue,54239,14622,https://github.com/ElemeFE/element,2930,54239,2016-09-03T06:19:26Z,2025-07-01T07:15:35Z,MIT License,https://element.eleme.io/
+openpilot,commaai,Python,54223,9856,https://github.com/commaai/openpilot,149,54223,2016-11-24T01:33:30Z,2025-07-01T03:34:51Z,MIT License,https://comma.ai/openpilot
+faceswap,deepfakes,Python,54182,13423,https://github.com/deepfakes/faceswap,38,54182,2017-12-19T09:44:13Z,2025-07-01T07:58:24Z,GNU General Public License v3.0,https://www.faceswap.dev
+mkcert,FiloSottile,Go,54110,2833,https://github.com/FiloSottile/mkcert,156,54110,2018-06-25T05:33:03Z,2025-07-01T07:20:02Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://mkcert.dev
+Magisk,topjohnwu,Kotlin,53998,14190,https://github.com/topjohnwu/Magisk,47,53998,2016-09-08T12:42:53Z,2025-07-01T04:33:22Z,GNU General Public License v3.0,
+ChatGPT,lencx,Rust,53881,6128,https://github.com/lencx/ChatGPT,840,53881,2022-12-07T09:43:02Z,2025-07-01T07:46:16Z,,https://nofwl.com
+minio,minio,Go,53449,5983,https://github.com/minio/minio,53,53449,2015-01-14T19:23:58Z,2025-07-01T07:57:54Z,GNU Affero General Public License v3.0,https://min.io/download?license=agpl&platform=linux
+ripgrep,BurntSushi,Rust,53410,2158,https://github.com/BurntSushi/ripgrep,194,53410,2016-03-11T02:02:33Z,2025-07-01T07:16:41Z,The Unlicense,
+normalize.css,necolas,CSS,53248,10557,https://github.com/necolas/normalize.css,86,53248,2011-05-04T10:20:25Z,2025-07-01T03:12:19Z,MIT License,http://necolas.github.io/normalize.css/
+LLaMA-Factory,hiyouga,Python,53247,6526,https://github.com/hiyouga/LLaMA-Factory,525,53247,2023-05-28T10:09:12Z,2025-07-01T08:10:39Z,Apache License 2.0,https://huggingface.co/papers/2403.13372
+zustand,pmndrs,TypeScript,53221,1721,https://github.com/pmndrs/zustand,5,53221,2019-04-09T09:10:06Z,2025-07-01T07:46:46Z,MIT License,https://zustand-demo.pmnd.rs/
+bat,sharkdp,Rust,53211,1308,https://github.com/sharkdp/bat,380,53211,2018-04-21T10:52:23Z,2025-07-01T05:11:39Z,Apache License 2.0,
+requests,psf,Python,52997,9494,https://github.com/psf/requests,266,52997,2011-02-13T18:38:17Z,2025-07-01T08:11:54Z,Apache License 2.0,https://requests.readthedocs.io/en/latest/
+awesome-android-ui,wasabeef,,52914,10219,https://github.com/wasabeef/awesome-android-ui,36,52914,2014-12-24T01:45:03Z,2025-07-01T07:55:23Z,MIT License,
+project-layout,golang-standards,Makefile,52908,5351,https://github.com/golang-standards/project-layout,94,52908,2017-09-09T16:33:26Z,2025-07-01T08:13:29Z,Other,
+hackingtool,Z4nzu,Python,52887,5698,https://github.com/Z4nzu/hackingtool,63,52887,2020-04-11T09:21:31Z,2025-07-01T06:07:50Z,MIT License,https://forms.gle/ntuAX8BGRR5yAb9ZA
+rich,Textualize,Python,52642,1852,https://github.com/Textualize/rich,270,52642,2019-11-10T15:28:09Z,2025-07-01T08:11:56Z,MIT License,https://rich.readthedocs.io/en/latest/
+pi-hole,pi-hole,Shell,52410,2842,https://github.com/pi-hole/pi-hole,52,52410,2014-06-08T15:02:55Z,2025-07-01T04:21:06Z,Other,https://pi-hole.net
+AFFiNE,toeverything,TypeScript,52134,3488,https://github.com/toeverything/AFFiNE,232,52134,2022-07-31T18:45:21Z,2025-07-01T08:14:20Z,Other,https://affine.pro
+meilisearch,meilisearch,Rust,52095,2086,https://github.com/meilisearch/meilisearch,248,52095,2018-04-23T11:45:28Z,2025-07-01T07:15:07Z,MIT License,https://www.meilisearch.com
+astro,withastro,TypeScript,51995,2801,https://github.com/withastro/astro,242,51995,2021-03-15T17:19:47Z,2025-07-01T08:13:49Z,Other,https://astro.build
+ionic-framework,ionic-team,TypeScript,51848,13451,https://github.com/ionic-team/ionic-framework,584,51848,2013-08-20T23:06:02Z,2025-06-30T20:22:18Z,MIT License,https://ionicframework.com
+material-design-icons,google,,51761,9663,https://github.com/google/material-design-icons,360,51761,2014-10-08T18:01:28Z,2025-07-01T07:44:55Z,Apache License 2.0,http://google.github.io/material-design-icons/
+appwrite,appwrite,TypeScript,51633,4539,https://github.com/appwrite/appwrite,801,51633,2019-04-08T16:36:25Z,2025-07-01T08:11:22Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://appwrite.io
+github-cheat-sheet,tiimgreen,,51315,5319,https://github.com/tiimgreen/github-cheat-sheet,39,51315,2014-04-12T16:38:42Z,2025-07-01T06:33:19Z,MIT License,http://git.io/sheet
+rclone,rclone,Go,51279,4591,https://github.com/rclone/rclone,1171,51279,2014-03-16T16:19:57Z,2025-07-01T07:40:31Z,MIT License,https://rclone.org
+dive,wagoodman,Go,51249,1883,https://github.com/wagoodman/dive,167,51249,2018-05-13T15:44:01Z,2025-07-01T06:42:19Z,MIT License,
+awesome-rust,rust-unofficial,Rust,51215,2956,https://github.com/rust-unofficial/awesome-rust,10,51215,2014-07-17T10:45:10Z,2025-07-01T04:35:41Z,Creative Commons Zero v1.0 Universal,
+Semantic-UI,Semantic-Org,JavaScript,51176,4923,https://github.com/Semantic-Org/Semantic-UI,1076,51176,2013-04-08T23:32:04Z,2025-07-01T05:20:00Z,MIT License,http://www.semantic-ui.com
+pdf.js,mozilla,JavaScript,51150,10356,https://github.com/mozilla/pdf.js,425,51150,2011-04-26T06:32:03Z,2025-07-01T07:16:16Z,Apache License 2.0,https://mozilla.github.io/pdf.js/
+vllm,vllm-project,Python,51115,8427,https://github.com/vllm-project/vllm,2641,51115,2023-02-09T11:23:20Z,2025-07-01T08:15:57Z,Apache License 2.0,https://docs.vllm.ai
+PaddleOCR,PaddlePaddle,Python,51095,8378,https://github.com/PaddlePaddle/PaddleOCR,208,51095,2020-05-08T10:38:16Z,2025-07-01T07:56:45Z,Apache License 2.0,https://paddlepaddle.github.io/PaddleOCR/
+FFmpeg,FFmpeg,C,50963,12768,https://github.com/FFmpeg/FFmpeg,3,50963,2011-04-14T14:12:38Z,2025-07-01T07:39:28Z,Other,https://ffmpeg.org/
+guava,google,Java,50903,11027,https://github.com/google/guava,715,50903,2014-05-29T16:23:17Z,2025-07-01T07:44:59Z,Apache License 2.0,
+kotlin,JetBrains,Kotlin,50845,5955,https://github.com/JetBrains/kotlin,190,50845,2012-02-13T17:29:58Z,2025-07-01T06:11:17Z,,https://kotlinlang.org
+Docker-OSX,sickcodes,Shell,50765,2827,https://github.com/sickcodes/Docker-OSX,402,50765,2020-06-04T11:01:37Z,2025-07-01T05:20:12Z,GNU General Public License v3.0,https://hub.docker.com/r/sickcodes/docker-osx
+core,vuejs,TypeScript,50689,8740,https://github.com/vuejs/core,1049,50689,2018-06-12T13:49:36Z,2025-07-01T08:13:48Z,MIT License,https://vuejs.org/
+segment-anything,facebookresearch,Jupyter Notebook,50654,5959,https://github.com/facebookresearch/segment-anything,580,50654,2023-03-23T17:03:03Z,2025-07-01T08:03:58Z,Apache License 2.0,
+prettier,prettier,JavaScript,50653,4524,https://github.com/prettier/prettier,1445,50653,2016-11-29T17:13:37Z,2025-07-01T08:05:56Z,MIT License,https://prettier.io
+trackerslist,ngosang,,50461,6656,https://github.com/ngosang/trackerslist,13,50461,2016-04-24T11:57:57Z,2025-07-01T07:21:37Z,GNU General Public License v2.0,https://ngosang.github.io/trackerslist/
+grok-1,xai-org,Python,50296,8353,https://github.com/xai-org/grok-1,120,50296,2024-03-17T08:53:38Z,2025-06-30T21:45:04Z,Apache License 2.0,
+jekyll,jekyll,Ruby,50275,10128,https://github.com/jekyll/jekyll,214,50275,2008-10-20T06:29:03Z,2025-07-01T07:12:04Z,MIT License,https://jekyllrb.com
+marktext,marktext,JavaScript,50227,3674,https://github.com/marktext/marktext,1301,50227,2017-11-12T16:05:25Z,2025-07-01T07:43:48Z,MIT License,https://www.marktext.cc/
+joplin,laurent22,TypeScript,50020,5378,https://github.com/laurent22/joplin,547,50020,2017-01-16T21:49:41Z,2025-07-01T07:40:49Z,Other,https://joplinapp.org
+DefinitelyTyped,DefinitelyTyped,TypeScript,49978,30428,https://github.com/DefinitelyTyped/DefinitelyTyped,736,49978,2012-10-05T16:39:45Z,2025-07-01T05:19:53Z,Other,
+powerlevel10k,romkatv,Shell,49888,2315,https://github.com/romkatv/powerlevel10k,120,49888,2019-02-24T19:09:45Z,2025-07-01T08:12:55Z,MIT License,
+bulma,jgthms,CSS,49830,3944,https://github.com/jgthms/bulma,498,49830,2016-01-23T23:48:34Z,2025-07-01T05:19:28Z,MIT License,https://bulma.io
+starship,starship,Rust,49731,2150,https://github.com/starship/starship,890,49731,2019-04-02T03:23:12Z,2025-07-01T08:10:55Z,ISC License,https://starship.rs
+etcd,etcd-io,Go,49727,10099,https://github.com/etcd-io/etcd,325,49727,2013-07-06T21:57:21Z,2025-07-01T05:33:24Z,Apache License 2.0,https://etcd.io
+chinese-poetry,chinese-poetry,JavaScript,49716,10051,https://github.com/chinese-poetry/chinese-poetry,125,49716,2016-09-02T03:32:25Z,2025-07-01T07:16:36Z,MIT License,https://awesome-poetry.top/
+ImHex,WerWolv,C++,49635,2177,https://github.com/WerWolv/ImHex,245,49635,2020-11-10T14:27:00Z,2025-07-01T06:38:02Z,GNU General Public License v2.0,https://imhex.werwolv.net
+Ghost,TryGhost,JavaScript,49634,10886,https://github.com/TryGhost/Ghost,154,49634,2013-05-04T11:09:13Z,2025-07-01T08:03:19Z,MIT License,https://ghost.org
+gitea,go-gitea,Go,49320,5886,https://github.com/go-gitea/gitea,2710,49320,2016-11-01T02:13:26Z,2025-07-01T08:13:46Z,MIT License,https://gitea.com
+awesome-ios,vsouza,Swift,49244,6910,https://github.com/vsouza/awesome-ios,9,49244,2014-07-10T16:03:45Z,2025-07-01T05:37:40Z,MIT License,http://awesomeios.dev
+go-ethereum,ethereum,Go,49218,20939,https://github.com/ethereum/go-ethereum,317,49218,2013-12-26T13:05:46Z,2025-07-01T07:18:56Z,GNU Lesser General Public License v3.0,https://geth.ethereum.org
+first-contributions,firstcontributions,,49128,87722,https://github.com/firstcontributions/first-contributions,135,49128,2016-09-20T14:35:09Z,2025-07-01T08:07:48Z,MIT License,https://firstcontributions.github.io
+hiring-without-whiteboards,poteto,JavaScript,48865,3792,https://github.com/poteto/hiring-without-whiteboards,23,48865,2017-03-15T05:09:01Z,2025-07-01T05:37:47Z,MIT License,
+cypress,cypress-io,TypeScript,48737,3305,https://github.com/cypress-io/cypress,1336,48737,2015-03-04T00:46:28Z,2025-07-01T00:28:26Z,MIT License,https://cypress.io
+alist,AlistGo,Go,48651,8020,https://github.com/AlistGo/alist,576,48651,2020-12-23T17:40:29Z,2025-07-01T08:02:21Z,GNU Affero General Public License v3.0,https://alistgo.com
+mastodon,mastodon,Ruby,48512,7206,https://github.com/mastodon/mastodon,4162,48512,2016-02-22T15:01:25Z,2025-07-01T05:20:26Z,GNU Affero General Public License v3.0,https://joinmastodon.org
+hacker-scripts,NARKOZ,JavaScript,48484,6649,https://github.com/NARKOZ/hacker-scripts,68,48484,2015-11-21T19:05:09Z,2025-07-01T05:37:07Z,,
+Motrix,agalwood,JavaScript,48266,4675,https://github.com/agalwood/Motrix,757,48266,2018-12-18T11:45:05Z,2025-07-01T08:11:08Z,MIT License,https://motrix.app
+GPT-SoVITS,RVC-Boss,Python,48260,5308,https://github.com/RVC-Boss/GPT-SoVITS,902,48260,2024-01-14T18:05:21Z,2025-07-01T07:17:36Z,MIT License,
+RxJava,ReactiveX,Java,48197,7607,https://github.com/ReactiveX/RxJava,15,48197,2013-01-08T20:11:48Z,2025-07-01T07:50:53Z,Apache License 2.0,
+moment,moment,JavaScript,48097,7054,https://github.com/moment/moment,284,48097,2011-03-01T02:46:06Z,2025-06-30T20:29:40Z,MIT License,momentjs.com
+pocketbase,pocketbase,Go,48027,2417,https://github.com/pocketbase/pocketbase,18,48027,2022-07-05T06:06:21Z,2025-07-01T08:13:50Z,MIT License,https://pocketbase.io
+dayjs,iamkun,JavaScript,47924,2363,https://github.com/iamkun/dayjs,1131,47924,2018-04-10T09:26:44Z,2025-07-01T06:17:17Z,MIT License,https://day.js.org
+awesome-wechat-weapp,justjavac,,47880,8781,https://github.com/justjavac/awesome-wechat-weapp,2,47880,2016-09-22T20:04:48Z,2025-07-01T07:34:52Z,GNU General Public License v3.0,
+PowerShell,PowerShell,C#,47833,7692,https://github.com/PowerShell/PowerShell,1223,47833,2016-01-13T23:41:35Z,2025-07-01T04:38:32Z,MIT License,https://microsoft.com/PowerShell
+professional-programming,charlax,Python,47719,3794,https://github.com/charlax/professional-programming,1,47719,2015-11-07T05:07:52Z,2025-07-01T07:59:44Z,MIT License,
+100-Days-Of-ML-Code,Avik-Jain,,47526,10968,https://github.com/Avik-Jain/100-Days-Of-ML-Code,62,47526,2018-07-05T09:11:43Z,2025-07-01T07:33:03Z,MIT License,
+algorithm-visualizer,algorithm-visualizer,JavaScript,47483,7372,https://github.com/algorithm-visualizer/algorithm-visualizer,70,47483,2016-05-15T00:27:45Z,2025-06-30T19:40:32Z,MIT License,https://algorithm-visualizer.org/
+OpenManus,FoundationAgents,Python,47451,8276,https://github.com/FoundationAgents/OpenManus,553,47451,2025-03-06T14:08:14Z,2025-07-01T08:14:55Z,MIT License,https://openmanus.github.io/
+julia,JuliaLang,Julia,47271,5603,https://github.com/JuliaLang/julia,5006,47271,2011-04-21T07:01:50Z,2025-07-01T07:15:49Z,MIT License,https://julialang.org/
+big-list-of-naughty-strings,minimaxir,Python,47246,2154,https://github.com/minimaxir/big-list-of-naughty-strings,108,47246,2015-08-08T20:57:20Z,2025-06-30T19:17:00Z,MIT License,
+awesome-llm-apps,Shubhamsaboo,Python,47239,5413,https://github.com/Shubhamsaboo/awesome-llm-apps,7,47239,2024-04-29T05:30:25Z,2025-07-01T08:14:38Z,Apache License 2.0,https://www.theunwindai.com
+30-Days-Of-Python,Asabeneh,Python,47170,9002,https://github.com/Asabeneh/30-Days-Of-Python,194,47170,2019-11-19T17:24:16Z,2025-07-01T05:21:13Z,,
+gemini-cli,google-gemini,TypeScript,46962,3828,https://github.com/google-gemini/gemini-cli,874,46962,2025-04-17T17:04:31Z,2025-07-01T08:16:38Z,Apache License 2.0,
+crawl4ai,unclecode,Python,46852,4498,https://github.com/unclecode/crawl4ai,252,46852,2024-05-09T09:48:50Z,2025-07-01T08:00:23Z,Apache License 2.0,https://crawl4ai.com
+cline,cline,TypeScript,46748,5964,https://github.com/cline/cline,507,46748,2024-07-06T07:28:10Z,2025-07-01T07:47:13Z,Apache License 2.0,https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
+serverless,serverless,JavaScript,46726,5741,https://github.com/serverless/serverless,1247,46726,2015-04-21T03:48:40Z,2025-06-30T21:42:59Z,MIT License,https://serverless.com
+autogen,microsoft,Python,46693,7090,https://github.com/microsoft/autogen,457,46693,2023-08-18T11:43:45Z,2025-07-01T08:06:32Z,Creative Commons Attribution 4.0 International,https://microsoft.github.io/autogen/
+huginn,huginn,Ruby,46590,4021,https://github.com/huginn/huginn,690,46590,2013-03-10T06:00:31Z,2025-07-01T02:56:45Z,MIT License,
+design-patterns-for-humans,kamranahmedse,,46578,5421,https://github.com/kamranahmedse/design-patterns-for-humans,16,46578,2017-02-16T21:24:39Z,2025-07-01T05:18:11Z,,
+gogs,gogs,Go,46562,5035,https://github.com/gogs/gogs,971,46562,2014-02-12T01:57:08Z,2025-07-01T04:37:23Z,MIT License,https://gogs.io
+Projects,karan,,46536,10692,https://github.com/karan/Projects,91,46536,2013-07-04T13:37:27Z,2025-07-01T06:40:25Z,MIT License,https://twitter.com/karangoel
+okhttp,square,Kotlin,46481,9216,https://github.com/square/okhttp,171,46481,2012-07-23T13:42:55Z,2025-07-01T03:36:42Z,Apache License 2.0,https://square.github.io/okhttp/
+react,typescript-cheatsheets,JavaScript,46417,4206,https://github.com/typescript-cheatsheets/react,1,46417,2018-06-02T04:08:16Z,2025-07-01T07:18:35Z,MIT License,https://react-typescript-cheatsheet.netlify.app
+x64dbg,x64dbg,C++,46368,2550,https://github.com/x64dbg/x64dbg,600,46368,2015-04-11T20:48:23Z,2025-07-01T07:50:12Z,Other,http://x64dbg.com
+json,nlohmann,C++,46267,7043,https://github.com/nlohmann/json,97,46267,2013-07-04T08:47:49Z,2025-07-01T07:48:02Z,MIT License,https://json.nlohmann.me
+vaultwarden,dani-garcia,Rust,46169,2175,https://github.com/dani-garcia/vaultwarden,27,46169,2018-02-17T22:40:20Z,2025-07-01T08:10:06Z,GNU Affero General Public License v3.0,
+v2ray-core,v2ray,Go,46148,8916,https://github.com/v2ray/v2ray-core,7,46148,2015-09-04T11:42:53Z,2025-07-01T04:53:52Z,MIT License,https://www.v2ray.com/
+learn-regex,ziishaned,,46031,6273,https://github.com/ziishaned/learn-regex,65,46031,2017-07-22T12:21:03Z,2025-07-01T06:25:03Z,MIT License,https://gum.co/learn-regex
+anything-llm,Mintplex-Labs,JavaScript,45925,4590,https://github.com/Mintplex-Labs/anything-llm,307,45925,2023-06-04T02:29:14Z,2025-07-01T07:18:52Z,MIT License,https://anythingllm.com
+pandas,pandas-dev,Python,45829,18639,https://github.com/pandas-dev/pandas,3746,45829,2010-08-24T01:37:33Z,2025-07-01T05:27:05Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://pandas.pydata.org
+type-challenges,type-challenges,TypeScript,45828,4995,https://github.com/type-challenges/type-challenges,32201,45828,2020-07-23T14:33:11Z,2025-07-01T07:45:24Z,MIT License,https://tsch.js.org/
+query,TanStack,TypeScript,45683,3295,https://github.com/TanStack/query,120,45683,2019-09-10T19:23:58Z,2025-07-01T08:07:29Z,MIT License,https://tanstack.com/query
+quill,slab,TypeScript,45611,3517,https://github.com/slab/quill,565,45611,2012-07-30T23:23:18Z,2025-07-01T08:03:35Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://quilljs.com
+Fooocus,lllyasviel,Python,45571,7199,https://github.com/lllyasviel/Fooocus,265,45571,2023-08-09T18:43:40Z,2025-07-01T08:10:19Z,GNU General Public License v3.0,
+terraform,hashicorp,Go,45494,9912,https://github.com/hashicorp/terraform,1944,45494,2014-03-13T22:25:48Z,2025-07-01T07:59:08Z,Other,http://developer.hashicorp.com/terraform
+open-source-ios-apps,dkhamsing,,45462,5570,https://github.com/dkhamsing/open-source-ios-apps,5,45462,2015-01-26T23:32:34Z,2025-07-01T05:37:05Z,Creative Commons Zero v1.0 Universal,
+pixijs,pixijs,TypeScript,45324,4865,https://github.com/pixijs/pixijs,469,45324,2013-01-21T22:40:50Z,2025-07-01T07:56:26Z,MIT License,http://pixijs.com
+htmx,bigskysoftware,JavaScript,45170,1455,https://github.com/bigskysoftware/htmx,595,45170,2020-04-13T16:17:51Z,2025-07-01T07:59:10Z,Other,https://htmx.org
+architecture-samples,android,Kotlin,45126,11771,https://github.com/android/architecture-samples,209,45126,2016-02-05T13:42:07Z,2025-07-01T05:11:14Z,Apache License 2.0,
+lazydocker,jesseduffield,Go,45016,1430,https://github.com/jesseduffield/lazydocker,213,45016,2019-05-18T08:53:50Z,2025-07-01T07:31:47Z,MIT License,
+lx-music-desktop,lyswhut,TypeScript,44893,6309,https://github.com/lyswhut/lx-music-desktop,917,44893,2019-08-14T14:31:08Z,2025-07-01T07:45:39Z,Apache License 2.0,https://lyswhut.github.io/lx-music-doc/
+jest,jestjs,TypeScript,44868,6560,https://github.com/jestjs/jest,264,44868,2013-12-10T00:18:04Z,2025-07-01T07:03:45Z,MIT License,https://jestjs.io
+PythonDataScienceHandbook,jakevdp,Jupyter Notebook,44849,18359,https://github.com/jakevdp/PythonDataScienceHandbook,219,44849,2016-08-10T14:24:36Z,2025-07-01T07:47:49Z,MIT License,http://jakevdp.github.io/PythonDataScienceHandbook
+maybe,maybe-finance,Ruby,44809,3293,https://github.com/maybe-finance/maybe,65,44809,2024-01-01T22:23:46Z,2025-07-01T06:49:48Z,GNU Affero General Public License v3.0,https://maybefinance.com
+kubernetes-the-hard-way,kelseyhightower,,44802,14974,https://github.com/kelseyhightower/kubernetes-the-hard-way,15,44802,2016-07-07T14:15:27Z,2025-07-01T08:02:14Z,Apache License 2.0,
+awesome-react-components,brillout,,44775,3611,https://github.com/brillout/awesome-react-components,28,44775,2016-06-24T15:19:33Z,2025-07-01T06:19:13Z,Creative Commons Zero v1.0 Universal,
+AdminLTE,ColorlibHQ,CSS,44691,18223,https://github.com/ColorlibHQ/AdminLTE,161,44691,2013-12-25T02:52:40Z,2025-07-01T04:56:36Z,MIT License,https://adminlte.io
+30-Days-Of-JavaScript,Asabeneh,JavaScript,44677,10248,https://github.com/Asabeneh/30-Days-Of-JavaScript,360,44677,2019-12-23T14:07:40Z,2025-07-01T05:51:07Z,,
+meteor,meteor,JavaScript,44661,5215,https://github.com/meteor/meteor,351,44661,2012-01-19T01:58:17Z,2025-07-01T05:02:06Z,Other,https://meteor.com
+jadx,skylot,Java,44511,5146,https://github.com/skylot/jadx,374,44511,2013-03-18T17:08:21Z,2025-07-01T06:55:54Z,Apache License 2.0,
+discourse,discourse,Ruby,44405,8564,https://github.com/discourse/discourse,90,44405,2013-01-12T00:25:55Z,2025-07-01T08:03:15Z,GNU General Public License v2.0,https://www.discourse.org
+open-source-mac-os-apps,serhii-londar,,44370,2384,https://github.com/serhii-londar/open-source-mac-os-apps,117,44370,2017-11-03T02:35:33Z,2025-07-01T07:36:01Z,Creative Commons Zero v1.0 Universal,
+zx,google,JavaScript,44305,1145,https://github.com/google/zx,14,44305,2021-05-05T05:50:01Z,2025-07-01T07:45:03Z,Apache License 2.0,https://google.github.io/zx/
+awesome-java,akullpp,,44185,7498,https://github.com/akullpp/awesome-java,6,44185,2014-07-09T10:12:43Z,2025-07-01T07:06:58Z,Other,
+dbeaver,dbeaver,Java,44180,3752,https://github.com/dbeaver/dbeaver,3035,44180,2015-10-21T08:26:28Z,2025-07-01T08:13:46Z,Apache License 2.0,https://dbeaver.io
+text-generation-webui,oobabooga,Python,44166,5680,https://github.com/oobabooga/text-generation-webui,2561,44166,2022-12-21T04:17:37Z,2025-07-01T07:17:22Z,GNU Affero General Public License v3.0,https://oobabooga.gumroad.com/l/deep_reason
+frontend-dev-bookmarks,dypsilon,,44109,5113,https://github.com/dypsilon/frontend-dev-bookmarks,125,44109,2013-06-22T13:23:55Z,2025-07-01T06:05:40Z,,
+brew,Homebrew,Ruby,44073,10308,https://github.com/Homebrew/brew,71,44073,2016-03-06T05:08:38Z,2025-07-01T07:07:19Z,"BSD 2-Clause ""Simplified"" License",https://brew.sh
+ladybird,LadybirdBrowser,C++,44067,1886,https://github.com/LadybirdBrowser/ladybird,481,44067,2024-05-30T09:18:10Z,2025-07-01T07:54:56Z,"BSD 2-Clause ""Simplified"" License",https://ladybird.org
+hyper,vercel,TypeScript,44055,3529,https://github.com/vercel/hyper,1016,44055,2016-07-01T06:01:21Z,2025-07-01T02:03:29Z,MIT License,https://hyper.is
+parcel,parcel-bundler,JavaScript,43895,2262,https://github.com/parcel-bundler/parcel,587,43895,2017-08-07T16:36:47Z,2025-07-01T07:23:46Z,MIT License,https://parceljs.org
+odoo,odoo,Python,43878,28447,https://github.com/odoo/odoo,8431,43878,2014-05-13T15:38:58Z,2025-07-01T08:10:52Z,Other,https://www.odoo.com
+CppCoreGuidelines,isocpp,CSS,43855,5494,https://github.com/isocpp/CppCoreGuidelines,254,43855,2015-08-19T20:22:52Z,2025-07-01T02:29:30Z,Other,http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+fuels-rs,FuelLabs,Rust,43707,1356,https://github.com/FuelLabs/fuels-rs,68,43707,2021-10-31T22:33:54Z,2025-06-30T05:18:12Z,Apache License 2.0,https://fuellabs.github.io/fuels-rs
+fuels-ts,FuelLabs,TypeScript,43702,1374,https://github.com/FuelLabs/fuels-ts,66,43702,2021-09-03T18:11:03Z,2025-07-01T07:19:29Z,Apache License 2.0,https://docs.fuel.network/docs/fuels-ts/
+build-web-application-with-golang,astaxie,Go,43663,10601,https://github.com/astaxie/build-web-application-with-golang,133,43663,2012-08-02T11:49:35Z,2025-07-01T06:33:44Z,"BSD 3-Clause ""New"" or ""Revised"" License",
+TensorFlow-Examples,aymericdamien,Jupyter Notebook,43660,14881,https://github.com/aymericdamien/TensorFlow-Examples,225,43660,2015-11-11T14:21:19Z,2025-06-30T20:30:50Z,Other,
+babel,babel,TypeScript,43638,5721,https://github.com/babel/babel,753,43638,2014-09-28T13:38:23Z,2025-07-01T05:02:50Z,MIT License,https://babel.dev
+retrofit,square,HTML,43585,7320,https://github.com/square/retrofit,160,43585,2010-09-06T21:39:43Z,2025-07-01T07:03:51Z,Apache License 2.0,https://square.github.io/retrofit/
+typst,typst,Rust,43581,1162,https://github.com/typst/typst,909,43581,2019-09-24T21:41:56Z,2025-07-01T08:15:45Z,Apache License 2.0,https://typst.app
+react-hook-form,react-hook-form,TypeScript,43427,2224,https://github.com/react-hook-form/react-hook-form,75,43427,2019-03-05T23:47:10Z,2025-07-01T06:22:54Z,MIT License,https://react-hook-form.com
+front-end-interview-handbook,yangshun,MDX,43260,5927,https://github.com/yangshun/front-end-interview-handbook,12,43260,2018-01-13T19:40:08Z,2025-07-01T07:49:38Z,MIT License,https://frontendinterviewhandbook.com
+grpc,grpc,C++,43229,10835,https://github.com/grpc/grpc,1083,43229,2014-12-08T18:58:53Z,2025-07-01T08:07:12Z,Apache License 2.0,https://grpc.io
+react-use,streamich,TypeScript,43210,3238,https://github.com/streamich/react-use,624,43210,2018-10-27T10:16:05Z,2025-06-30T23:31:39Z,The Unlicense,http://streamich.github.io/react-use
+acme.sh,acmesh-official,Shell,43200,5278,https://github.com/acmesh-official/acme.sh,1285,43200,2015-12-26T12:56:33Z,2025-07-01T06:35:54Z,GNU General Public License v3.0,https://acme.sh
+awesome-design-patterns,DovAmir,,43179,3094,https://github.com/DovAmir/awesome-design-patterns,20,43179,2018-06-04T17:47:48Z,2025-07-01T04:12:01Z,,
+JeecgBoot,jeecgboot,Java,43175,15413,https://github.com/jeecgboot/JeecgBoot,31,43175,2018-11-26T10:40:00Z,2025-07-01T07:42:21Z,Apache License 2.0,http://www.jeecg.com
+monaco-editor,microsoft,JavaScript,43075,3790,https://github.com/microsoft/monaco-editor,719,43075,2016-06-07T16:56:31Z,2025-07-01T07:37:22Z,MIT License,https://microsoft.github.io/monaco-editor/
+Leaflet,Leaflet,JavaScript,43057,5959,https://github.com/Leaflet/Leaflet,535,43057,2010-09-22T16:57:44Z,2025-07-01T05:13:55Z,"BSD 2-Clause ""Simplified"" License",https://leafletjs.com
+coolify,coollabsio,PHP,42982,2655,https://github.com/coollabsio/coolify,555,42982,2021-01-25T20:54:01Z,2025-07-01T07:59:56Z,Apache License 2.0,https://coolify.io
+Rocket.Chat,RocketChat,TypeScript,42894,11903,https://github.com/RocketChat/Rocket.Chat,3318,42894,2015-05-19T07:36:09Z,2025-07-01T08:11:06Z,Other,https://rocket.chat/
+awesome-cheatsheets,LeCoupa,JavaScript,42875,6486,https://github.com/LeCoupa/awesome-cheatsheets,121,42875,2017-11-09T02:47:15Z,2025-07-01T07:52:59Z,MIT License,https://lecoupa.github.io/awesome-cheatsheets/
+termux-app,termux,Java,42786,4681,https://github.com/termux/termux-app,443,42786,2015-10-23T09:42:46Z,2025-07-01T07:17:40Z,Other,https://f-droid.org/en/packages/com.termux
+llama_index,run-llama,Python,42728,6137,https://github.com/run-llama/llama_index,287,42728,2022-11-02T04:24:54Z,2025-07-01T08:08:32Z,MIT License,https://docs.llamaindex.ai
+prisma,prisma,TypeScript,42727,1776,https://github.com/prisma/prisma,2328,42727,2019-06-20T13:33:47Z,2025-07-01T08:13:48Z,Apache License 2.0,https://www.prisma.io
+metabase,metabase,Clojure,42551,5672,https://github.com/metabase/metabase,3977,42551,2015-02-02T19:25:47Z,2025-07-01T07:35:05Z,Other,https://metabase.com
+ultralytics,ultralytics,Python,42528,8301,https://github.com/ultralytics/ultralytics,443,42528,2022-09-11T16:39:45Z,2025-07-01T08:16:38Z,GNU Affero General Public License v3.0,https://docs.ultralytics.com
+pyenv,pyenv,Roff,42467,3187,https://github.com/pyenv/pyenv,63,42467,2012-08-31T06:57:52Z,2025-07-01T05:27:29Z,MIT License,
+edex-ui,GitSquared,JavaScript,42390,2742,https://github.com/GitSquared/edex-ui,6,42390,2017-01-28T09:35:02Z,2025-07-01T08:11:39Z,GNU General Public License v3.0,
+nanoGPT,karpathy,Python,42369,7077,https://github.com/karpathy/nanoGPT,296,42369,2022-12-28T00:51:12Z,2025-07-01T07:36:54Z,MIT License,
+pm2,Unitech,JavaScript,42353,2648,https://github.com/Unitech/pm2,1055,42353,2013-05-21T03:25:25Z,2025-07-01T06:37:17Z,Other,https://pm2.keymetrics.io/docs/usage/quick-start/
+git-flight-rules,k88hudson,,42347,3213,https://github.com/k88hudson/git-flight-rules,18,42347,2014-07-22T20:35:09Z,2025-07-01T00:42:16Z,Creative Commons Attribution Share Alike 4.0 International,
+ChinaTextbook,TapXWorld,Roff,42345,9437,https://github.com/TapXWorld/ChinaTextbook,61,42345,2020-01-05T04:11:06Z,2025-07-01T08:11:09Z,,
+reactjs-interview-questions,sudheerj,JavaScript,42300,9954,https://github.com/sudheerj/reactjs-interview-questions,4,42300,2018-05-31T17:17:01Z,2025-07-01T07:25:23Z,MIT License,
+v2rayNG,2dust,Kotlin,42194,6125,https://github.com/2dust/v2rayNG,10,42194,2019-05-15T02:15:31Z,2025-07-01T07:48:47Z,GNU General Public License v3.0,https://v2rayng.2dust.link
+memos,usememos,Go,42192,3005,https://github.com/usememos/memos,28,42192,2021-12-08T15:30:18Z,2025-07-01T07:28:08Z,MIT License,https://usememos.com
+OpenBB,OpenBB-finance,Python,42153,3798,https://github.com/OpenBB-finance/OpenBB,57,42153,2020-12-20T10:46:38Z,2025-07-01T08:00:02Z,Other,https://openbb.co
+Alamofire,Alamofire,Swift,41973,7619,https://github.com/Alamofire/Alamofire,53,41973,2014-07-31T05:56:19Z,2025-07-01T07:03:53Z,MIT License,
+what-happens-when,alex,,41958,5712,https://github.com/alex/what-happens-when,2083,41958,2013-11-07T04:30:06Z,2025-07-01T03:37:34Z,,
+nvm-windows,coreybutler,Go,41703,3542,https://github.com/coreybutler/nvm-windows,91,41703,2014-09-20T16:37:28Z,2025-07-01T07:47:19Z,MIT License,
+python-patterns,faif,Python,41603,7018,https://github.com/faif/python-patterns,16,41603,2012-06-06T21:02:35Z,2025-07-01T01:57:55Z,,
+yarn,yarnpkg,JavaScript,41549,2731,https://github.com/yarnpkg/yarn,2068,41549,2016-01-19T17:39:16Z,2025-07-01T02:58:31Z,Other,https://classic.yarnpkg.com
+CPlusPlusThings,Light-City,C++,41463,8743,https://github.com/Light-City/CPlusPlusThings,14,41463,2019-07-14T08:45:45Z,2025-07-01T06:14:19Z,,https://light-city.github.io/stories_things/
+firecrawl,mendableai,TypeScript,41460,3905,https://github.com/mendableai/firecrawl,194,41460,2024-04-15T21:02:29Z,2025-07-01T08:15:53Z,GNU Affero General Public License v3.0,https://firecrawl.dev
+ClickHouse,ClickHouse,C++,41447,7438,https://github.com/ClickHouse/ClickHouse,4853,41447,2016-06-02T08:28:18Z,2025-07-01T08:02:49Z,Apache License 2.0,https://clickhouse.com
+expo,expo,TypeScript,41399,7440,https://github.com/expo/expo,769,41399,2016-08-15T17:14:25Z,2025-07-01T07:23:43Z,MIT License,https://docs.expo.dev
+spark,apache,Scala,41380,28655,https://github.com/apache/spark,191,41380,2014-02-25T08:00:08Z,2025-07-01T06:33:39Z,Apache License 2.0,https://spark.apache.org/
+unsloth,unslothai,Python,41344,3292,https://github.com/unslothai/unsloth,671,41344,2023-11-29T16:50:09Z,2025-07-01T08:10:47Z,Apache License 2.0,https://docs.unsloth.ai/
+stablediffusion,Stability-AI,Python,41249,5261,https://github.com/Stability-AI/stablediffusion,300,41249,2022-11-23T23:59:50Z,2025-07-01T04:23:37Z,MIT License,
+sentry,getsentry,Python,41227,4379,https://github.com/getsentry/sentry,2452,41227,2010-08-30T22:06:41Z,2025-07-01T07:47:33Z,Other,https://sentry.io
+whisper.cpp,ggml-org,C++,41182,4408,https://github.com/ggml-org/whisper.cpp,980,41182,2022-09-25T18:26:37Z,2025-07-01T08:01:35Z,MIT License,
+kong,Kong,Lua,41177,4943,https://github.com/Kong/kong,140,41177,2014-11-17T23:56:08Z,2025-07-01T08:05:17Z,Apache License 2.0,https://konghq.com/install/
+swiper,nolimits4web,JavaScript,41152,9735,https://github.com/nolimits4web/swiper,213,41152,2012-03-14T19:11:45Z,2025-07-01T03:28:19Z,MIT License,https://swiperjs.com
+vue2-elm,bailicangdu,Vue,41133,12394,https://github.com/bailicangdu/vue2-elm,118,41133,2016-12-23T01:49:20Z,2025-06-30T20:30:24Z,GNU General Public License v2.0,https://cangdu.org/elm/
+dubbo,apache,Java,41113,26519,https://github.com/apache/dubbo,884,41113,2012-06-19T07:56:02Z,2025-07-01T04:16:12Z,Apache License 2.0,https://dubbo.apache.org/
+diagrams,mingrammer,Python,41112,2641,https://github.com/mingrammer/diagrams,381,41112,2020-02-02T15:23:24Z,2025-07-01T00:06:14Z,MIT License,https://diagrams.mingrammer.com
+ChatGLM-6B,THUDM,Python,41079,5213,https://github.com/THUDM/ChatGLM-6B,599,41079,2023-03-13T12:00:18Z,2025-07-01T05:45:54Z,Apache License 2.0,
+TTS,coqui-ai,Python,41068,5313,https://github.com/coqui-ai/TTS,14,41068,2020-05-20T15:45:28Z,2025-07-01T08:05:16Z,Mozilla Public License 2.0,http://coqui.ai
+jellyfin,jellyfin,C#,41059,3664,https://github.com/jellyfin/jellyfin,519,41059,2018-12-09T06:36:45Z,2025-07-01T08:07:13Z,GNU General Public License v2.0,https://jellyfin.org
+ailearning,apachecn,Python,41055,11574,https://github.com/apachecn/ailearning,2,41055,2017-02-25T08:53:02Z,2025-07-01T07:37:45Z,Other,http://ailearning.apachecn.org/
+ColossalAI,hpcaitech,Python,41006,4523,https://github.com/hpcaitech/ColossalAI,472,41006,2021-10-28T16:19:44Z,2025-07-01T08:13:50Z,Apache License 2.0,https://www.colossalai.org
+cobra,spf13,Go,40981,2957,https://github.com/spf13/cobra,318,40981,2013-09-03T20:40:26Z,2025-07-01T07:08:41Z,Apache License 2.0,https://cobra.dev
+uni-app,dcloudio,JavaScript,40928,3697,https://github.com/dcloudio/uni-app,726,40928,2018-07-12T08:52:39Z,2025-07-01T07:56:38Z,Apache License 2.0,https://uniapp.dcloud.io
+iina,iina,Swift,40908,2641,https://github.com/iina/iina,1802,40908,2016-12-19T07:18:45Z,2025-07-01T07:13:51Z,GNU General Public License v3.0,https://iina.io
+nw.js,nwjs,JavaScript,40889,3878,https://github.com/nwjs/nw.js,924,40889,2012-01-04T06:21:10Z,2025-07-01T07:51:08Z,MIT License,https://nwjs.io
+Flowise,FlowiseAI,TypeScript,40878,20928,https://github.com/FlowiseAI/Flowise,597,40878,2023-03-31T12:23:09Z,2025-07-01T08:10:17Z,Other,https://flowiseai.com
+styled-components,styled-components,TypeScript,40831,2506,https://github.com/styled-components/styled-components,321,40831,2016-08-16T06:41:32Z,2025-06-30T19:48:15Z,MIT License,https://styled-components.com
+airflow,apache,Python,40791,15253,https://github.com/apache/airflow,1475,40791,2015-04-13T18:04:58Z,2025-07-01T08:15:13Z,Apache License 2.0,https://airflow.apache.org/
+spotube,KRTirtho,Dart,40724,1732,https://github.com/KRTirtho/spotube,803,40724,2021-02-14T03:17:58Z,2025-07-01T07:26:34Z,Other,https://spotube.krtirtho.dev/
+tldraw,tldraw,TypeScript,40608,2574,https://github.com/tldraw/tldraw,302,40608,2021-05-09T11:48:37Z,2025-07-01T08:15:37Z,Other,https://tldraw.dev
+vuetify,vuetifyjs,TypeScript,40576,7047,https://github.com/vuetifyjs/vuetify,688,40576,2016-09-12T00:39:35Z,2025-07-01T03:38:58Z,MIT License,https://vuetifyjs.com
+ruff,astral-sh,Rust,40477,1414,https://github.com/astral-sh/ruff,1544,40477,2022-08-09T17:17:44Z,2025-07-01T08:12:13Z,MIT License,https://docs.astral.sh/ruff
+hexo,hexojs,TypeScript,40472,4937,https://github.com/hexojs/hexo,89,40472,2012-09-23T15:17:08Z,2025-07-01T07:58:42Z,MIT License,https://hexo.io
+black,psf,Python,40430,2596,https://github.com/psf/black,371,40430,2018-03-14T19:54:45Z,2025-07-01T03:15:55Z,MIT License,https://black.readthedocs.io/en/stable/
+bevy,bevyengine,Rust,40350,3972,https://github.com/bevyengine/bevy,2842,40350,2020-01-18T21:13:55Z,2025-07-01T08:03:14Z,Apache License 2.0,https://bevy.org
+fastlane,fastlane,Ruby,40306,5897,https://github.com/fastlane/fastlane,884,40306,2014-12-02T17:00:38Z,2025-07-01T03:18:03Z,MIT License,https://fastlane.tools
+Made-With-ML,GokuMohandas,Jupyter Notebook,40285,6282,https://github.com/GokuMohandas/Made-With-ML,20,40285,2018-11-05T03:44:27Z,2025-07-01T07:36:12Z,MIT License,https://madewithml.com
+streamlit,streamlit,Python,40169,3543,https://github.com/streamlit/streamlit,1205,40169,2019-08-24T00:14:52Z,2025-07-01T07:20:52Z,Apache License 2.0,https://streamlit.io
+freqtrade,freqtrade,Python,40043,7966,https://github.com/freqtrade/freqtrade,45,40043,2017-05-17T23:48:53Z,2025-07-01T06:38:05Z,GNU General Public License v3.0,https://www.freqtrade.io
+fanqiang,bannedbook,Kotlin,39972,7357,https://github.com/bannedbook/fanqiang,326,39972,2015-01-14T00:34:25Z,2025-07-01T07:38:36Z,,
+awesome-compose,docker,HTML,39965,7459,https://github.com/docker/awesome-compose,268,39965,2020-02-13T08:51:42Z,2025-07-01T08:16:07Z,Creative Commons Zero v1.0 Universal,https://docs.docker.com/compose/
+Pake,tw93,Rust,39939,7456,https://github.com/tw93/Pake,72,39939,2022-10-14T09:32:57Z,2025-07-01T08:10:49Z,MIT License,
+TrafficMonitor,zhongyang219,C++,39792,3457,https://github.com/zhongyang219/TrafficMonitor,1156,39792,2017-07-30T02:51:17Z,2025-07-01T08:13:47Z,Other,
+WeChatMsg,LC044,,39725,4328,https://github.com/LC044/WeChatMsg,25,39725,2023-01-11T05:03:49Z,2025-07-01T07:47:26Z,,
+zig,ziglang,Zig,39700,2886,https://github.com/ziglang/zig,3635,39700,2015-08-06T00:51:28Z,2025-07-01T06:50:19Z,MIT License,https://ziglang.org
+mitmproxy,mitmproxy,Python,39667,4233,https://github.com/mitmproxy/mitmproxy,355,39667,2010-02-16T04:10:13Z,2025-07-01T07:49:31Z,MIT License,https://mitmproxy.org
+tabler,tabler,HTML,39651,4195,https://github.com/tabler/tabler,94,39651,2018-02-01T09:08:59Z,2025-07-01T03:57:39Z,MIT License,https://tabler.io
+cli,cli,Go,39626,6707,https://github.com/cli/cli,832,39626,2019-10-03T15:24:53Z,2025-07-01T08:12:04Z,MIT License,https://cli.github.com
+cheat.sh,chubin,Python,39570,1827,https://github.com/chubin/cheat.sh,139,39570,2017-05-07T21:40:56Z,2025-07-01T02:59:19Z,MIT License,https://cheat.sh/
+chinese-independent-developer,1c7,,39514,3267,https://github.com/1c7/chinese-independent-developer,2,39514,2017-09-21T11:08:23Z,2025-07-01T06:02:23Z,,
+pure-bash-bible,dylanaraps,Shell,39442,3519,https://github.com/dylanaraps/pure-bash-bible,62,39442,2018-06-13T01:39:33Z,2025-07-01T08:00:22Z,MIT License,
+chakra-ui,chakra-ui,TypeScript,39313,3437,https://github.com/chakra-ui/chakra-ui,6,39313,2019-08-17T14:27:54Z,2025-07-01T07:29:28Z,MIT License,https://chakra-ui.com
+bert,google-research,Python,39279,9686,https://github.com/google-research/bert,887,39279,2018-10-25T22:57:34Z,2025-07-01T08:03:29Z,Apache License 2.0,https://arxiv.org/abs/1810.04805
+EasySpider,NaiboWang,JavaScript,39235,4810,https://github.com/NaiboWang/EasySpider,204,39235,2020-07-18T02:41:27Z,2025-07-01T08:11:57Z,GNU Affero General Public License v3.0,https://www.easyspider.net
+php-src,php,C,39200,7897,https://github.com/php/php-src,1454,39200,2011-06-16T01:52:25Z,2025-07-01T03:23:34Z,Other,https://www.php.net
+wrk,wg,C,39186,3006,https://github.com/wg/wrk,200,39186,2012-03-20T11:12:28Z,2025-07-01T07:52:31Z,Other,
+50projects50days,bradtraversy,CSS,39186,9535,https://github.com/bradtraversy/50projects50days,21,39186,2020-11-16T14:39:01Z,2025-07-01T07:53:01Z,MIT License,
+DeepSpeed,deepspeedai,Python,39157,4444,https://github.com/deepspeedai/DeepSpeed,1173,39157,2020-01-23T18:35:18Z,2025-07-01T07:43:30Z,Apache License 2.0,https://www.deepspeed.ai/
+Deep-Learning-Papers-Reading-Roadmap,floodsung,Python,39090,7354,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,91,39090,2016-10-14T11:49:48Z,2025-06-30T15:43:21Z,,
+esbuild,evanw,Go,39044,1219,https://github.com/evanw/esbuild,569,39044,2016-06-14T16:08:50Z,2025-07-01T04:50:22Z,MIT License,https://esbuild.github.io/
+materialize,Dogfalo,JavaScript,38933,4703,https://github.com/Dogfalo/materialize,795,38933,2014-09-12T19:35:38Z,2025-06-30T20:29:39Z,MIT License,https://materializecss.com
+video.js,videojs,JavaScript,38892,7513,https://github.com/videojs/video.js,592,38892,2010-05-14T18:45:10Z,2025-07-01T04:41:26Z,Other,https://videojs.com
+jsoncrack.com,AykutSarac,TypeScript,38887,2604,https://github.com/AykutSarac/jsoncrack.com,46,38887,2022-01-30T15:25:18Z,2025-07-01T08:14:04Z,Apache License 2.0,https://jsoncrack.com/
+English-level-up-tips,byoungd,HTML,38827,4222,https://github.com/byoungd/English-level-up-tips,29,38827,2017-05-30T07:18:52Z,2025-07-01T04:32:34Z,,https://byoungd.github.io/English-level-up-tips/
+gradio,gradio-app,Python,38819,2962,https://github.com/gradio-app/gradio,420,38819,2018-12-19T08:24:04Z,2025-07-01T08:08:23Z,Apache License 2.0,http://www.gradio.app
+zod,colinhacks,TypeScript,38805,1516,https://github.com/colinhacks/zod,548,38805,2020-03-07T20:59:08Z,2025-07-01T08:05:46Z,MIT License,https://zod.dev
+penpot,penpot,Clojure,38799,2027,https://github.com/penpot/penpot,476,38799,2015-12-29T22:09:07Z,2025-07-01T06:59:37Z,Mozilla Public License 2.0,https://penpot.app
+FastChat,lm-sys,Python,38789,4724,https://github.com/lm-sys/FastChat,951,38789,2023-03-19T00:18:02Z,2025-07-01T06:38:17Z,Apache License 2.0,
+GitHubDaily,GitHubDaily,,38755,4038,https://github.com/GitHubDaily/GitHubDaily,380,38755,2018-12-30T13:56:58Z,2025-07-01T08:02:33Z,,
+zju-icicles,QSCTech,HTML,38731,9500,https://github.com/QSCTech/zju-icicles,10,38731,2016-06-28T16:17:32Z,2025-07-01T05:19:32Z,,https://qsctech.github.io/zju-icicles/
+tidb,pingcap,Go,38648,5963,https://github.com/pingcap/tidb,5178,38648,2015-09-06T04:01:52Z,2025-07-01T07:50:56Z,Apache License 2.0,https://pingcap.com
+slidev,slidevjs,TypeScript,38589,1593,https://github.com/slidevjs/slidev,149,38589,2021-04-24T01:25:23Z,2025-07-01T08:13:56Z,MIT License,https://sli.dev
+fd,sharkdp,Rust,38544,901,https://github.com/sharkdp/fd,139,38544,2017-05-09T21:27:10Z,2025-07-01T07:22:27Z,Apache License 2.0,
+awesome-remote-job,lukasz-madon,,38533,4166,https://github.com/lukasz-madon/awesome-remote-job,4,38533,2015-01-02T00:31:34Z,2025-07-01T08:13:46Z,,
+Summer2025-Internships,SimplifyJobs,,38484,2946,https://github.com/SimplifyJobs/Summer2025-Internships,4,38484,2020-05-23T20:53:18Z,2025-07-01T07:27:12Z,,https://swelist.com/
+vim,vim,Vim Script,38458,5710,https://github.com/vim/vim,1551,38458,2015-08-18T21:03:56Z,2025-07-01T08:14:13Z,Vim License,https://www.vim.org
+gorm,go-gorm,Go,38434,4049,https://github.com/go-gorm/gorm,460,38434,2013-10-25T08:31:38Z,2025-07-01T07:33:39Z,MIT License,https://gorm.io
+AI-For-Beginners,microsoft,Jupyter Notebook,38328,7231,https://github.com/microsoft/AI-For-Beginners,57,38328,2021-03-03T16:27:36Z,2025-07-01T08:12:27Z,MIT License,https://microsoft.github.io/AI-For-Beginners/
+styleguide,google,HTML,38321,13012,https://github.com/google/styleguide,164,38321,2015-05-20T19:18:59Z,2025-07-01T08:08:54Z,Other,https://google.github.io/styleguide/
+helix,helix-editor,Rust,38273,2898,https://github.com/helix-editor/helix,1156,38273,2020-06-01T04:26:56Z,2025-07-01T08:16:08Z,Mozilla Public License 2.0,https://helix-editor.com
+curl,curl,C,38211,6754,https://github.com/curl/curl,39,38211,2010-03-18T22:32:22Z,2025-07-01T07:53:46Z,Other,https://curl.se/
+pandoc,jgm,Haskell,38158,3564,https://github.com/jgm/pandoc,1128,38158,2010-03-20T20:34:23Z,2025-07-01T06:18:49Z,Other,https://pandoc.org
+phaser,phaserjs,JavaScript,38113,7123,https://github.com/phaserjs/phaser,102,38113,2013-04-12T12:27:51Z,2025-07-01T04:53:01Z,MIT License,https://phaser.io
+bark,suno-ai,Jupyter Notebook,38100,4528,https://github.com/suno-ai/bark,249,38100,2023-04-07T19:34:48Z,2025-07-01T06:46:33Z,MIT License,
+quivr,QuivrHQ,Python,38075,3644,https://github.com/QuivrHQ/quivr,21,38075,2023-05-12T23:53:30Z,2025-07-01T06:59:26Z,Other,https://core.quivr.com
+aria2,aria2,C++,38028,3724,https://github.com/aria2/aria2,1107,38028,2010-11-27T09:41:48Z,2025-07-01T07:31:21Z,GNU General Public License v2.0,https://aria2.github.io/
+MPAndroidChart,PhilJay,Java,38027,9044,https://github.com/PhilJay/MPAndroidChart,2190,38027,2014-04-25T14:29:47Z,2025-07-01T04:43:31Z,Other,
+chatgpt-on-wechat,zhayujie,Python,37956,9316,https://github.com/zhayujie/chatgpt-on-wechat,339,37956,2022-08-07T08:33:41Z,2025-07-01T07:47:49Z,MIT License,https://docs.link-ai.tech/cow
+impress.js,impress,JavaScript,37953,6645,https://github.com/impress/impress.js,64,37953,2011-12-28T22:23:19Z,2025-07-01T05:24:13Z,MIT License,http://impress.js.org
+tmux,tmux,C,37917,2214,https://github.com/tmux/tmux,70,37917,2015-06-03T23:32:55Z,2025-07-01T08:05:08Z,Other,
+leveldb,google,C++,37801,8028,https://github.com/google/leveldb,361,37801,2014-08-27T21:17:52Z,2025-07-01T08:11:58Z,"BSD 3-Clause ""New"" or ""Revised"" License",
+photoprism,photoprism,Go,37778,2101,https://github.com/photoprism/photoprism,435,37778,2018-01-27T12:00:15Z,2025-07-01T08:13:05Z,Other,https://www.photoprism.app
+ray,ray-project,Python,37777,6541,https://github.com/ray-project/ray,2956,37777,2016-10-25T19:38:30Z,2025-07-01T08:01:32Z,Apache License 2.0,https://ray.io
+free,freefq,,37765,5712,https://github.com/freefq/free,512,37765,2020-06-07T02:48:33Z,2025-07-01T08:05:44Z,,
+preact,preactjs,JavaScript,37745,2007,https://github.com/preactjs/preact,152,37745,2015-09-11T02:40:18Z,2025-06-30T22:55:40Z,MIT License,https://preactjs.com
+trpc,trpc,TypeScript,37727,1380,https://github.com/trpc/trpc,180,37727,2020-07-18T01:17:11Z,2025-07-01T05:49:37Z,MIT License,https://tRPC.io
+upscayl,upscayl,TypeScript,37696,1738,https://github.com/upscayl/upscayl,59,37696,2022-07-30T17:19:20Z,2025-07-01T06:41:08Z,GNU Affero General Public License v3.0,https://upscayl.org
+shellcheck,koalaman,Haskell,37624,1824,https://github.com/koalaman/shellcheck,1131,37624,2012-11-17T03:15:11Z,2025-07-01T06:46:46Z,GNU General Public License v3.0,https://www.shellcheck.net
+Files,files-community,C#,37622,2355,https://github.com/files-community/Files,490,37622,2019-01-04T18:19:14Z,2025-07-01T07:27:12Z,MIT License,https://files.community
+MinerU,opendatalab,Python,37608,3083,https://github.com/opendatalab/MinerU,122,37608,2024-02-29T08:52:34Z,2025-07-01T08:14:09Z,GNU Affero General Public License v3.0,https://mineru.net
+RSSHub,DIYgod,TypeScript,37542,8265,https://github.com/DIYgod/RSSHub,365,37542,2018-04-02T14:43:21Z,2025-07-01T08:04:19Z,MIT License,https://docs.rsshub.app
+ai-hedge-fund,virattt,Python,37525,6544,https://github.com/virattt/ai-hedge-fund,35,37525,2024-11-29T16:30:01Z,2025-07-01T08:14:15Z,,
+MoneyPrinterTurbo,harry0703,Python,37435,5371,https://github.com/harry0703/MoneyPrinterTurbo,175,37435,2024-03-11T02:57:34Z,2025-07-01T08:08:21Z,MIT License,
+daisyui,saadeghi,Svelte,37415,1478,https://github.com/saadeghi/daisyui,43,37415,2020-11-28T22:57:27Z,2025-07-01T07:10:02Z,MIT License,https://daisyui.com
+Open-Assistant,LAION-AI,Python,37391,3275,https://github.com/LAION-AI/Open-Assistant,292,37391,2022-12-13T05:24:17Z,2025-07-01T06:56:40Z,Apache License 2.0,https://open-assistant.io
+legado,gedoor,Kotlin,37371,4442,https://github.com/gedoor/legado,82,37371,2019-05-22T04:18:58Z,2025-07-01T08:08:30Z,GNU General Public License v3.0,
+freecodecamp.cn,FreeCodeCampChina,CSS,37358,1381,https://github.com/FreeCodeCampChina/freecodecamp.cn,156,37358,2016-09-30T03:13:43Z,2025-07-01T05:01:51Z,Other,https://fcc.asia/
+appsmith,appsmithorg,TypeScript,37349,4119,https://github.com/appsmithorg/appsmith,4390,37349,2020-06-30T04:07:36Z,2025-07-01T06:28:10Z,Apache License 2.0,https://www.appsmith.com
+python-cheatsheet,gto76,Python,37324,6633,https://github.com/gto76/python-cheatsheet,22,37324,2018-01-25T04:16:53Z,2025-07-01T02:59:22Z,,https://gto76.github.io/python-cheatsheet/
+logseq,logseq,Clojure,37286,2206,https://github.com/logseq/logseq,1341,37286,2020-05-23T00:06:06Z,2025-07-01T07:27:17Z,GNU Affero General Public License v3.0,https://logseq.com
+ant-design-pro,ant-design,TypeScript,37248,8197,https://github.com/ant-design/ant-design-pro,218,37248,2017-08-25T10:40:44Z,2025-07-01T07:12:05Z,MIT License,https://pro.ant.design
+tutorials,eugenp,Java,37182,54238,https://github.com/eugenp/tutorials,48,37182,2013-04-29T18:26:36Z,2025-07-01T03:10:44Z,MIT License,https://bit.ly/github-ls
+novu,novuhq,TypeScript,37175,4048,https://github.com/novuhq/novu,242,37175,2021-08-26T15:22:44Z,2025-07-01T07:37:47Z,Other,https://novu.co
+ccxt,ccxt,Python,37088,8019,https://github.com/ccxt/ccxt,1532,37088,2017-05-14T15:41:56Z,2025-07-01T07:41:10Z,MIT License,https://docs.ccxt.com
+istio,istio,Go,37004,8008,https://github.com/istio/istio,534,37004,2016-11-18T23:57:21Z,2025-07-01T08:13:47Z,Apache License 2.0,https://istio.io
+fiber,gofiber,Go,37003,1813,https://github.com/gofiber/fiber,106,37003,2020-01-16T03:59:20Z,2025-07-01T08:14:09Z,MIT License,https://gofiber.io
+ChatTTS,2noise,Python,36986,4013,https://github.com/2noise/ChatTTS,61,36986,2024-05-27T18:26:49Z,2025-07-01T07:34:29Z,GNU Affero General Public License v3.0,https://2noise.com
+plane,makeplane,TypeScript,36949,2416,https://github.com/makeplane/plane,527,36949,2022-11-19T12:55:01Z,2025-07-01T07:55:28Z,GNU Affero General Public License v3.0,http://plane.so
+interview_internal_reference,0voice,Python,36930,9461,https://github.com/0voice/interview_internal_reference,32,36930,2019-06-10T06:54:19Z,2025-07-01T07:57:39Z,,
+cal.com,calcom,TypeScript,36901,9845,https://github.com/calcom/cal.com,1335,36901,2021-03-22T13:47:42Z,2025-07-01T07:05:27Z,Other,https://cal.com
+Awesome-Design-Tools,goabstract,JavaScript,36892,2135,https://github.com/goabstract/Awesome-Design-Tools,99,36892,2019-02-12T13:55:30Z,2025-07-01T08:13:48Z,MIT License,
+GFPGAN,TencentARC,Python,36866,6121,https://github.com/TencentARC/GFPGAN,391,36866,2021-03-19T06:18:20Z,2025-07-01T07:52:56Z,Other,
+aspnetcore,dotnet,C#,36823,10376,https://github.com/dotnet/aspnetcore,3848,36823,2014-03-11T06:09:42Z,2025-07-01T08:06:59Z,MIT License,https://asp.net
+tesseract.js,naptha,JavaScript,36797,2312,https://github.com/naptha/tesseract.js,39,36797,2015-06-24T02:49:52Z,2025-07-01T08:00:24Z,Apache License 2.0,http://tesseract.projectnaptha.com/
+docs,inkonchain,MDX,36794,408,https://github.com/inkonchain/docs,23,36794,2024-05-07T16:49:36Z,2025-07-01T05:45:44Z,,https://docs.inkonchain.com
+node,inkonchain,Shell,36754,590,https://github.com/inkonchain/node,12,36754,2024-05-13T23:20:40Z,2025-07-01T05:45:18Z,MIT License,https://docs.inkonchain.com
+insomnia,Kong,TypeScript,36663,2090,https://github.com/Kong/insomnia,727,36663,2016-04-23T03:54:26Z,2025-07-01T08:11:55Z,Apache License 2.0,https://insomnia.rest
+taro,NervJS,TypeScript,36658,4849,https://github.com/NervJS/taro,1569,36658,2018-04-08T09:32:26Z,2025-07-01T06:15:49Z,Other,https://docs.taro.zone/
+ink-kit,inkonchain,TypeScript,36656,401,https://github.com/inkonchain/ink-kit,2,36656,2024-11-04T16:32:17Z,2025-07-01T05:45:35Z,MIT License,https://ink-kit.inkonchain.com
+winutil,ChrisTitusTech,PowerShell,36636,2007,https://github.com/ChrisTitusTech/winutil,168,36636,2022-04-28T02:25:19Z,2025-07-01T08:05:12Z,MIT License,
+lapce,lapce,Rust,36607,1145,https://github.com/lapce/lapce,834,36607,2018-02-06T08:41:06Z,2025-07-01T07:34:58Z,Apache License 2.0,https://lap.dev/lapce/
+system-design,karanpratapsingh,,36576,4330,https://github.com/karanpratapsingh/system-design,5,36576,2022-08-15T18:59:54Z,2025-07-01T07:28:24Z,Other,https://leanpub.com/systemdesign
+wtfjs,denysdovhan,JavaScript,36553,2612,https://github.com/denysdovhan/wtfjs,43,36553,2017-07-14T15:42:12Z,2025-07-01T02:18:27Z,Do What The F*ck You Want To Public License,http://bit.ly/wtfjavascript
+deeplearningbook-chinese,exacity,TeX,36532,9160,https://github.com/exacity/deeplearningbook-chinese,67,36532,2016-12-07T11:46:51Z,2025-07-01T07:49:49Z,,https://exacity.github.io/deeplearningbook-chinese
+JavaFamily,AobingJava,,36521,7819,https://github.com/AobingJava/JavaFamily,3,36521,2019-11-12T04:26:18Z,2025-06-30T16:03:23Z,,
+v,vlang,V,36504,2194,https://github.com/vlang/v,1068,36504,2019-02-08T02:57:06Z,2025-07-01T06:45:23Z,MIT License,
+devdocs,freeCodeCamp,Ruby,36464,2434,https://github.com/freeCodeCamp/devdocs,221,36464,2013-10-24T18:16:07Z,2025-07-01T05:30:31Z,Mozilla Public License 2.0,https://devdocs.io
+arthas,alibaba,Java,36416,7565,https://github.com/alibaba/arthas,454,36416,2018-08-29T17:15:57Z,2025-07-01T07:26:44Z,Apache License 2.0,https://arthas.aliyun.com/
+MockingBird,babysor,Python,36378,5256,https://github.com/babysor/MockingBird,481,36378,2021-08-07T03:53:39Z,2025-07-01T07:02:05Z,Other,
+wtfpython,satwikkansal,Python,36291,2664,https://github.com/satwikkansal/wtfpython,68,36291,2017-08-28T20:22:19Z,2025-07-01T02:18:29Z,Do What The F*ck You Want To Public License,
+interview,huihut,C++,36282,8074,https://github.com/huihut/interview,26,36282,2018-02-09T09:49:48Z,2025-07-01T07:31:23Z,Other,https://interview.huihut.com
+googletest,google,C++,36276,10417,https://github.com/google/googletest,428,36276,2015-07-28T15:07:53Z,2025-07-01T08:08:49Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://google.github.io/googletest/
+gym,openai,Python,36176,8682,https://github.com/openai/gym,128,36176,2016-04-27T14:59:16Z,2025-07-01T03:55:09Z,Other,https://www.gymlibrary.dev
+manifesto,opentofu,HTML,36088,1074,https://github.com/opentofu/manifesto,20,36088,2023-08-13T16:17:24Z,2025-06-30T23:02:43Z,Apache License 2.0,https://opentf.org
+og-aws,open-guides,Shell,36082,3894,https://github.com/open-guides/og-aws,159,36082,2016-07-13T17:30:16Z,2025-06-30T22:02:34Z,Creative Commons Attribution 4.0 International,
+windows,dockur,Shell,36071,2660,https://github.com/dockur/windows,70,36071,2024-01-14T13:09:40Z,2025-07-01T07:28:44Z,MIT License,
+cli,httpie,Python,35984,3745,https://github.com/httpie/cli,200,35984,2012-02-25T12:39:13Z,2025-07-01T07:00:20Z,"BSD 3-Clause ""New"" or ""Revised"" License",https://httpie.io
+halo,halo-dev,Java,35969,9961,https://github.com/halo-dev/halo,336,35969,2018-03-21T12:56:52Z,2025-07-01T06:58:42Z,GNU General Public License v3.0,https://www.halo.run
+lerna,lerna,TypeScript,35967,2276,https://github.com/lerna/lerna,397,35967,2015-12-04T09:36:55Z,2025-07-01T04:22:12Z,MIT License,https://lerna.js.org
+DragGAN,XingangPan,Python,35923,3440,https://github.com/XingangPan/DragGAN,153,35923,2023-05-18T10:08:02Z,2025-07-01T02:32:34Z,Other,https://vcai.mpi-inf.mpg.de/projects/DragGAN/
+ToolJet,ToolJet,JavaScript,35921,4659,https://github.com/ToolJet/ToolJet,979,35921,2021-03-30T08:51:34Z,2025-07-01T07:43:20Z,GNU Affero General Public License v3.0,https://tooljet.ai
+date-fns,date-fns,TypeScript,35908,1832,https://github.com/date-fns/date-fns,833,35908,2014-10-06T10:24:22Z,2025-07-01T06:11:03Z,MIT License,https://date-fns.org
+google-research,google-research,Jupyter Notebook,35896,8130,https://github.com/google-research/google-research,1635,35896,2018-10-04T18:42:48Z,2025-07-01T07:31:08Z,Apache License 2.0,https://research.google
+payload,payloadcms,TypeScript,35892,2618,https://github.com/payloadcms/payload,662,35892,2021-01-05T18:49:45Z,2025-07-01T06:07:38Z,MIT License,https://payloadcms.com
+shadowsocks-android,shadowsocks,Kotlin,35859,11551,https://github.com/shadowsocks/shadowsocks-android,53,35859,2012-12-16T13:40:29Z,2025-07-01T07:55:25Z,Other,
+metasploit-framework,rapid7,Ruby,35826,14382,https://github.com/rapid7/metasploit-framework,469,35826,2011-08-30T06:13:20Z,2025-07-01T04:41:20Z,Other,https://www.metasploit.com/
+faiss,facebookresearch,C++,35792,3931,https://github.com/facebookresearch/faiss,279,35792,2017-02-07T16:07:05Z,2025-07-01T08:02:29Z,MIT License,https://faiss.ai
+mem0,mem0ai,Python,35772,3648,https://github.com/mem0ai/mem0,495,35772,2023-06-20T08:58:36Z,2025-07-01T07:39:03Z,Apache License 2.0,https://mem0.ai
+sheetjs,SheetJS,,35742,7988,https://github.com/SheetJS/sheetjs,132,35742,2012-12-03T19:25:52Z,2025-07-01T06:28:23Z,Apache License 2.0,https://sheetjs.com/
+compose,docker,Go,35717,5440,https://github.com/docker/compose,74,35717,2013-12-09T11:40:58Z,2025-07-01T07:12:40Z,Apache License 2.0,https://docs.docker.com/compose/
+milvus,milvus-io,Go,35689,3272,https://github.com/milvus-io/milvus,673,35689,2019-09-16T06:43:43Z,2025-07-01T08:02:57Z,Apache License 2.0,https://milvus.io
+hello-algorithm,geekxh,Java,35678,6472,https://github.com/geekxh/hello-algorithm,11,35678,2020-05-29T05:47:09Z,2025-07-01T03:25:10Z,,https://www.lintcode.com/chat-gpt?utm_source=tf-github-xhGPT
+955.WLB,formulahendry,,35665,1764,https://github.com/formulahendry/955.WLB,201,35665,2019-03-27T23:53:37Z,2025-07-01T07:18:14Z,,
+nushell,nushell,Rust,35622,1868,https://github.com/nushell/nushell,1553,35622,2019-05-10T16:59:42Z,2025-07-01T08:06:26Z,MIT License,https://www.nushell.sh/
+siyuan,siyuan-note,TypeScript,35567,2196,https://github.com/siyuan-note/siyuan,397,35567,2020-08-30T09:21:35Z,2025-07-01T08:16:29Z,GNU Affero General Public License v3.0,https://b3log.org/siyuan
+chatbox,chatboxai,TypeScript,35551,3396,https://github.com/chatboxai/chatbox,778,35551,2023-03-06T12:22:15Z,2025-07-01T07:03:53Z,GNU General Public License v3.0,https://chatboxai.app?utm_medium=github
+koa,koajs,JavaScript,35546,3224,https://github.com/koajs/koa,20,35546,2013-07-20T18:53:45Z,2025-07-01T04:17:01Z,MIT License,https://koajs.com
+typeorm,typeorm,TypeScript,35503,6415,https://github.com/typeorm/typeorm,2462,35503,2016-02-29T07:41:14Z,2025-07-01T08:06:00Z,MIT License,http://typeorm.io
+Langchain-Chatchat,chatchat-space,TypeScript,35442,5937,https://github.com/chatchat-space/Langchain-Chatchat,172,35442,2023-03-31T12:12:45Z,2025-07-01T07:46:24Z,Apache License 2.0,
+fullPage.js,alvarotrigo,JavaScript,35433,7240,https://github.com/alvarotrigo/fullPage.js,149,35433,2013-09-20T11:58:29Z,2025-06-30T20:29:49Z,GNU General Public License v3.0,http://alvarotrigo.com/fullPage/
+lottie-android,airbnb,Java,35386,5436,https://github.com/airbnb/lottie-android,35,35386,2016-10-06T22:42:42Z,2025-06-30T19:47:58Z,Apache License 2.0,http://airbnb.io/lottie/
+HanLP,hankcs,Python,35289,10677,https://github.com/hankcs/HanLP,12,35289,2014-10-09T06:36:16Z,2025-07-01T01:58:06Z,Apache License 2.0,https://hanlp.hankcs.com/
+bruno,usebruno,JavaScript,35260,1717,https://github.com/usebruno/bruno,1442,35260,2022-09-27T20:51:45Z,2025-07-01T07:33:03Z,MIT License,https://www.usebruno.com/
+nativefier,nativefier,TypeScript,35238,2232,https://github.com/nativefier/nativefier,258,35238,2015-07-05T05:56:42Z,2025-07-01T07:45:15Z,MIT License,
+carbon,carbon-app,JavaScript,35217,1950,https://github.com/carbon-app/carbon,66,35217,2017-06-16T02:50:28Z,2025-07-01T07:38:01Z,MIT License,https://carbon.now.sh
+awesome-react-native,jondot,JavaScript,35211,4014,https://github.com/jondot/awesome-react-native,97,35211,2015-03-26T19:58:06Z,2025-07-01T06:37:11Z,,http://www.awesome-react-native.com
+Umi-OCR,hiroi-sora,Python,35169,3514,https://github.com/hiroi-sora/Umi-OCR,247,35169,2022-03-28T04:01:46Z,2025-07-01T08:14:23Z,MIT License,
+aider,Aider-AI,Python,35043,3215,https://github.com/Aider-AI/aider,1071,35043,2023-05-09T18:57:49Z,2025-07-01T08:04:06Z,Apache License 2.0,https://aider.chat/
+hackathon-starter,sahat,JavaScript,35022,8176,https://github.com/sahat/hackathon-starter,11,35022,2013-11-13T17:24:12Z,2025-06-30T21:45:03Z,MIT License,
+vim-plug,junegunn,Vim Script,35011,1949,https://github.com/junegunn/vim-plug,82,35011,2013-09-10T14:58:51Z,2025-07-01T06:41:08Z,MIT License,https://junegunn.github.io/vim-plug/
+marked,markedjs,TypeScript,34998,3459,https://github.com/markedjs/marked,13,34998,2011-07-24T13:15:51Z,2025-07-01T08:10:14Z,Other,https://marked.js.org
+HEU_KMS_Activator,zbezj,,34992,3472,https://github.com/zbezj/HEU_KMS_Activator,156,34992,2019-06-23T00:49:35Z,2025-07-01T08:11:08Z,,
+the-way-to-go_ZH_CN,unknwon,Go,34958,8608,https://github.com/unknwon/the-way-to-go_ZH_CN,46,34958,2013-03-24T17:18:38Z,2025-07-01T02:45:15Z,,
+glide,bumptech,Java,34907,6163,https://github.com/bumptech/glide,597,34907,2013-07-08T22:52:33Z,2025-06-30T20:29:48Z,Other,https://bumptech.github.io/glide/
+spacedrive,spacedriveapp,TypeScript,34898,1073,https://github.com/spacedriveapp/spacedrive,123,34898,2021-09-27T05:09:04Z,2025-07-01T06:20:21Z,GNU Affero General Public License v3.0,https://spacedrive.com
+cobalt,imputnet,Svelte,34803,2897,https://github.com/imputnet/cobalt,179,34803,2022-07-08T18:12:55Z,2025-07-01T07:37:24Z,GNU Affero General Public License v3.0,https://cobalt.tools
+REKCARC-TSC-UHT,PKUanonym,HTML,34729,7722,https://github.com/PKUanonym/REKCARC-TSC-UHT,2,34729,2019-04-05T03:31:23Z,2025-07-01T05:19:23Z,Creative Commons Attribution Share Alike 4.0 International,https://rekcarc-tsc-uht.readthedocs.io/
+awesome-shell,alebcay,,34618,2424,https://github.com/alebcay/awesome-shell,112,34618,2014-07-07T01:57:42Z,2025-07-01T07:21:58Z,Creative Commons Zero v1.0 Universal,
+sqlmap,sqlmapproject,Python,34616,5951,https://github.com/sqlmapproject/sqlmap,65,34616,2012-06-26T09:52:15Z,2025-07-01T07:33:30Z,Other,http://sqlmap.org
+pytorch-image-models,huggingface,Python,34607,4937,https://github.com/huggingface/pytorch-image-models,74,34607,2019-02-02T05:51:12Z,2025-07-01T07:30:19Z,Apache License 2.0,https://huggingface.co/docs/timm
+engineering-blogs,kilimchoi,Ruby,34479,1814,https://github.com/kilimchoi/engineering-blogs,139,34479,2015-06-13T18:25:17Z,2025-07-01T08:15:12Z,,
+AgentGPT,reworkd,TypeScript,34447,9448,https://github.com/reworkd/AgentGPT,211,34447,2023-04-07T02:29:19Z,2025-07-01T07:39:22Z,GNU General Public License v3.0,https://agentgpt.reworkd.ai
+caffe,BVLC,C++,34441,18623,https://github.com/BVLC/caffe,1177,34441,2013-09-12T18:39:48Z,2025-07-01T01:39:02Z,Other,http://caffe.berkeleyvision.org/
+TaskMatrix,chenfei-wu,Python,34436,3287,https://github.com/chenfei-wu/TaskMatrix,257,34436,2023-03-02T09:04:28Z,2025-06-30T08:17:58Z,Other,
+data-engineer-handbook,DataExpert-io,Jupyter Notebook,34431,6615,https://github.com/DataExpert-io/data-engineer-handbook,35,34431,2023-11-19T19:47:41Z,2025-07-01T07:52:24Z,,
+node-v0.x-archive,nodejs,,34388,7293,https://github.com/nodejs/node-v0.x-archive,0,34388,2009-05-27T16:29:46Z,2025-06-28T18:40:05Z,,
+awesome-javascript,sorrycc,,34358,4467,https://github.com/sorrycc/awesome-javascript,19,34358,2014-07-01T15:59:02Z,2025-07-01T07:20:26Z,,
+Coursera-ML-AndrewNg-Notes,fengdu78,HTML,34335,10927,https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes,67,34335,2017-11-04T10:04:08Z,2025-07-01T03:53:45Z,,
+leetcode,doocs,Java,34272,9121,https://github.com/doocs/leetcode,0,34272,2018-09-16T14:03:03Z,2025-07-01T04:49:34Z,Creative Commons Attribution Share Alike 4.0 International,https://leetcode.doocs.org
+formik,jaredpalmer,TypeScript,34253,2801,https://github.com/jaredpalmer/formik,828,34253,2017-06-14T19:50:59Z,2025-06-30T20:29:38Z,Apache License 2.0,https://formik.org
+polars,pola-rs,Rust,34246,2287,https://github.com/pola-rs/polars,2752,34246,2020-05-13T19:45:33Z,2025-07-01T08:16:01Z,Other,https://docs.pola.rs
+NewPipe,TeamNewPipe,Java,34222,3217,https://github.com/TeamNewPipe/NewPipe,1233,34222,2015-09-03T23:39:26Z,2025-07-01T08:04:01Z,GNU General Public License v3.0,https://newpipe.net
+netty,netty,Java,34210,16118,https://github.com/netty/netty,659,34210,2010-11-09T09:22:21Z,2025-07-01T07:38:37Z,Apache License 2.0,http://netty.io
+jieba,fxsjy,Python,34210,6732,https://github.com/fxsjy/jieba,690,34210,2012-09-29T07:52:01Z,2025-07-01T06:21:45Z,MIT License,
+gold-miner,xitu,,34174,5042,https://github.com/xitu/gold-miner,9,34174,2015-11-04T03:29:13Z,2025-07-01T06:54:52Z,,https://juejin.cn/tag/掘金翻译计划
+clipboard.js,zenorocha,JavaScript,34147,3956,https://github.com/zenorocha/clipboard.js,14,34147,2015-09-18T23:04:55Z,2025-07-01T06:37:04Z,MIT License,https://clipboardjs.com
+full-stack-fastapi-template,fastapi,TypeScript,34146,6484,https://github.com/fastapi/full-stack-fastapi-template,217,34146,2019-02-23T15:08:34Z,2025-07-01T08:03:59Z,MIT License,
+fastify,fastify,JavaScript,34066,2438,https://github.com/fastify/fastify,115,34066,2016-09-28T19:10:14Z,2025-07-01T08:08:59Z,Other,https://www.fastify.dev
+12306,testerSunshine,Python,34051,9758,https://github.com/testerSunshine/12306,281,34051,2017-05-17T12:23:40Z,2025-07-01T04:56:17Z,MIT License,
+react-beautiful-dnd,atlassian,JavaScript,33963,2720,https://github.com/atlassian/react-beautiful-dnd,646,33963,2017-08-09T03:37:15Z,2025-07-01T02:33:14Z,Other,https://react-beautiful-dnd.netlify.app
+solid,solidjs,TypeScript,33859,974,https://github.com/solidjs/solid,131,33859,2018-04-24T16:36:27Z,2025-07-01T07:42:42Z,MIT License,https://solidjs.com
+Free-Certifications,cloudcommunity,,33856,2409,https://github.com/cloudcommunity/Free-Certifications,47,33856,2020-07-31T10:26:19Z,2025-07-01T06:50:39Z,MIT License,https://free-certifications.com
+LLM101n,karpathy,,33852,1842,https://github.com/karpathy/LLM101n,19,33852,2024-05-27T00:23:38Z,2025-07-01T07:00:44Z,,
+jan,menloresearch,TypeScript,33810,1969,https://github.com/menloresearch/jan,225,33810,2023-08-17T02:17:10Z,2025-07-01T07:57:59Z,Apache License 2.0,https://jan.ai/
+spring-boot-demo,xkcoding,Java,33767,10980,https://github.com/xkcoding/spring-boot-demo,141,33767,2017-11-10T06:27:29Z,2025-07-01T07:34:20Z,MIT License,https://parg.co/UZM
+framework,laravel,PHP,33762,11428,https://github.com/laravel/framework,99,33762,2013-01-10T21:27:28Z,2025-07-01T06:54:03Z,MIT License,https://laravel.com
+husky,typicode,JavaScript,33726,1058,https://github.com/typicode/husky,89,33726,2014-06-23T12:14:21Z,2025-07-01T07:21:15Z,MIT License,https://typicode.github.io/husky
+shadowsocks,shadowsocks,Python,33628,18442,https://github.com/shadowsocks/shadowsocks,449,33628,2012-04-20T13:10:49Z,2025-06-30T20:29:42Z,,
+puter,HeyPuter,JavaScript,33624,2523,https://github.com/HeyPuter/puter,185,33624,2024-03-03T01:44:32Z,2025-07-01T04:39:30Z,GNU Affero General Public License v3.0,https://puter.com
+linux-command,jaywcjlove,Markdown,33596,6387,https://github.com/jaywcjlove/linux-command,82,33596,2016-11-12T15:44:26Z,2025-07-01T03:47:35Z,MIT License,https://jaywcjlove.github.io/linux-command
+AndroidUtilCode,Blankj,Java,33595,10709,https://github.com/Blankj/AndroidUtilCode,321,33595,2016-07-30T18:18:32Z,2025-07-01T07:48:29Z,Apache License 2.0,https://blankj.com/2016/07/31/android-utils-code/
+LocalAI,mudler,Go,33590,2596,https://github.com/mudler/LocalAI,479,33590,2023-03-18T22:58:02Z,2025-07-01T08:03:28Z,MIT License,https://localai.io
+desktop,zen-browser,C++,33589,942,https://github.com/zen-browser/desktop,437,33589,2024-03-28T00:05:55Z,2025-07-01T08:04:01Z,Mozilla Public License 2.0,https://zen-browser.app
+crewAI,crewAIInc,Python,33587,4512,https://github.com/crewAIInc/crewAI,113,33587,2023-10-27T03:26:59Z,2025-07-01T08:04:08Z,MIT License,https://crewai.com
+LeetCode-Go,halfrost,Go,33564,5774,https://github.com/halfrost/LeetCode-Go,21,33564,2017-07-18T00:06:14Z,2025-07-01T07:59:07Z,MIT License,https://books.halfrost.com/leetcode
+AFNetworking,AFNetworking,Objective-C,33503,10480,https://github.com/AFNetworking/AFNetworking,102,33503,2011-05-31T21:28:44Z,2025-06-30T23:03:30Z,MIT License,http://afnetworking.com
+easyexcel,alibaba,Java,33477,7644,https://github.com/alibaba/easyexcel,563,33477,2018-02-06T03:14:08Z,2025-07-01T07:53:12Z,Apache License 2.0,https://easyexcel.opensource.alibaba.com
+portainer,portainer,TypeScript,33461,2609,https://github.com/portainer/portainer,770,33461,2016-05-19T20:15:28Z,2025-07-01T07:24:26Z,zlib License,https://www.portainer.io
+HowToLiveLonger,geekan,,33441,2299,https://github.com/geekan/HowToLiveLonger,33,33441,2022-04-16T04:15:18Z,2025-07-01T07:43:23Z,The Unlicense,
+zxing,zxing,Java,33408,9410,https://github.com/zxing/zxing,6,33408,2011-10-12T14:07:27Z,2025-07-01T02:58:01Z,Apache License 2.0,
+poetry,python-poetry,Python,33391,2351,https://github.com/python-poetry/poetry,572,33391,2018-02-28T15:23:47Z,2025-07-01T05:19:33Z,MIT License,https://python-poetry.org
+JavaScript,TheAlgorithms,JavaScript,33341,5711,https://github.com/TheAlgorithms/JavaScript,124,33341,2017-07-13T06:12:33Z,2025-07-01T05:39:58Z,GNU General Public License v3.0,https://the-algorithms.com/language/javascript
+Python,geekcomputers,Python,33337,12559,https://github.com/geekcomputers/Python,425,33337,2011-11-30T09:04:08Z,2025-06-30T22:50:34Z,MIT License,http://www.thegeekblog.co.uk
+RevokeMsgPatcher,huiyadanli,C#,33292,3700,https://github.com/huiyadanli/RevokeMsgPatcher,92,33292,2019-07-21T15:12:52Z,2025-07-01T08:14:07Z,GNU General Public License v3.0,
+zsh-autosuggestions,zsh-users,Shell,33288,1899,https://github.com/zsh-users/zsh-autosuggestions,184,33288,2013-10-26T16:09:37Z,2025-07-01T07:23:58Z,MIT License,
+docling,docling-project,Python,33269,2184,https://github.com/docling-project/docling,409,33269,2024-07-09T07:50:26Z,2025-07-01T08:16:30Z,MIT License,https://docling-project.github.io/docling
+XX-Net,XX-net,Python,33268,7646,https://github.com/XX-net/XX-Net,7916,33268,2015-01-15T09:35:51Z,2025-07-01T04:48:17Z,,
+llvm-project,llvm,LLVM,33265,14347,https://github.com/llvm/llvm-project,30462,33265,2016-12-07T09:39:33Z,2025-07-01T07:48:28Z,Other,http://llvm.org
+manim,ManimCommunity,Python,33242,2329,https://github.com/ManimCommunity/manim,544,33242,2020-05-19T02:37:13Z,2025-07-01T08:14:50Z,MIT License,https://www.manim.community
+brackets,adobe,JavaScript,33186,7579,https://github.com/adobe/brackets,2781,33186,2011-12-07T21:14:40Z,2025-06-30T21:43:05Z,MIT License,http://brackets.io
+mindsdb,mindsdb,Python,33082,5423,https://github.com/mindsdb/mindsdb,211,33082,2018-08-02T17:56:45Z,2025-07-01T07:46:32Z,Other,https://mindsdb.com
+gulp,gulpjs,JavaScript,33071,4215,https://github.com/gulpjs/gulp,33,33071,2013-07-04T05:26:06Z,2025-07-01T05:45:31Z,MIT License,https://gulpjs.com
+immutable-js,immutable-js,TypeScript,33048,1774,https://github.com/immutable-js/immutable-js,111,33048,2014-07-02T06:02:29Z,2025-06-30T22:44:55Z,MIT License,https://immutable-js.com
+gpt-pilot,Pythagora-io,Python,33039,3375,https://github.com/Pythagora-io/gpt-pilot,243,33039,2023-08-16T11:56:07Z,2025-07-01T07:49:39Z,Other,
+awesome-deepseek-integration,deepseek-ai,,33001,3654,https://github.com/deepseek-ai/awesome-deepseek-integration,137,33001,2024-01-11T02:43:17Z,2025-07-01T03:05:59Z,Creative Commons Zero v1.0 Universal,
+nps,ehang-io,Go,32988,5939,https://github.com/ehang-io/nps,519,32988,2018-11-04T13:22:51Z,2025-07-01T07:30:01Z,GNU General Public License v3.0,https://ehang.io/nps/documents
+carbon-lang,carbon-language,C++,32979,1496,https://github.com/carbon-language/carbon-lang,163,32979,2020-04-27T21:45:16Z,2025-07-01T04:25:28Z,Other,http://docs.carbon-lang.dev/
+mattermost,mattermost,TypeScript,32964,7828,https://github.com/mattermost/mattermost,964,32964,2015-06-15T06:50:02Z,2025-07-01T07:44:22Z,Other,https://mattermost.com
+ijkplayer,bilibili,C,32952,8201,https://github.com/bilibili/ijkplayer,2885,32952,2013-06-03T04:12:04Z,2025-07-01T07:56:53Z,GNU General Public License v2.0,
+harness,harness,Go,32922,2841,https://github.com/harness/harness,74,32922,2014-02-07T07:54:44Z,2025-07-01T08:13:45Z,Apache License 2.0,https://www.harness.io/open-source
+How-To-Ask-Questions-The-Smart-Way,ryanhanwu,JavaScript,32912,5714,https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way,9,32912,2015-03-28T16:52:40Z,2025-07-01T07:23:53Z,MIT License,
+ShareX,ShareX,C#,32895,3412,https://github.com/ShareX/ShareX,527,32895,2013-10-08T23:32:10Z,2025-07-01T07:01:08Z,GNU General Public License v3.0,https://getsharex.com
+OpenVoice,myshell-ai,Python,32806,3441,https://github.com/myshell-ai/OpenVoice,263,32806,2023-11-29T12:17:01Z,2025-07-01T07:39:24Z,MIT License,https://research.myshell.ai/open-voice
+awesome-docker,veggiemonk,,32797,3103,https://github.com/veggiemonk/awesome-docker,4,32797,2014-09-21T17:01:48Z,2025-07-01T08:13:45Z,Apache License 2.0,https://awesome-docker.netlify.app
+ShadowsocksX-NG,shadowsocks,Swift,32788,7906,https://github.com/shadowsocks/ShadowsocksX-NG,312,32788,2016-06-10T11:49:00Z,2025-07-01T06:46:21Z,GNU General Public License v3.0,
+bubbletea,charmbracelet,Go,32746,929,https://github.com/charmbracelet/bubbletea,120,32746,2020-01-10T21:04:03Z,2025-07-01T07:34:28Z,MIT License,
+aseprite,aseprite,C++,32716,7163,https://github.com/aseprite/aseprite,1808,32716,2014-08-19T23:44:50Z,2025-07-01T06:35:19Z,,https://www.aseprite.org
+vault,hashicorp,Go,32688,4385,https://github.com/hashicorp/vault,1391,32688,2015-02-25T00:15:59Z,2025-07-01T04:08:16Z,Other,https://developer.hashicorp.com/vault
+openpose,CMU-Perceptual-Computing-Lab,C++,32684,7979,https://github.com/CMU-Perceptual-Computing-Lab/openpose,355,32684,2017-04-24T14:06:31Z,2025-07-01T02:56:02Z,Other,https://cmu-perceptual-computing-lab.github.io/openpose
+awesome-awesomeness,bayandin,Ruby,32680,3579,https://github.com/bayandin/awesome-awesomeness,41,32680,2014-07-08T05:44:19Z,2025-07-01T06:09:24Z,,
+outline,outline,TypeScript,32679,2667,https://github.com/outline/outline,113,32679,2016-05-22T21:31:47Z,2025-07-01T07:54:59Z,Other,https://www.getoutline.com
+selenium,SeleniumHQ,Java,32667,8486,https://github.com/SeleniumHQ/selenium,256,32667,2013-01-14T21:40:56Z,2025-07-01T04:29:43Z,Apache License 2.0,https://selenium.dev
+jax,jax-ml,Python,32660,3076,https://github.com/jax-ml/jax,2121,32660,2018-10-25T21:25:02Z,2025-07-01T08:08:54Z,Apache License 2.0,https://docs.jax.dev
+ControlNet,lllyasviel,Python,32640,2915,https://github.com/lllyasviel/ControlNet,450,32640,2023-02-01T02:43:30Z,2025-07-01T05:26:09Z,Apache License 2.0,
+AnotherRedisDesktopManager,qishibo,JavaScript,32571,2658,https://github.com/qishibo/AnotherRedisDesktopManager,144,32571,2019-01-08T06:01:56Z,2025-07-01T06:48:03Z,MIT License,
+ghostty,ghostty-org,Zig,32514,903,https://github.com/ghostty-org/ghostty,170,32514,2022-03-29T17:38:26Z,2025-07-01T07:57:53Z,MIT License,https://ghostty.org
+twenty,twentyhq,TypeScript,32406,3592,https://github.com/twentyhq/twenty,235,32406,2022-12-01T13:04:40Z,2025-07-01T08:16:26Z,Other,https://twenty.com
+swc,swc-project,Rust,32402,1315,https://github.com/swc-project/swc,424,32402,2017-12-22T11:40:14Z,2025-07-01T06:23:26Z,Apache License 2.0,https://swc.rs
+certbot,certbot,Python,32291,3433,https://github.com/certbot/certbot,180,32291,2014-11-12T02:52:20Z,2025-07-01T02:25:02Z,Other,
+libpku,lib-pku,TeX,32281,8291,https://github.com/lib-pku/libpku,15,32281,2018-11-22T13:33:06Z,2025-07-01T08:06:51Z,,https://lib-pku.github.io/
+material-design-lite,google,HTML,32278,4983,https://github.com/google/material-design-lite,424,32278,2015-01-14T22:01:33Z,2025-06-30T23:02:21Z,Apache License 2.0,https://getmdl.io
+detectron2,facebookresearch,Python,32258,7714,https://github.com/facebookresearch/detectron2,569,32258,2019-09-05T21:30:20Z,2025-07-01T07:38:31Z,Apache License 2.0,https://detectron2.readthedocs.io/en/latest/
+C-Plus-Plus,TheAlgorithms,C++,32223,7412,https://github.com/TheAlgorithms/C-Plus-Plus,32,32223,2016-07-16T10:19:45Z,2025-07-01T07:37:20Z,MIT License,https://thealgorithms.github.io/C-Plus-Plus
+stats,exelban,Swift,32214,1024,https://github.com/exelban/stats,29,32214,2019-05-29T19:24:56Z,2025-07-01T07:16:43Z,MIT License,https://mac-stats.com
+beego,beego,Go,32129,5635,https://github.com/beego/beego,16,32129,2012-02-29T02:32:08Z,2025-06-30T20:27:30Z,Other,
+modern-unix,ibraheemdev,,32090,803,https://github.com/ibraheemdev/modern-unix,66,32090,2021-01-12T00:50:14Z,2025-07-01T08:01:09Z,,
+my-tv,lizongying,C,32077,3582,https://github.com/lizongying/my-tv,146,32077,2023-12-04T12:18:39Z,2025-07-01T07:45:29Z,,https://lyrics.run/my-tv.html
+run,The-Run-Philosophy-Organization,,32062,2611,https://github.com/The-Run-Philosophy-Organization/run,43,32062,2022-04-10T05:42:40Z,2025-06-30T23:34:09Z,Creative Commons Attribution Share Alike 4.0 International,
+Reactive-Resume,AmruthPillai,TypeScript,32034,3357,https://github.com/AmruthPillai/Reactive-Resume,326,32034,2020-03-25T14:08:22Z,2025-07-01T07:15:14Z,MIT License,https://rxresu.me
+jq,jqlang,C,32031,1641,https://github.com/jqlang/jq,431,32031,2012-07-18T19:57:25Z,2025-07-01T08:02:03Z,Other,https://jqlang.org
+pnpm,pnpm,TypeScript,31994,1156,https://github.com/pnpm/pnpm,1888,31994,2016-01-28T07:40:43Z,2025-07-01T07:06:04Z,MIT License,https://pnpm.io
+lossless-cut,mifi,TypeScript,31971,1505,https://github.com/mifi/lossless-cut,205,31971,2016-10-30T10:49:56Z,2025-07-01T06:56:23Z,GNU General Public License v2.0,https://losslesscut.app/
+serenity,SerenityOS,C++,31953,3253,https://github.com/SerenityOS/serenity,735,31953,2018-12-02T19:28:41Z,2025-07-01T07:27:31Z,"BSD 2-Clause ""Simplified"" License",https://serenityos.org
+chatgpt-web,Chanzhaoyu,Vue,31950,11166,https://github.com/Chanzhaoyu/chatgpt-web,1,31950,2023-02-09T03:21:37Z,2025-06-30T11:52:08Z,MIT License,
+rufus,pbatard,C,31900,2759,https://github.com/pbatard/rufus,8,31900,2011-11-19T19:12:05Z,2025-07-01T06:55:31Z,GNU General Public License v3.0,https://rufus.ie
+Fabric,danielmiessler,JavaScript,31892,3313,https://github.com/danielmiessler/Fabric,201,31892,2024-01-03T23:18:31Z,2025-07-01T08:10:34Z,MIT License,https://danielmiessler.com/p/fabric-origin-story
+remote-jobs,remoteintech,JavaScript,31890,3347,https://github.com/remoteintech/remote-jobs,51,31890,2015-10-13T03:49:25Z,2025-07-01T05:45:59Z,Creative Commons Zero v1.0 Universal,https://remoteintech.company/?utm_campaign=GitHub+bio&utm_source=github&utm_medium=bio&utm_content=textlink
+ruoyi-vue-pro,YunaiV,Java,31877,6860,https://github.com/YunaiV/ruoyi-vue-pro,34,31877,2021-01-24T03:18:25Z,2025-07-01T08:12:53Z,MIT License,https://doc.iocoder.cn/
+shardeum,shardeum,TypeScript,31860,688,https://github.com/shardeum/shardeum,81,31860,2024-04-16T22:37:25Z,2025-06-30T19:49:44Z,MIT License,https://shardeum.org/
+spaCy,explosion,Python,31859,4526,https://github.com/explosion/spaCy,187,31859,2014-07-03T15:15:40Z,2025-07-01T06:28:21Z,MIT License,https://spacy.io
+bulletproof-react,alan2207,TypeScript,31853,2892,https://github.com/alan2207/bulletproof-react,44,31853,2021-05-30T14:47:16Z,2025-07-01T08:02:40Z,MIT License,
+learnGitBranching,pcottle,JavaScript,31835,5847,https://github.com/pcottle/learnGitBranching,47,31835,2012-08-13T22:36:09Z,2025-07-01T08:00:03Z,MIT License,https://pcottle.github.io/learnGitBranching/
+qBittorrent,qbittorrent,C++,31823,4268,https://github.com/qbittorrent/qBittorrent,2341,31823,2012-02-04T09:37:46Z,2025-07-01T07:28:31Z,Other,https://www.qbittorrent.org
+android-open-project,Trinea,,31762,11903,https://github.com/Trinea/android-open-project,28,31762,2014-01-05T15:20:15Z,2025-07-01T05:39:38Z,Apache License 2.0,https://p.codekk.com/
+yew,yewstack,Rust,31715,1441,https://github.com/yewstack/yew,154,31715,2017-12-16T14:19:02Z,2025-07-01T07:09:46Z,Apache License 2.0,https://yew.rs
+CyberChef,gchq,JavaScript,31707,3565,https://github.com/gchq/CyberChef,517,31707,2016-11-28T10:34:07Z,2025-07-01T07:24:59Z,Apache License 2.0,https://gchq.github.io/CyberChef
+awesome-php,ziadoz,,31700,5121,https://github.com/ziadoz/awesome-php,66,31700,2013-11-26T03:14:19Z,2025-07-01T07:42:18Z,Do What The F*ck You Want To Public License,
+nacos,alibaba,Java,31691,13072,https://github.com/alibaba/nacos,287,31691,2018-06-15T06:49:27Z,2025-07-01T08:13:48Z,Apache License 2.0,https://nacos.io
+chatbot-ui,mckaywrigley,TypeScript,31660,9078,https://github.com/mckaywrigley/chatbot-ui,217,31660,2023-03-11T14:53:14Z,2025-07-01T05:59:31Z,MIT License,https://JoinTakeoff.com
+swr,vercel,TypeScript,31624,1273,https://github.com/vercel/swr,170,31624,2019-10-28T18:16:01Z,2025-07-01T08:13:16Z,MIT License,https://swr.vercel.app
+etcher,balena-io,TypeScript,31616,2238,https://github.com/balena-io/etcher,576,31616,2015-10-27T16:53:23Z,2025-07-01T07:09:21Z,Apache License 2.0,https://etcher.io/
+tabby,TabbyML,Rust,31601,1514,https://github.com/TabbyML/tabby,242,31601,2023-03-16T09:18:01Z,2025-07-01T06:43:02Z,Other,https://tabbyml.com
+data-engineering-zoomcamp,DataTalksClub,Jupyter Notebook,31598,6709,https://github.com/DataTalksClub/data-engineering-zoomcamp,5,31598,2021-10-21T09:32:50Z,2025-07-01T07:18:02Z,,
+fairseq,facebookresearch,Python,31591,6551,https://github.com/facebookresearch/fairseq,1334,31591,2017-08-29T16:26:12Z,2025-07-01T08:08:45Z,MIT License,
+graphql-engine,hasura,TypeScript,31587,2807,https://github.com/hasura/graphql-engine,2370,31587,2018-06-18T07:57:36Z,2025-06-30T22:44:32Z,Apache License 2.0,https://hasura.io
+Real-ESRGAN,xinntao,Python,31534,3939,https://github.com/xinntao/Real-ESRGAN,596,31534,2021-07-19T03:23:30Z,2025-07-01T08:05:26Z,"BSD 3-Clause ""New"" or ""Revised"" License",
+refine,refinedev,TypeScript,31428,2553,https://github.com/refinedev/refine,35,31428,2021-01-20T12:01:32Z,2025-07-01T07:38:06Z,MIT License,https://refine.dev
+pytorch-tutorial,yunjey,Python,31426,8221,https://github.com/yunjey/pytorch-tutorial,89,31426,2017-03-10T07:41:47Z,2025-07-01T02:34:43Z,MIT License,
+cursor-free-vip,yeongpin,Python,31423,3944,https://github.com/yeongpin/cursor-free-vip,488,31423,2025-01-11T08:14:22Z,2025-07-01T08:15:15Z,Other,https://www.cursor.com/
+WxJava,binarywang,Java,31400,8897,https://github.com/binarywang/WxJava,61,31400,2016-01-06T08:24:05Z,2025-07-01T07:34:38Z,Apache License 2.0,
+remix,remix-run,TypeScript,31395,2661,https://github.com/remix-run/remix,2,31395,2020-10-26T19:57:28Z,2025-07-01T03:44:45Z,MIT License,https://remix.run
+v2ray-core,v2fly,Go,31367,4838,https://github.com/v2fly/v2ray-core,32,31367,2019-04-15T10:05:54Z,2025-07-01T07:59:57Z,MIT License,https://v2fly.org
+html2canvas,niklasvh,TypeScript,31345,4872,https://github.com/niklasvh/html2canvas,1029,31345,2011-07-16T01:05:58Z,2025-07-01T08:09:36Z,MIT License,https://html2canvas.hertzen.com/
+rxjs,ReactiveX,TypeScript,31344,3005,https://github.com/ReactiveX/rxjs,274,31344,2015-03-15T06:17:10Z,2025-07-01T07:55:21Z,Apache License 2.0,https://rxjs.dev
+floating-ui,floating-ui,TypeScript,31338,1639,https://github.com/floating-ui/floating-ui,28,31338,2016-03-29T17:00:47Z,2025-07-01T06:41:17Z,MIT License,https://floating-ui.com
+go-zero,zeromicro,Go,31330,4152,https://github.com/zeromicro/go-zero,359,31330,2020-08-07T15:37:57Z,2025-07-01T07:49:14Z,MIT License,https://go-zero.dev
+vimrc,amix,Vim Script,31320,7313,https://github.com/amix/vimrc,17,31320,2012-05-29T16:19:29Z,2025-07-01T05:40:16Z,MIT License,
+MS-DOS,microsoft,Assembly,31276,4467,https://github.com/microsoft/MS-DOS,3,31276,2018-06-25T18:26:02Z,2025-06-30T18:14:24Z,MIT License,https://en.wikipedia.org/wiki/MS-DOS
+mmdetection,open-mmlab,Python,31256,9687,https://github.com/open-mmlab/mmdetection,1920,31256,2018-08-22T07:06:06Z,2025-07-01T08:03:50Z,Apache License 2.0,https://mmdetection.readthedocs.io
+lottie-web,airbnb,JavaScript,31235,2913,https://github.com/airbnb/lottie-web,829,31235,2015-02-20T21:02:59Z,2025-07-01T07:08:22Z,MIT License,
+echo,labstack,Go,31213,2279,https://github.com/labstack/echo,105,31213,2015-03-01T17:43:01Z,2025-07-01T04:26:47Z,MIT License,https://echo.labstack.com
+tiptap,ueberdosis,TypeScript,31209,2547,https://github.com/ueberdosis/tiptap,657,31209,2018-08-20T19:58:58Z,2025-07-01T07:46:47Z,MIT License,https://tiptap.dev
+awesome-cto,kuchin,,31182,1913,https://github.com/kuchin/awesome-cto,0,31182,2016-12-16T19:22:18Z,2025-07-01T07:15:53Z,Creative Commons Zero v1.0 Universal,
+YesPlayMusic,qier222,Vue,31159,4562,https://github.com/qier222/YesPlayMusic,604,31159,2020-10-09T10:04:21Z,2025-07-01T06:37:58Z,MIT License,https://music.qier222.com
+mpv,mpv-player,C,31127,3052,https://github.com/mpv-player/mpv,1009,31127,2012-10-13T08:08:44Z,2025-07-01T08:11:26Z,Other,https://mpv.io
+cockroach,cockroachdb,Go,31034,3926,https://github.com/cockroachdb/cockroach,7341,31034,2014-02-06T00:18:47Z,2025-07-01T07:41:19Z,Other,https://www.cockroachlabs.com
+Blog,mqyqingfeng,,31019,4693,https://github.com/mqyqingfeng/Blog,266,31019,2017-03-13T10:04:33Z,2025-07-01T06:00:27Z,,
+directus,directus,TypeScript,31015,4250,https://github.com/directus/directus,320,31015,2012-12-12T01:35:36Z,2025-06-30T23:28:39Z,Other,https://directus.io
+it-tools,CorentinTh,Vue,30985,3707,https://github.com/CorentinTh/it-tools,707,30985,2020-04-05T11:50:24Z,2025-07-01T07:29:54Z,GNU General Public License v3.0,https://it-tools.tech
+jQuery-File-Upload,blueimp,PHP,30903,7885,https://github.com/blueimp/jQuery-File-Upload,52,30903,2010-12-01T15:35:32Z,2025-06-30T23:07:00Z,MIT License,https://blueimp.github.io/jQuery-File-Upload/
+servo,servo,Rust,30879,3196,https://github.com/servo/servo,3192,30879,2012-02-08T19:07:25Z,2025-07-01T08:12:17Z,Mozilla Public License 2.0,https://servo.org
+slate,ianstormtaylor,TypeScript,30874,3294,https://github.com/ianstormtaylor/slate,677,30874,2016-06-18T01:52:42Z,2025-07-01T04:03:04Z,MIT License,http://slatejs.org
+dotfiles,mathiasbynens,Shell,30868,8719,https://github.com/mathiasbynens/dotfiles,190,30868,2011-09-05T18:07:54Z,2025-06-30T17:15:57Z,MIT License,https://mths.be/dotfiles
+linux-insides,0xAX,Python,30855,3413,https://github.com/0xAX/linux-insides,45,30855,2015-01-03T18:44:57Z,2025-07-01T05:41:10Z,Other,http://0xax.gitbooks.io/linux-insides/content/index.html
+Hello-Python,mouredev,Python,30833,1981,https://github.com/mouredev/Hello-Python,22,30833,2022-08-03T17:14:53Z,2025-07-01T06:07:37Z,Apache License 2.0,
+lede,coolsnowwolf,C,30802,19582,https://github.com/coolsnowwolf/lede,757,30802,2017-09-06T07:39:03Z,2025-07-01T07:01:58Z,Other,
+drawdb,drawdb-io,JavaScript,30798,2209,https://github.com/drawdb-io/drawdb,96,30798,2023-07-16T17:09:20Z,2025-07-01T08:11:46Z,GNU Affero General Public License v3.0,https://drawdb.app
+dokku,dokku,Shell,30744,1982,https://github.com/dokku/dokku,68,30744,2013-06-08T10:26:57Z,2025-07-01T05:05:13Z,MIT License,https://dokku.com
+p3c,alibaba,Kotlin,30661,8067,https://github.com/alibaba/p3c,186,30661,2017-06-23T06:15:51Z,2025-07-01T01:31:36Z,Apache License 2.0,https://github.com/alibaba/p3c/wiki
+sharp,lovell,JavaScript,30661,1345,https://github.com/lovell/sharp,116,30661,2013-08-19T20:24:24Z,2025-07-01T07:49:51Z,Apache License 2.0,https://sharp.pixelplumbing.com
+backstage,backstage,TypeScript,30655,6618,https://github.com/backstage/backstage,447,30655,2020-01-24T22:39:49Z,2025-07-01T06:25:13Z,Apache License 2.0,https://backstage.io/
+paper-reading,mli,,30651,2661,https://github.com/mli/paper-reading,1,30651,2021-10-22T06:34:51Z,2025-07-01T02:18:56Z,Apache License 2.0,
+GPT_API_free,chatanywhere,Python,30643,2208,https://github.com/chatanywhere/GPT_API_free,21,30643,2023-04-23T12:42:08Z,2025-07-01T08:12:13Z,MIT License,https://api.chatanywhere.tech
+duckdb,duckdb,C++,30637,2410,https://github.com/duckdb/duckdb,517,30637,2018-06-26T15:04:45Z,2025-07-01T08:08:17Z,MIT License,http://www.duckdb.org
+minikube,kubernetes,Go,30618,5004,https://github.com/kubernetes/minikube,558,30618,2016-04-15T22:38:35Z,2025-07-01T01:08:18Z,Apache License 2.0,https://minikube.sigs.k8s.io/
+vnpy,vnpy,Python,30608,9752,https://github.com/vnpy/vnpy,16,30608,2015-03-02T03:36:58Z,2025-07-01T08:15:34Z,MIT License,http://www.vnpy.com
+netron,lutzroeder,JavaScript,30574,2924,https://github.com/lutzroeder/netron,22,30574,2010-12-26T12:53:43Z,2025-07-01T07:53:32Z,MIT License,https://netron.app
+cursor,cursor,,30567,1952,https://github.com/cursor/cursor,1851,30567,2023-03-12T00:19:42Z,2025-07-01T06:52:41Z,,https://cursor.com
+Sortable,SortableJS,JavaScript,30520,3735,https://github.com/SortableJS/Sortable,501,30520,2013-12-19T10:10:13Z,2025-07-01T07:54:19Z,MIT License,https://sortablejs.github.io/Sortable/
+spring-boot-examples,ityouknow,Java,30505,12345,https://github.com/ityouknow/spring-boot-examples,17,30505,2016-11-05T05:32:33Z,2025-07-01T08:14:27Z,,http://www.ityouknow.com/spring-boot.html
+croc,schollz,Go,30481,1217,https://github.com/schollz/croc,11,30481,2017-10-17T15:20:18Z,2025-07-01T06:39:50Z,MIT License,https://schollz.com/software/croc6
+interactive-coding-challenges,donnemartin,Python,30470,4546,https://github.com/donnemartin/interactive-coding-challenges,75,30470,2015-04-28T21:36:39Z,2025-06-30T21:02:02Z,Other,
+khoj,khoj-ai,Python,30459,1737,https://github.com/khoj-ai/khoj,84,30459,2021-08-16T01:48:44Z,2025-07-01T06:32:50Z,GNU Affero General Public License v3.0,https://khoj.dev
+editor.js,codex-team,TypeScript,30448,2170,https://github.com/codex-team/editor.js,678,30448,2015-11-28T20:56:35Z,2025-07-01T08:16:01Z,Apache License 2.0,https://editorjs.io
+mediapipe,google-ai-edge,C++,30424,5423,https://github.com/google-ai-edge/mediapipe,591,30424,2019-06-13T19:16:41Z,2025-07-01T06:11:18Z,Apache License 2.0,https://ai.google.dev/edge/mediapipe
+calculator,microsoft,C++,30417,5566,https://github.com/microsoft/calculator,408,30417,2019-01-28T17:55:49Z,2025-07-01T03:31:07Z,MIT License,
+symfony,symfony,PHP,30412,9641,https://github.com/symfony/symfony,895,30412,2010-01-04T14:21:21Z,2025-07-01T07:10:42Z,MIT License,https://symfony.com
+Retrieval-based-Voice-Conversion-WebUI,RVC-Project,Python,30395,4249,https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI,606,30395,2023-03-27T09:59:10Z,2025-07-01T07:27:59Z,MIT License,
+kafka,apache,Java,30371,14476,https://github.com/apache/kafka,233,30371,2011-08-15T18:06:16Z,2025-07-01T07:09:43Z,Apache License 2.0,
+CasaOS,IceWhaleTech,Go,30370,1657,https://github.com/IceWhaleTech/CasaOS,650,30370,2021-09-26T02:33:09Z,2025-07-01T07:57:37Z,Apache License 2.0,https://casaos.zimaspace.com
+xyflow,xyflow,TypeScript,30348,1969,https://github.com/xyflow/xyflow,98,30348,2019-07-15T14:47:30Z,2025-07-01T07:13:23Z,MIT License,https://xyflow.com
+jsPDF,parallax,JavaScript,30328,4725,https://github.com/parallax/jsPDF,112,30328,2009-12-06T14:56:32Z,2025-06-30T23:22:10Z,MIT License,https://parall.ax/products/jspdf
+NeteaseCloudMusicApi,Binaryify,,30321,15822,https://github.com/Binaryify/NeteaseCloudMusicApi,147,30321,2016-06-22T11:58:03Z,2025-07-01T07:43:47Z,,https://gitlab.com/Binaryify/neteasecloudmusicapi
+comprehensive-rust,google,Rust,30284,1804,https://github.com/google/comprehensive-rust,148,30284,2022-12-21T15:17:24Z,2025-07-01T05:42:29Z,Apache License 2.0,https://google.github.io/comprehensive-rust/
+MonitorControl,MonitorControl,Swift,30266,864,https://github.com/MonitorControl/MonitorControl,13,30266,2017-09-16T21:13:40Z,2025-07-01T07:54:00Z,MIT License,https://monitorcontrol.app
+layui,layui,JavaScript,30261,7420,https://github.com/layui/layui,62,30261,2015-09-22T08:12:03Z,2025-07-01T07:13:11Z,MIT License,https://layui.dev
+influxdb,influxdata,Rust,30251,3619,https://github.com/influxdata/influxdb,2116,30251,2013-09-26T14:31:10Z,2025-07-01T05:46:24Z,Apache License 2.0,https://influxdata.com
+k9s,derailed,Go,30247,1899,https://github.com/derailed/k9s,544,30247,2019-01-25T18:46:02Z,2025-07-01T07:53:25Z,Apache License 2.0,https://k9scli.io
+fish-shell,fish-shell,Rust,30243,2077,https://github.com/fish-shell/fish-shell,484,30243,2012-05-10T03:00:55Z,2025-07-01T02:57:43Z,Other,https://fishshell.com
+webtorrent,webtorrent,JavaScript,30235,2771,https://github.com/webtorrent/webtorrent,75,30235,2013-10-15T08:16:40Z,2025-07-01T04:14:39Z,MIT License,https://webtorrent.io
+codex,openai,Rust,30193,3431,https://github.com/openai/codex,528,30193,2025-04-13T05:37:54Z,2025-07-01T08:03:09Z,Apache License 2.0,
+HEAD,joshbuchea,,30179,1939,https://github.com/joshbuchea/HEAD,29,30179,2016-04-20T20:05:37Z,2025-06-30T21:31:18Z,,https://htmlhead.dev
+fabric.js,fabricjs,TypeScript,30167,3584,https://github.com/fabricjs/fabric.js,471,30167,2010-06-09T22:24:38Z,2025-07-01T06:38:33Z,Other,http://fabricjs.com
+weekly,ascoders,JavaScript,30113,3278,https://github.com/ascoders/weekly,3,30113,2017-03-20T06:10:04Z,2025-07-01T08:13:47Z,,
+GPTs,linexjlin,,30106,4094,https://github.com/linexjlin/GPTs,8,30106,2023-11-11T03:24:16Z,2025-07-01T07:06:19Z,,
+k3s,k3s-io,Go,30093,2466,https://github.com/k3s-io/k3s,122,30093,2018-05-31T01:37:46Z,2025-07-01T08:13:47Z,Apache License 2.0,https://k3s.io
+sequelize,sequelize,TypeScript,30053,4295,https://github.com/sequelize/sequelize,972,30053,2010-07-22T07:11:11Z,2025-07-01T07:35:17Z,MIT License,https://sequelize.org/
+stanford_alpaca,tatsu-lab,Python,30050,4048,https://github.com/tatsu-lab/stanford_alpaca,188,30050,2023-03-10T23:33:09Z,2025-07-01T08:09:24Z,Apache License 2.0,https://crfm.stanford.edu/2023/03/13/alpaca.html
+tqdm,tqdm,Python,30037,1390,https://github.com/tqdm/tqdm,562,30037,2015-06-03T13:13:14Z,2025-07-01T07:10:36Z,Other,https://tqdm.github.io
+filebrowser,filebrowser,Go,30026,3362,https://github.com/filebrowser/filebrowser,42,30026,2015-09-11T21:21:58Z,2025-07-01T07:39:29Z,Apache License 2.0,https://filebrowser.org
+rocksdb,facebook,C++,29998,6542,https://github.com/facebook/rocksdb,1219,29998,2012-11-30T06:16:18Z,2025-07-01T06:59:02Z,GNU General Public License v2.0,http://rocksdb.org
+AI-Expert-Roadmap,AMAI-GmbH,JavaScript,29997,2529,https://github.com/AMAI-GmbH/AI-Expert-Roadmap,22,29997,2020-10-24T21:49:40Z,2025-07-01T08:02:58Z,MIT License,https://i.am.ai/roadmap
+UTM,utmapp,Swift,29996,1477,https://github.com/utmapp/UTM,954,29996,2019-04-12T16:09:24Z,2025-07-01T07:33:04Z,Apache License 2.0,https://getutm.app
+server,nextcloud,PHP,29985,4318,https://github.com/nextcloud/server,2658,29985,2016-06-02T07:44:14Z,2025-07-01T08:01:58Z,GNU Affero General Public License v3.0,https://nextcloud.com
+roop,s0md3v,Python,29981,6802,https://github.com/s0md3v/roop,10,29981,2023-05-28T14:37:54Z,2025-07-01T08:12:05Z,GNU General Public License v3.0,
+uppy,transloadit,TypeScript,29925,2068,https://github.com/transloadit/uppy,167,29925,2015-11-16T12:32:33Z,2025-07-01T07:49:49Z,MIT License,https://uppy.io
+hutool,chinabugotech,Java,29915,7640,https://github.com/chinabugotech/hutool,2,29915,2014-04-13T07:23:51Z,2025-07-01T02:39:59Z,Other,https://hutool.cn
+OpenAPI-Specification,OAI,Markdown,29911,9132,https://github.com/OAI/OpenAPI-Specification,184,29911,2014-03-03T16:53:36Z,2025-07-01T08:07:17Z,Apache License 2.0,https://openapis.org
+alpine,alpinejs,HTML,29905,1296,https://github.com/alpinejs/alpine,40,29905,2019-11-28T13:51:55Z,2025-06-30T15:57:06Z,MIT License,https://alpinejs.dev
+docsify,docsifyjs,JavaScript,29851,5781,https://github.com/docsifyjs/docsify,183,29851,2016-11-20T07:55:43Z,2025-07-01T08:10:26Z,MIT License,https://docsify.js.org
+Data-Science-For-Beginners,microsoft,Jupyter Notebook,29837,6231,https://github.com/microsoft/Data-Science-For-Beginners,54,29837,2021-03-03T16:30:15Z,2025-07-01T05:43:45Z,MIT License,https://microsoft.github.io/Data-Science-For-Beginners/
+CheatSheetSeries,OWASP,Python,29820,4176,https://github.com/OWASP/CheatSheetSeries,49,29820,2018-12-21T14:26:43Z,2025-07-01T05:43:59Z,Creative Commons Attribution Share Alike 4.0 International,https://cheatsheetseries.owasp.org
+lux,iawia002,Go,29793,3160,https://github.com/iawia002/lux,526,29793,2018-02-24T11:29:03Z,2025-07-01T03:50:27Z,MIT License,
+numpy,numpy,Python,29793,11031,https://github.com/numpy/numpy,2313,29793,2010-09-13T23:02:39Z,2025-07-01T04:38:53Z,Other,https://numpy.org
+foundation-sites,foundation,HTML,29756,5456,https://github.com/foundation/foundation-sites,67,29756,2011-10-13T23:05:42Z,2025-06-30T20:30:10Z,MIT License,https://get.foundation
+particles.js,VincentGarreau,JavaScript,29753,4849,https://github.com/VincentGarreau/particles.js,364,29753,2014-09-06T14:29:47Z,2025-07-01T02:51:39Z,MIT License,https://vincentgarreau.com/particles.js/
+leakcanary,square,Kotlin,29742,3982,https://github.com/square/leakcanary,132,29742,2015-04-29T23:54:16Z,2025-07-01T08:03:07Z,Apache License 2.0,https://square.github.io/leakcanary
+vue-cli,vuejs,JavaScript,29730,6332,https://github.com/vuejs/vue-cli,1069,29730,2015-12-26T23:11:20Z,2025-07-01T06:16:08Z,MIT License,https://cli.vuejs.org/
+pytorch-lightning,Lightning-AI,Python,29698,3525,https://github.com/Lightning-AI/pytorch-lightning,1024,29698,2019-03-31T00:45:57Z,2025-07-01T02:58:10Z,Apache License 2.0,https://lightning.ai/pytorch-lightning
+medusa,medusajs,TypeScript,29693,3445,https://github.com/medusajs/medusa,130,29693,2020-01-18T13:39:04Z,2025-07-01T07:37:46Z,MIT License,https://medusajs.com
+anoma,anoma,Elixir,29672,3862,https://github.com/anoma/anoma,177,29672,2021-02-02T10:00:16Z,2025-07-01T08:02:20Z,MIT License,https://anoma.net
+ink,vadimdemedes,TypeScript,29647,683,https://github.com/vadimdemedes/ink,83,29647,2017-06-12T06:12:28Z,2025-07-01T08:11:15Z,MIT License,https://term.ink
+awesome-sysadmin,awesome-foss,,29646,1730,https://github.com/awesome-foss/awesome-sysadmin,41,29646,2014-12-23T08:41:22Z,2025-07-01T06:01:11Z,Other,
+Xray-core,XTLS,Go,29643,4392,https://github.com/XTLS/Xray-core,31,29643,2020-11-09T11:23:10Z,2025-07-01T08:13:49Z,Mozilla Public License 2.0,https://t.me/projectXray
+CLIP,openai,Jupyter Notebook,29618,3652,https://github.com/openai/CLIP,253,29618,2020-12-16T11:24:42Z,2025-07-01T08:15:18Z,MIT License,
+awesome-macos-command-line,herrbischoff,,29612,1440,https://github.com/herrbischoff/awesome-macos-command-line,0,29612,2015-09-22T19:37:55Z,2025-07-01T06:32:48Z,,
+OCRmyPDF,ocrmypdf,Python,29605,2032,https://github.com/ocrmypdf/OCRmyPDF,135,29605,2013-12-20T08:26:28Z,2025-07-01T07:19:34Z,Mozilla Public License 2.0,http://ocrmypdf.readthedocs.io/
+diffusers,huggingface,Python,29584,6074,https://github.com/huggingface/diffusers,720,29584,2022-05-30T16:04:02Z,2025-07-01T07:54:35Z,Apache License 2.0,https://huggingface.co/docs/diffusers
+cheerio,cheeriojs,TypeScript,29577,1671,https://github.com/cheeriojs/cheerio,30,29577,2011-10-09T04:23:20Z,2025-07-01T07:31:21Z,MIT License,https://cheerio.js.org
+Mr.-Ranedeer-AI-Tutor,JushBJJ,,29574,3387,https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor,13,29574,2023-03-31T12:37:26Z,2025-07-01T07:25:56Z,,https://Mr-Ranedeer.com
+awesome-python-cn,jobbole,Makefile,29569,7969,https://github.com/jobbole/awesome-python-cn,23,29569,2015-11-03T09:50:50Z,2025-06-30T20:30:09Z,Other,http://jobbole.github.io/awesome-python-cn/
+project-guidelines,elsewhencode,JavaScript,29567,3212,https://github.com/elsewhencode/project-guidelines,15,29567,2017-06-30T10:17:55Z,2025-06-30T22:24:26Z,MIT License,
+apollo,apolloconfig,Java,29558,10227,https://github.com/apolloconfig/apollo,140,29558,2016-03-04T10:24:23Z,2025-07-01T03:53:21Z,Apache License 2.0,https://www.apolloconfig.com
+surrealdb,surrealdb,Rust,29555,1007,https://github.com/surrealdb/surrealdb,740,29555,2021-12-09T15:03:29Z,2025-07-01T05:41:34Z,Other,https://surrealdb.com
+awesome-cursorrules,PatrickJS,MDX,29553,2412,https://github.com/PatrickJS/awesome-cursorrules,39,29553,2024-09-16T15:38:38Z,2025-07-01T08:15:40Z,Creative Commons Zero v1.0 Universal,https://github.com/PatrickJS/awesome-cursorrules
+react-boilerplate,react-boilerplate,JavaScript,29539,6098,https://github.com/react-boilerplate/react-boilerplate,130,29539,2015-02-18T14:36:32Z,2025-07-01T07:29:21Z,MIT License,https://www.reactboilerplate.com
+folly,facebook,C++,29519,5712,https://github.com/facebook/folly,386,29519,2012-06-01T20:49:04Z,2025-07-01T02:43:46Z,Apache License 2.0,
+tinygrad,tinygrad,Python,29512,3489,https://github.com/tinygrad/tinygrad,227,29512,2020-10-18T16:23:12Z,2025-07-01T07:22:09Z,MIT License,
+algo,trailofbits,Jinja,29511,2347,https://github.com/trailofbits/algo,193,29511,2016-05-15T03:42:48Z,2025-07-01T03:37:04Z,GNU Affero General Public License v3.0,https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/
+phantomjs,ariya,C++,29498,5746,https://github.com/ariya/phantomjs,14,29498,2010-12-27T08:18:58Z,2025-06-30T21:18:02Z,"BSD 3-Clause ""New"" or ""Revised"" License",http://phantomjs.org
+500lines,aosabook,JavaScript,29481,5871,https://github.com/aosabook/500lines,58,29481,2013-11-04T02:02:53Z,2025-07-01T06:09:54Z,Other,
+headscale,juanfont,Go,29457,1585,https://github.com/juanfont/headscale,118,29457,2020-06-21T09:21:05Z,2025-07-01T07:48:44Z,"BSD 3-Clause ""New"" or ""Revised"" License",
+textual,Textualize,Python,29422,917,https://github.com/Textualize/textual,224,29422,2021-04-08T15:24:47Z,2025-07-01T05:12:21Z,MIT License,https://textual.textualize.io/
+1Panel,1Panel-dev,Go,29393,2559,https://github.com/1Panel-dev/1Panel,617,29393,2022-07-19T15:44:52Z,2025-07-01T07:49:36Z,GNU General Public License v3.0,https://1panel.pro
+Hover,IanLunn,SCSS,29356,5743,https://github.com/IanLunn/Hover,42,29356,2014-01-02T14:27:35Z,2025-07-01T06:35:06Z,Other,http://ianlunn.github.io/Hover/
+standard,standard,JavaScript,29326,2321,https://github.com/standard/standard,128,29326,2015-01-27T01:23:31Z,2025-07-01T06:09:55Z,MIT License,https://standardjs.com
+hey,heyverse,TypeScript,29284,1753,https://github.com/heyverse/hey,3,29284,2022-03-19T15:01:46Z,2025-07-01T06:06:20Z,GNU Affero General Public License v3.0,https://hey.xyz
+DevToys,DevToys-app,C#,29270,1582,https://github.com/DevToys-app/DevToys,267,29270,2021-09-29T01:40:41Z,2025-07-01T06:26:37Z,MIT License,https://devtoys.app/
+django-rest-framework,encode,Python,29256,6977,https://github.com/encode/django-rest-framework,101,29256,2011-03-02T17:13:56Z,2025-07-01T01:12:17Z,Other,https://www.django-rest-framework.org
+cherry-studio,CherryHQ,TypeScript,29236,2544,https://github.com/CherryHQ/cherry-studio,800,29236,2024-05-24T01:56:26Z,2025-07-01T08:12:00Z,Other,https://cherry-ai.com
+gkd,gkd-kit,Kotlin,29215,1435,https://github.com/gkd-kit/gkd,11,29215,2023-07-04T03:59:15Z,2025-07-01T07:33:27Z,GNU General Public License v3.0,https://gkd.li
+es6features,lukehoban,,29212,2846,https://github.com/lukehoban/es6features,39,29212,2014-03-03T18:29:30Z,2025-06-30T17:43:10Z,MIT License,
+stb,nothings,C,29210,7844,https://github.com/nothings/stb,340,29210,2014-05-25T16:51:23Z,2025-07-01T07:16:36Z,Other,https://twitter.com/nothings
+css-protips,AllThingsSmitty,,29191,2204,https://github.com/AllThingsSmitty/css-protips,6,29191,2015-08-29T12:29:03Z,2025-07-01T05:28:21Z,Creative Commons Zero v1.0 Universal,
+canal,alibaba,Java,29187,7662,https://github.com/alibaba/canal,1212,29187,2013-01-13T10:59:52Z,2025-07-01T05:06:52Z,Apache License 2.0,
+restic,restic,Go,29161,1615,https://github.com/restic/restic,470,29161,2014-04-27T14:07:58Z,2025-07-01T05:18:44Z,"BSD 2-Clause ""Simplified"" License",https://restic.net
+react-three-fiber,pmndrs,TypeScript,29145,1700,https://github.com/pmndrs/react-three-fiber,95,29145,2019-02-25T14:31:51Z,2025-07-01T07:28:28Z,MIT License,https://docs.pmnd.rs/react-three-fiber
+dioxus,DioxusLabs,Rust,29140,1194,https://github.com/DioxusLabs/dioxus,399,29140,2021-01-15T01:57:26Z,2025-07-01T08:04:36Z,Apache License 2.0,https://dioxuslabs.com
+Trilium,TriliumNext,TypeScript,29128,1955,https://github.com/TriliumNext/Trilium,1275,29128,2017-05-23T00:30:20Z,2025-07-01T08:15:09Z,GNU Affero General Public License v3.0,
+lighthouse,GoogleChrome,JavaScript,29125,9524,https://github.com/GoogleChrome/lighthouse,488,29125,2016-03-08T01:03:11Z,2025-06-30T20:27:35Z,Apache License 2.0,https://developer.chrome.com/docs/lighthouse/overview/
+agno,agno-agi,Python,29084,3703,https://github.com/agno-agi/agno,147,29084,2022-05-04T15:23:02Z,2025-07-01T08:06:56Z,Mozilla Public License 2.0,https://docs.agno.com
+glances,nicolargo,Python,29080,1597,https://github.com/nicolargo/glances,191,29080,2011-12-04T08:49:15Z,2025-07-01T07:15:25Z,Other,http://nicolargo.github.io/glances/
+consul,hashicorp,Go,29079,4487,https://github.com/hashicorp/consul,1309,29079,2013-11-04T22:15:27Z,2025-07-01T03:21:10Z,Other,https://www.consul.io
+COVID-19,CSSEGISandData,,29069,18285,https://github.com/CSSEGISandData/COVID-19,1961,29069,2020-02-04T22:03:53Z,2025-06-30T09:55:13Z,,https://systems.jhu.edu/research/public-health/ncov/
+mantine,mantinedev,TypeScript,29062,2079,https://github.com/mantinedev/mantine,34,29062,2021-01-07T14:02:19Z,2025-07-01T08:09:22Z,MIT License,https://mantine.dev
+swift-algorithm-club,kodecocodes,Swift,29058,5005,https://github.com/kodecocodes/swift-algorithm-club,62,29058,2016-01-26T17:56:12Z,2025-07-01T06:45:26Z,MIT License,
+WSL,microsoft,C++,29042,1410,https://github.com/microsoft/WSL,1050,29042,2016-04-06T17:32:56Z,2025-07-01T07:15:24Z,MIT License,https://wsl.dev/
+motion,motiondivision,TypeScript,29041,976,https://github.com/motiondivision/motion,294,29041,2018-11-16T09:48:38Z,2025-07-01T08:03:58Z,MIT License,https://motion.dev
+composer,composer,PHP,29024,4656,https://github.com/composer/composer,151,29024,2011-06-08T08:53:00Z,2025-07-01T01:00:46Z,MIT License,https://getcomposer.org/
+python-guide,realpython,Batchfile,29004,5878,https://github.com/realpython/python-guide,124,29004,2011-03-15T03:24:20Z,2025-07-01T03:26:01Z,Other,https://docs.python-guide.org
+drizzle-orm,drizzle-team,TypeScript,28992,917,https://github.com/drizzle-team/drizzle-orm,1595,28992,2021-06-24T09:03:05Z,2025-07-01T07:41:13Z,Apache License 2.0,https://orm.drizzle.team
+AdGuardHome,AdguardTeam,Go,28977,2059,https://github.com/AdguardTeam/AdGuardHome,1149,28977,2016-07-06T10:31:47Z,2025-07-01T08:04:02Z,GNU General Public License v3.0,https://adguard.com/adguard-home/overview.html
+Clone-Wars,GorvGoyl,,28966,2585,https://github.com/GorvGoyl/Clone-Wars,23,28966,2020-12-02T11:10:16Z,2025-07-01T03:25:43Z,GNU Affero General Public License v3.0,https://gourav.io/clone-wars
+xxl-job,xuxueli,Java,28960,11219,https://github.com/xuxueli/xxl-job,672,28960,2015-11-28T12:59:34Z,2025-07-01T07:34:14Z,GNU General Public License v3.0,http://www.xuxueli.com/xxl-job/
+handson-ml2,ageron,Jupyter Notebook,28959,13080,https://github.com/ageron/handson-ml2,228,28959,2019-01-08T03:49:07Z,2025-07-01T07:55:28Z,Apache License 2.0,
+tokio,tokio-rs,Rust,28958,2675,https://github.com/tokio-rs/tokio,387,28958,2016-09-09T22:31:36Z,2025-07-01T08:00:03Z,MIT License,https://tokio.rs
+DeepFaceLive,iperov,Python,28904,651,https://github.com/iperov/DeepFaceLive,1,28904,2020-12-15T12:19:22Z,2025-07-01T08:11:57Z,GNU General Public License v3.0,
+vue-vben-admin,vbenjs,Vue,28880,7828,https://github.com/vbenjs/vue-vben-admin,127,28880,2020-07-11T02:29:21Z,2025-07-01T08:02:12Z,MIT License,https://www.vben.pro
+tuning_playbook,google-research,,28867,2371,https://github.com/google-research/tuning_playbook,12,28867,2023-01-18T23:32:32Z,2025-07-01T04:12:26Z,Other,
+SpringAll,wuyouzhuguli,Java,28857,8171,https://github.com/wuyouzhuguli/SpringAll,34,28857,2018-05-02T02:48:44Z,2025-07-01T06:57:35Z,MIT License,
+plyr,sampotts,JavaScript,28833,3081,https://github.com/sampotts/plyr,917,28833,2015-02-14T11:33:07Z,2025-07-01T05:36:07Z,MIT License,https://plyr.io
+wails,wailsapp,Go,28831,1401,https://github.com/wailsapp/wails,290,28831,2018-12-15T23:14:06Z,2025-07-01T07:54:57Z,MIT License,https://wails.io
+paperless-ngx,paperless-ngx,Python,28824,1701,https://github.com/paperless-ngx/paperless-ngx,7,28824,2022-02-12T21:56:52Z,2025-07-01T07:44:30Z,GNU General Public License v3.0,http://docs.paperless-ngx.com/
+llama3,meta-llama,Python,28801,3403,https://github.com/meta-llama/llama3,212,28801,2024-03-15T17:57:00Z,2025-07-01T02:29:56Z,Other,
+postcss,postcss,TypeScript,28800,1579,https://github.com/postcss/postcss,27,28800,2013-09-24T23:06:48Z,2025-07-01T06:24:07Z,MIT License,https://postcss.org
+todomvc,tastejs,JavaScript,28795,13746,https://github.com/tastejs/todomvc,169,28795,2011-06-03T19:56:33Z,2025-06-30T21:51:27Z,Other,http://todomvc.com
+viper,spf13,Go,28780,2057,https://github.com/spf13/viper,517,28780,2014-04-02T14:33:33Z,2025-07-01T03:42:48Z,MIT License,
+exo,exo-explore,Python,28774,1826,https://github.com/exo-explore/exo,418,28774,2024-06-24T18:36:22Z,2025-07-01T08:04:03Z,GNU General Public License v3.0,
+react-spring,pmndrs,TypeScript,28755,1207,https://github.com/pmndrs/react-spring,125,28755,2018-03-07T15:39:32Z,2025-06-30T20:30:11Z,MIT License,http://www.react-spring.dev/
+slick,kenwheeler,JavaScript,28639,5859,https://github.com/kenwheeler/slick,1389,28639,2014-03-24T02:10:05Z,2025-06-30T20:29:35Z,MIT License,kenwheeler.github.io/slick
+linkedin-skill-assessments-quizzes,Ebazhanov,,28635,13179,https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes,85,28635,2019-07-13T19:52:56Z,2025-07-01T05:39:08Z,GNU Affero General Public License v3.0,https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/
+refined-github,refined-github,TypeScript,28617,1580,https://github.com/refined-github/refined-github,136,28617,2016-02-15T16:45:02Z,2025-07-01T07:35:31Z,MIT License,
+TrackersListCollection,XIU2,,28601,1692,https://github.com/XIU2/TrackersListCollection,1,28601,2019-10-03T15:55:07Z,2025-07-01T08:11:29Z,GNU General Public License v3.0,https://trackerslist.com
+Complete-Python-3-Bootcamp,Pierian-Data,Jupyter Notebook,28580,86883,https://github.com/Pierian-Data/Complete-Python-3-Bootcamp,250,28580,2018-02-12T19:30:10Z,2025-07-01T00:03:54Z,,
+spring-cloud-alibaba,alibaba,Java,28560,8440,https://github.com/alibaba/spring-cloud-alibaba,257,28560,2017-12-01T20:49:15Z,2025-07-01T03:27:13Z,Apache License 2.0,https://sca.aliyun.com
+pathway,pathwaycom,Python,28554,628,https://github.com/pathwaycom/pathway,45,28554,2022-11-27T13:01:14Z,2025-07-01T07:57:25Z,Other,https://pathway.com
+JavaScript30,wesbos,HTML,28534,39736,https://github.com/wesbos/JavaScript30,61,28534,2016-12-07T19:15:31Z,2025-07-01T05:20:33Z,,https://JavaScript30.com
+machine-learning-for-software-engineers,ZuzooVn,,28509,6218,https://github.com/ZuzooVn/machine-learning-for-software-engineers,30,28509,2016-10-09T21:20:25Z,2025-06-30T20:30:22Z,Creative Commons Attribution Share Alike 4.0 International,https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk
+os-tutorial,cfenollosa,C,28471,3412,https://github.com/cfenollosa/os-tutorial,123,28471,2014-09-29T08:39:34Z,2025-07-01T06:50:38Z,"BSD 3-Clause ""New"" or ""Revised"" License",
+immer,immerjs,JavaScript,28450,859,https://github.com/immerjs/immer,55,28450,2017-12-29T12:25:47Z,2025-07-01T06:44:26Z,MIT License,https://immerjs.github.io/immer/
+vuex,vuejs,JavaScript,28448,9561,https://github.com/vuejs/vuex,144,28448,2015-07-16T04:21:26Z,2025-07-01T03:39:30Z,MIT License,https://vuex.vuejs.org
+programmer-job-blacklist,shengxinjing,Shell,28443,1801,https://github.com/shengxinjing/programmer-job-blacklist,171,28443,2016-06-25T06:09:10Z,2025-07-01T08:15:34Z,MIT License,http://coder.shengxinjing.cn/
+ai-agents-for-beginners,microsoft,Jupyter Notebook,28441,7949,https://github.com/microsoft/ai-agents-for-beginners,11,28441,2024-11-28T10:42:52Z,2025-07-01T08:15:56Z,MIT License,https://microsoft.github.io/ai-agents-for-beginners/
+dragonfly,dragonflydb,C++,28417,1056,https://github.com/dragonflydb/dragonfly,245,28417,2021-12-11T10:00:42Z,2025-07-01T07:30:02Z,Other,https://www.dragonflydb.io/
+xstate,statelyai,TypeScript,28407,1314,https://github.com/statelyai/xstate,155,28407,2015-09-14T15:04:15Z,2025-07-01T03:22:38Z,MIT License,https://stately.ai/docs
+firecracker,firecracker-microvm,Rust,28397,1968,https://github.com/firecracker-microvm/firecracker,84,28397,2017-10-19T06:18:47Z,2025-07-01T03:27:23Z,Apache License 2.0,http://firecracker-microvm.io
+Jobs_Applier_AI_Agent_AIHawk,feder-cr,Python,28380,4278,https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk,11,28380,2024-08-04T12:15:06Z,2025-07-01T06:32:01Z,GNU Affero General Public License v3.0,https://laboro.co/
+android_guides,codepath,,28379,6314,https://github.com/codepath/android_guides,163,28379,2013-06-19T10:24:45Z,2025-06-30T20:30:21Z,MIT License,guides.codepath.com
+hosts,StevenBlack,Python,28374,2324,https://github.com/StevenBlack/hosts,107,28374,2012-04-12T20:22:50Z,2025-07-01T07:04:15Z,MIT License,
+data-science-ipython-notebooks,donnemartin,Python,28314,7993,https://github.com/donnemartin/data-science-ipython-notebooks,40,28314,2015-01-23T19:38:29Z,2025-07-01T08:05:32Z,Other,
+the-super-tiny-compiler,jamiebuilds,JavaScript,28274,2880,https://github.com/jamiebuilds/the-super-tiny-compiler,17,28274,2016-03-11T04:19:18Z,2025-06-30T18:35:35Z,Creative Commons Attribution 4.0 International,
+async,caolan,JavaScript,28236,2399,https://github.com/caolan/async,14,28236,2010-06-01T21:01:30Z,2025-06-30T10:59:24Z,MIT License,http://caolan.github.io/async/
+reverse-interview,viraptor,,28188,2124,https://github.com/viraptor/reverse-interview,24,28188,2019-09-08T13:38:40Z,2025-07-01T06:01:30Z,Other,
+druid,alibaba,Java,28158,8598,https://github.com/alibaba/druid,2267,28158,2011-11-03T05:12:51Z,2025-07-01T07:35:26Z,Apache License 2.0,https://github.com/alibaba/druid/wiki
+k6,grafana,Go,28155,1375,https://github.com/grafana/k6,792,28155,2016-03-21T15:30:24Z,2025-07-01T08:10:03Z,GNU Affero General Public License v3.0,https://grafana.com/oss/k6/
+nginxconfig.io,digitalocean,JavaScript,28130,2069,https://github.com/digitalocean/nginxconfig.io,60,28130,2018-01-05T14:21:14Z,2025-07-01T08:11:14Z,MIT License,https://do.co/nginxconfig
+90DaysOfDevOps,MichaelCade,Shell,28119,6469,https://github.com/MichaelCade/90DaysOfDevOps,10,28119,2021-12-26T13:55:18Z,2025-07-01T01:58:34Z,Other,https://www.90daysofdevops.com/
+backbone,jashkenas,JavaScript,28111,5368,https://github.com/jashkenas/backbone,62,28111,2010-09-30T19:41:28Z,2025-06-30T18:45:28Z,MIT License,http://backbonejs.org
+helm,helm,Go,28080,7267,https://github.com/helm/helm,832,28080,2015-10-06T01:07:32Z,2025-07-01T07:49:35Z,Apache License 2.0,https://helm.sh
+gitbook,GitbookIO,TypeScript,28079,3985,https://github.com/GitbookIO/gitbook,85,28079,2014-03-31T03:01:56Z,2025-07-01T07:59:04Z,GNU General Public License v3.0,https://www.gitbook.com
+applied-ml,eugeneyan,,28071,3773,https://github.com/eugeneyan/applied-ml,2,28071,2020-07-04T18:57:47Z,2025-06-30T22:40:27Z,MIT License,
+ChatGPT,acheong08,Python,28036,4484,https://github.com/acheong08/ChatGPT,11,28036,2022-12-03T14:35:24Z,2025-06-30T21:59:13Z,GNU General Public License v2.0,
+turborepo,vercel,Rust,28034,2015,https://github.com/vercel/turborepo,142,28034,2021-10-05T17:37:11Z,2025-07-01T06:41:53Z,MIT License,https://turborepo.com
+Avalonia,AvaloniaUI,C#,28023,2419,https://github.com/AvaloniaUI/Avalonia,1724,28023,2013-12-05T20:13:21Z,2025-07-01T07:34:18Z,MIT License,https://avaloniaui.net
+keycloak,keycloak,Java,27987,7417,https://github.com/keycloak/keycloak,2192,27987,2013-07-02T13:38:51Z,2025-07-01T08:10:40Z,Apache License 2.0,https://www.keycloak.org
+jumpserver,jumpserver,Python,27986,5497,https://github.com/jumpserver/jumpserver,56,27986,2014-07-04T03:54:59Z,2025-07-01T07:59:48Z,GNU General Public License v3.0,https://jumpserver.com
+react-select,JedWatson,TypeScript,27966,4142,https://github.com/JedWatson/react-select,463,27966,2014-08-26T04:27:45Z,2025-07-01T07:22:07Z,MIT License,https://react-select.com/
+mobx,mobxjs,TypeScript,27956,1793,https://github.com/mobxjs/mobx,69,27956,2015-03-14T14:31:38Z,2025-07-01T08:09:03Z,MIT License,http://mobx.js.org
+rust-course,sunface,Rust,27936,2419,https://github.com/sunface/rust-course,66,27936,2018-08-07T05:01:21Z,2025-07-01T05:19:18Z,,https://course.rs
+tdesktop,telegramdesktop,C++,27933,5632,https://github.com/telegramdesktop/tdesktop,902,27933,2014-05-02T12:36:31Z,2025-07-01T07:31:05Z,Other,https://desktop.telegram.org/
+kitty,kovidgoyal,Python,27913,1093,https://github.com/kovidgoyal/kitty,18,27913,2016-10-16T14:48:28Z,2025-07-01T07:57:53Z,GNU General Public License v3.0,https://sw.kovidgoyal.net/kitty/
+waifu2x,nagadomi,Lua,27907,2711,https://github.com/nagadomi/waifu2x,155,27907,2015-05-17T07:29:15Z,2025-07-01T00:52:47Z,MIT License,http://waifu2x.udp.jp/ 
+Charts,ChartsOrg,Swift,27893,6043,https://github.com/ChartsOrg/Charts,989,27893,2015-03-20T10:49:12Z,2025-07-01T07:10:40Z,Apache License 2.0,
+vhr,lenve,Java,27858,10303,https://github.com/lenve/vhr,213,27858,2018-01-04T08:57:51Z,2025-07-01T07:02:58Z,,http://vhr.javaboy.org
+ExplorerPatcher,valinet,C,27858,1152,https://github.com/valinet/ExplorerPatcher,253,27858,2021-08-09T14:17:24Z,2025-07-01T06:52:58Z,GNU General Public License v2.0,
+dnSpy,dnSpy,C#,27837,5314,https://github.com/dnSpy/dnSpy,185,27837,2015-07-01T16:05:10Z,2025-07-01T08:11:55Z,,
+Python-programming-exercises,zhiwehu,,27827,6901,https://github.com/zhiwehu/Python-programming-exercises,159,27827,2012-06-14T07:56:46Z,2025-07-01T07:51:59Z,,
+vscodium,VSCodium,Shell,27794,1322,https://github.com/VSCodium/vscodium,134,27794,2018-08-13T14:26:58Z,2025-07-01T07:08:16Z,MIT License,https://vscodium.com
+python-telegram-bot,python-telegram-bot,Python,27757,5727,https://github.com/python-telegram-bot/python-telegram-bot,17,27757,2015-07-07T15:30:39Z,2025-07-01T05:07:43Z,GNU General Public License v3.0,https://python-telegram-bot.org
+python-fire,google,Python,27729,1455,https://github.com/google/python-fire,163,27729,2017-02-21T21:35:07Z,2025-06-30T21:31:30Z,Other,
+ResumeSample,geekcompany,,27725,8976,https://github.com/geekcompany/ResumeSample,12,27725,2014-09-08T08:08:13Z,2025-07-01T06:23:12Z,,http://cv.ftqq.com/?fr=github
+openssl,openssl,C,27697,10635,https://github.com/openssl/openssl,2011,27697,2013-01-15T22:34:48Z,2025-07-01T08:16:35Z,Apache License 2.0,https://www.openssl.org
+aos,michalsnik,JavaScript,27667,2645,https://github.com/michalsnik/aos,374,27667,2015-07-09T17:49:00Z,2025-06-30T23:05:23Z,MIT License,
+linera-protocol,linera-io,Rust,27617,1798,https://github.com/linera-io/linera-protocol,521,27617,2021-12-19T04:09:21Z,2025-07-01T07:52:19Z,Apache License 2.0,
+Web,qianguyihao,,27609,6245,https://github.com/qianguyihao/Web,82,27609,2017-01-03T11:44:33Z,2025-07-01T06:36:27Z,Other,https://web.qianguyihao.com
+yapi,YMFE,JavaScript,27593,4824,https://github.com/YMFE/yapi,1611,27593,2016-05-30T09:09:09Z,2025-07-01T06:28:59Z,Apache License 2.0,http://yapi.smart-xwork.cn/
+headlessui,tailwindlabs,TypeScript,27555,1147,https://github.com/tailwindlabs/headlessui,124,27555,2020-09-16T09:53:09Z,2025-07-01T06:43:37Z,MIT License,https://headlessui.com
+Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,CamDavidsonPilon,Jupyter Notebook,27550,7927,https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,205,27550,2013-01-14T15:46:28Z,2025-07-01T02:01:04Z,MIT License,http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+swagger-ui,swagger-api,JavaScript,27543,9116,https://github.com/swagger-api/swagger-ui,1293,27543,2011-07-15T22:56:39Z,2025-07-01T06:27:53Z,Apache License 2.0,https://swagger.io
+posthog,PostHog,Python,27513,1764,https://github.com/PostHog/posthog,2113,27513,2020-01-23T22:46:58Z,2025-07-01T08:01:58Z,Other,https://posthog.com
+zoxide,ajeetdsouza,Rust,27508,637,https://github.com/ajeetdsouza/zoxide,121,27508,2020-03-05T13:11:40Z,2025-07-01T08:07:23Z,MIT License,https://crates.io/crates/zoxide
+Daily-Interview-Question,Advanced-Frontend,JavaScript,27503,3284,https://github.com/Advanced-Frontend/Daily-Interview-Question,264,27503,2019-01-19T10:49:00Z,2025-07-01T06:57:56Z,,https://muyiy.cn/question/
+redash,getredash,Python,27486,4490,https://github.com/getredash/redash,724,27486,2013-10-28T13:19:39Z,2025-07-01T00:56:53Z,"BSD 2-Clause ""Simplified"" License",http://redash.io/
+create-t3-app,t3-oss,TypeScript,27474,1343,https://github.com/t3-oss/create-t3-app,85,27474,2022-05-24T13:31:01Z,2025-07-01T08:06:37Z,MIT License,https://create.t3.gg
+commander.js,tj,JavaScript,27439,1720,https://github.com/tj/commander.js,16,27439,2011-08-14T21:33:58Z,2025-07-01T00:20:22Z,MIT License,
+podman,containers,Go,27420,2688,https://github.com/containers/podman,873,27420,2017-11-01T15:01:27Z,2025-07-01T08:13:34Z,Apache License 2.0,https://podman.io
+Tvlist-awesome-m3u-m3u8,imDazui,,27403,3242,https://github.com/imDazui/Tvlist-awesome-m3u-m3u8,25,27403,2017-02-18T03:59:25Z,2025-07-01T08:13:47Z,,
+underscore,jashkenas,JavaScript,27391,5499,https://github.com/jashkenas/underscore,52,27391,2009-10-25T18:31:06Z,2025-07-01T06:42:15Z,MIT License,https://underscorejs.org
+continue,continuedev,TypeScript,27376,3060,https://github.com/continuedev/continue,966,27376,2023-05-24T03:39:39Z,2025-07-01T07:46:54Z,Apache License 2.0,https://docs.continue.dev/
+so-vits-svc,svc-develop-team,Python,27318,5011,https://github.com/svc-develop-team/so-vits-svc,28,27318,2023-03-10T09:31:09Z,2025-06-30T19:02:05Z,GNU Affero General Public License v3.0,
+weui,Tencent,HTML,27312,6379,https://github.com/Tencent/weui,61,27312,2014-12-18T04:09:54Z,2025-07-01T06:49:55Z,Other,https://weui.io
+trivy,aquasecurity,Go,27307,2608,https://github.com/aquasecurity/trivy,195,27307,2019-04-11T01:01:07Z,2025-07-01T08:11:19Z,Apache License 2.0,https://trivy.dev
+nginx,nginx,C,27297,7369,https://github.com/nginx/nginx,232,27297,2015-06-23T10:26:27Z,2025-07-01T01:35:45Z,"BSD 2-Clause ""Simplified"" License",https://nginx.org/
+LibreChat,danny-avila,TypeScript,27288,4852,https://github.com/danny-avila/LibreChat,226,27288,2023-02-12T01:06:52Z,2025-07-01T08:10:51Z,MIT License,https://librechat.ai/
+mongo,mongodb,C++,27277,5654,https://github.com/mongodb/mongo,82,27277,2009-01-15T16:15:18Z,2025-07-01T06:18:46Z,Other,https://www.mongodb.com/
+mongoose,Automattic,JavaScript,27272,3860,https://github.com/Automattic/mongoose,209,27272,2010-04-06T21:39:05Z,2025-06-30T20:30:09Z,MIT License,https://mongoosejs.com
+taichi,taichi-dev,C++,27231,2349,https://github.com/taichi-dev/taichi,894,27231,2016-11-24T10:00:05Z,2025-06-30T12:23:50Z,Apache License 2.0,https://taichi-lang.org
+Signal-Android,signalapp,Kotlin,27229,6443,https://github.com/signalapp/Signal-Android,368,27229,2011-12-15T20:01:12Z,2025-07-01T08:07:48Z,GNU Affero General Public License v3.0,https://signal.org
+openai-python,openai,Python,27217,4025,https://github.com/openai/openai-python,121,27217,2020-10-25T23:23:54Z,2025-07-01T06:07:02Z,Apache License 2.0,https://pypi.org/project/openai/
+srs,ossrs,C++,27217,5521,https://github.com/ossrs/srs,267,27217,2015-04-29T06:59:32Z,2025-07-01T08:07:22Z,MIT License,https://ossrs.io
+coder2gwy,coder2gwy,,27203,3721,https://github.com/coder2gwy/coder2gwy,128,27203,2020-12-30T14:40:50Z,2025-07-01T02:57:43Z,,
+llm-app,pathwaycom,Jupyter Notebook,27180,644,https://github.com/pathwaycom/llm-app,6,27180,2023-07-19T08:43:37Z,2025-07-01T07:58:08Z,MIT License,https://pathway.com/developers/templates/
+Rectangle,rxhanson,Swift,27178,831,https://github.com/rxhanson/Rectangle,84,27178,2019-06-21T21:34:53Z,2025-07-01T07:20:12Z,Other,https://rectangleapp.com
+kit,go-kit,Go,27128,2456,https://github.com/go-kit/kit,57,27128,2015-02-03T00:01:19Z,2025-06-30T20:34:24Z,MIT License,https://gokit.io
+EasyOCR,JaidedAI,Python,27122,3382,https://github.com/JaidedAI/EasyOCR,505,27122,2020-03-14T11:46:39Z,2025-07-01T07:23:48Z,Apache License 2.0,https://www.jaided.ai
+fastai,fastai,Jupyter Notebook,27108,7612,https://github.com/fastai/fastai,251,27108,2017-09-09T17:43:36Z,2025-07-01T08:12:06Z,Apache License 2.0,http://docs.fast.ai
+ChatDev,OpenBMB,Python,27096,3412,https://github.com/OpenBMB/ChatDev,46,27096,2023-08-28T02:18:13Z,2025-07-01T03:05:45Z,Apache License 2.0,https://arxiv.org/abs/2307.07924
+JCSprout,crossoverJie,Java,27081,7058,https://github.com/crossoverJie/JCSprout,45,27081,2017-12-17T09:06:50Z,2025-07-01T03:25:03Z,MIT License,https://crossoverjie.top/JCSprout
+codemirror5,codemirror,JavaScript,27074,4966,https://github.com/codemirror/codemirror5,436,27074,2011-01-14T13:44:03Z,2025-07-01T03:37:03Z,MIT License,http://codemirror.net/5/
+flameshot,flameshot-org,C++,27074,1721,https://github.com/flameshot-org/flameshot,701,27074,2017-05-10T19:44:51Z,2025-07-01T07:23:58Z,GNU General Public License v3.0,https://flameshot.org
+Folo,RSSNext,TypeScript,27068,1180,https://github.com/RSSNext/Folo,191,27068,2024-04-08T03:23:35Z,2025-07-01T08:13:28Z,GNU General Public License v3.0,https://follow.is
+xgboost,dmlc,C++,27056,8784,https://github.com/dmlc/xgboost,475,27056,2014-02-06T17:28:03Z,2025-07-01T07:19:30Z,Apache License 2.0,https://xgboost.readthedocs.io/
