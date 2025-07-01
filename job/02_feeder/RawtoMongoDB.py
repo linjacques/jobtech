@@ -3,12 +3,10 @@ import json
 import pandas as pd
 from pymongo import MongoClient
 
-# Connexion à MongoDB avec gestion d'erreur
 try:
-    uri = "mongodb+srv://yanis78:LydsmJKpsid1FmDV@jobtech.gtbjftn.mongodb.net/?retryWrites=true&w=majority&appName=jobtech"
+    uri = "mongodb://localhost:27017/jobtech"
     client = MongoClient(uri, serverSelectionTimeoutMS=5000)
-    db = client['jobtech_db']
-    # Test de connexion
+    db = client['jobtech']
     client.server_info()
     print("[LOG] Connexion à MongoDB Atlas réussie.")
 except Exception as e:
@@ -16,7 +14,6 @@ except Exception as e:
     print(e)
     exit(1)
 
-# Correction du chemin pour RAW_DIR
 RAW_DIR = os.path.abspath(
     os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'raw')
 )
@@ -51,7 +48,6 @@ def get_collection_name(filepath):
     return os.path.splitext(os.path.basename(filepath))[0]
 
 def insert_data(collection_name, data):
-    # Insertion des documents dans la collection MongoDB
     try:
         if data:
             db[collection_name].insert_many(data)
