@@ -5,3 +5,5 @@ Selenium
 django
 djangorestframework 
 markdown
+pymongo
+pymysql

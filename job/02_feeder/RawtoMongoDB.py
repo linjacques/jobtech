@@ -5,9 +5,9 @@ from pymongo import MongoClient
 
 
 try:
-    uri = "mongodb+srv://yanis78:LydsmJKpsid1FmDV@jobtech.gtbjftn.mongodb.net/?retryWrites=true&w=majority&appName=jobtech"
+    uri = "mongodb://localhost:27017/jobtech"
     client = MongoClient(uri, serverSelectionTimeoutMS=5000)
-    db = client['jobtech_db']
+    db = client['jobtech']
     client.server_info()
     print("[INFO] Connexion MongoDB OK")
 except Exception as e:
