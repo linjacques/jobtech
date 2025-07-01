@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Text
+from sqlalchemy import Column, Integer, String, Text, DateTime
 from db.mysql_con import Base
 
 class adzuna_job(Base):
@@ -38,4 +38,21 @@ class top_tech(Base):
 
     id = Column(Integer, primary_key=True)
     technology = Column(String(100))      
-    offer_count = Column(Integer)         
+    offer_count = Column(Integer)     
+
+class github_repo(Base):
+    __tablename__ = "github_repo"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    name = Column(String(255))
+    owner = Column(String(255))
+    language = Column(String(100))
+    stargazers_count = Column(Integer)
+    forks_count = Column(Integer)
+    html_url = Column(String(500))
+    open_issues_count = Column(Integer)
+    watchers_count = Column(Integer)
+    created_at = Column(DateTime)
+    updated_at = Column(DateTime)
+    license = Column(String(255))
+    homepage = Column(String(500))    

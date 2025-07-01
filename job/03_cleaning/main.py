@@ -1,5 +1,5 @@
 from db.mysql_con import get_session
-from model.models import adzuna_job, database, web_framework, top_tech, platform
+from model.models import adzuna_job, database, web_framework, top_tech, platform, github_repo
 from db.mongo_con import get_mongo_collections
 from utils.cleaner import normalize_document
 
@@ -14,36 +14,52 @@ def main():
 
         if collection_name == "adzuna_jobs":
             session.add(adzuna_job(
-                job_title=normalized.get("intitulé"),
-                company=normalized.get("entreprise"),
-                location=normalized.get("lieu"),
-                industry=normalized.get("secteur"),
-                description=normalized.get("description"),
-                skills=normalized.get("skills détectés"),
+                job_title = normalized.get("title"),
+                company = normalized.get("company"),
+                location = normalized.get("location"),
+                industry = normalized.get("category"),
+                description = normalized.get("description"),
+                skills = normalized.get("skills"),
+            ))
+
+        elif collection_name == "frameworks_web":
+            session.add(web_framework(
+                web_framework = normalized.get("webframehaveworkedwith"),
+                usage_count = normalized.get("number")
             ))
 
         elif collection_name == "bases_de_donnees":
             session.add(database(
-                database=normalized.get("databasehaveworkedwith"),
-                usage_count=normalized.get("nombre")
-            ))
-            
-        elif collection_name == "frameworks_web":
-            session.add(web_framework(
-                web_framework=normalized.get("webframehaveworkedwith"),
-                usage_count=normalized.get("nombre")
+                database = normalized.get("databasehaveworkedwith"),
+                usage_count = normalized.get("number")
             ))
 
         elif collection_name == "plateformes":
             session.add(platform(
-                platform=normalized.get("platformhaveworkedwith"),
-                usage_count=normalized.get("nombre")
+                platform = normalized.get("platformhaveworkedwith"),
+                usage_count = normalized.get("number")
             ))
 
         elif collection_name == "top_technos_voulues":
             session.add(top_tech(
-                technology=normalized.get("wanttoworkwith"),
-                offer_count=normalized.get("nombre")
+                technology = normalized.get("wanttoworkwith"),
+                offer_count = normalized.get("number")
+            ))
+
+        elif collection_name == "github_popular_repos":
+            session.add(github_repo(
+                name = normalized.get("name"),
+                owner = normalized.get("owner"),
+                language = normalized.get("language"),
+                stargazers_count = normalized.get("stargazers_count"),
+                forks_count = normalized.get("forks_count"),
+                html_url = normalized.get("html_url"),
+                open_issues_count = normalized.get("open_issues_count"),
+                watchers_count = normalized.get("watchers_count"),
+                created_at = normalized.get("created_at"),
+                updated_at = normalized.get("updated_at"),
+                license = normalized.get("license"),
+                homepage = normalized.get("homepage")
             ))
 
     session.commit()
