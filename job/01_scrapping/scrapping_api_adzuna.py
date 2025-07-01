@@ -10,7 +10,7 @@ base_url = "https://api.adzuna.com/v1/api/jobs/fr/search/"
 keywords = ["Python", "JavaScript", "AWS", "Docker", "React"]
 
 
-total_results_wanted = 150
+total_results_wanted = 300
 results_per_page = 50
 pages_needed = (total_results_wanted // results_per_page) + 1
 
@@ -42,20 +42,18 @@ for page in range(1, pages_needed + 1):
         salary_max = job.get("salary_max")
         category = job.get("category", {}).get("label")
         description = job.get("description", "")
-
-        
         skills = [kw for kw in keywords if kw.lower() in description.lower()]
 
         data.append({
-            "Intitulé": title,
-            "Entreprise": company,
-            "Lieu": location,
-            "Salaire min": salary_min,
-            "Salaire max": salary_max,
-            "Salaire prédit": salary_predicted,
-            "Secteur": category,
-            "Skills détectés": ", ".join(skills),
-            "Description": description
+            "title": title,
+            "company": company,
+            "location": location,
+            "salary_predicted": salary_predicted,
+            "salary_min": salary_min,
+            "salary_max": salary_max,
+            "category": category,
+            "description": description,
+            "skills": ", ".join(skills)
         })
 
 
