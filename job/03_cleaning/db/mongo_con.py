@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
 def get_mongo_collections(db_name="jobtech"):
-    client = MongoClient("mongodb://localhost:27017/")
+    client = MongoClient("mongodb://host.docker.internal:27017/")
     db = client[db_name]
     all_docs = []
 
