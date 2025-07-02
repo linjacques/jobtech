@@ -12,7 +12,7 @@ with DAG(
     dag_id="load_batch_to_mongoDB",
     default_args=default_args,
     start_date=datetime(2024, 1, 1),
-    schedule_interval="*/2 * * * *", 
+    schedule_interval="*/20 * * * *", 
     catchup=False
 ) as dag:
 

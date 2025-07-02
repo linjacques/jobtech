@@ -12,7 +12,7 @@ with DAG(
     dag_id="scraping_every_2min",
     default_args=default_args,
     start_date=datetime(2024, 1, 1),
-    schedule_interval="*/2 * * * *",  # ⏱️ toutes les 2 minutes
+    schedule_interval="*/2 * * * *",  # toutes les 2 minutes
     catchup=False
 ) as dag:
 
@@ -26,4 +26,8 @@ with DAG(
         bash_command="python /opt/airflow/job/01_scrapping/scrapping_stack_overflow.py"
     )
 
-    run_adzuna >> run_stack 
+    run_github = BashOperator(
+        task_id="scrape_github",
+        bash_command="python /opt/airflow/job/01_scrapping/scrapping_githubAPI.py"
+    )
+    run_adzuna >> run_stack >> run_github
