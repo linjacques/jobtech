@@ -6,8 +6,8 @@ import time
 url = "https://api.github.com/search/repositories"
 headers = {
     "Accept": "application/vnd.github+json",
-    "User-Agent": "Mozilla/5.0"
-    # "Authorization": "Bearer <YOUR_TOKEN>"  # Ajoutez votre token ici pour éviter le rate limit
+    "User-Agent": "Mozilla/5.0",
+    #"Authorization": "token VOTRE_TOKEN" # durée 30 jours 
 }
 
 all_repos = []
@@ -49,7 +49,7 @@ for repo in all_repos:
     })
 
 df = pd.DataFrame(data)
-df.to_csv("data/raw/github_popular_repos.csv", index=False, encoding="utf-8")
+df.to_csv("/opt/airflow/data/raw/github_popular_repos.csv", index=False, encoding="utf-8")
 print("Fichier exporté : github_popular_repos.csv")
-df.to_csv("data/raw/github_popular_repos.csv", index=False, encoding="utf-8")
+df.to_csv("/opt/airflow/data/raw/github_popular_repos.csv", index=False, encoding="utf-8")
 print("Fichier exporté : github_popular_repos.csv")

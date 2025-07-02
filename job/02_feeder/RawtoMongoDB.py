@@ -5,7 +5,7 @@ from pymongo import MongoClient
 
 
 try:
-    uri = "mongodb://localhost:27017/jobtech"
+    uri = "mongodb://host.docker.internal:27017/jobtech"
     client = MongoClient(uri, serverSelectionTimeoutMS=5000)
     db = client['jobtech']
     client.server_info()

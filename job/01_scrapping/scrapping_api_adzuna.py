@@ -61,6 +61,6 @@ for page in range(1, pages_needed + 1):
 
 
 df = pd.DataFrame(data[:total_results_wanted]) 
-df.to_csv("data/raw/adzuna_jobs.csv", index=False, encoding="utf-8")
+df.to_csv("/opt/airflow/data/raw/adzuna_jobs.csv", index=False, encoding="utf-8")
 
 print(f" {len(df)} offres exportées dans 'adzuna_jobs_150.csv'")
