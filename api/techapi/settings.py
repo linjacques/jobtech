@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'JobTech',
         'USER': 'root',
-        'PASSWORD': 'MDP,
+        'PASSWORD': 'MDP',
         'HOST': 'localhost',
         'PORT': '3306',
     }
