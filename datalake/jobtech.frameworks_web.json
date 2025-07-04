@@ -1,0 +1,6003 @@
+[{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c5"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c6"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c7"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c8"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c9"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69ca"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69cb"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69cc"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69cd"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69ce"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69cf"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d0"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d1"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d2"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d3"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d4"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d5"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d6"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d7"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d8"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69d9"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69da"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69db"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69dc"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69dd"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69de"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69df"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e0"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e1"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e2"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e3"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e4"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e5"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e6"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e7"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e8"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69e9"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4195"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4196"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4197"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4198"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4199"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e419a"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e419b"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e419c"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e419d"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e419e"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e419f"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a0"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a1"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a2"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a3"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a4"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a5"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a6"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a7"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a8"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41a9"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41aa"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41ab"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41ac"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41ad"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41ae"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41af"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b0"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b1"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b2"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b3"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b4"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b5"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b6"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b7"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b8"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e41b9"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1852"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1853"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1854"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1855"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1856"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1857"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1858"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1859"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b185a"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b185b"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b185c"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b185d"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b185e"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b185f"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1860"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1861"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1862"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1863"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1864"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1865"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1866"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1867"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1868"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1869"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b186a"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b186b"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b186c"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b186d"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b186e"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b186f"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1870"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1871"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1872"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1873"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1874"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1875"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1876"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e7"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e8"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e9"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ea"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4eb"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ec"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ed"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ee"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ef"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f0"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f1"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f2"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f3"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f4"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f5"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f6"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f7"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f8"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4f9"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4fa"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4fb"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4fc"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4fd"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4fe"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ff"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a500"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a501"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a502"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a503"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a504"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a505"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a506"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a507"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a508"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a509"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a50a"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a50b"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d16"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d17"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d18"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d19"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d1a"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d1b"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d1c"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d1d"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d1e"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d1f"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d20"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d21"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d22"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d23"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d24"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d25"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d26"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d27"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d28"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d29"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d2a"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d2b"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d2c"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d2d"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d2e"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d2f"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d30"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d31"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d32"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d33"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d34"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d35"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d36"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d37"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d38"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d39"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d3a"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd69"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd6a"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd6b"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd6c"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd6d"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd6e"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd6f"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd70"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd71"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd72"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd73"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd74"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd75"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd76"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd77"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd78"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd79"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd7a"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd7b"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd7c"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd7d"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd7e"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd7f"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd80"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd81"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd82"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd83"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd84"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd85"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd86"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd87"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd88"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd89"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd8a"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd8b"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd8c"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd8d"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d8"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d9"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130da"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130db"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130dc"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130dd"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130de"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130df"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e0"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e1"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e2"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e3"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e4"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e5"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e6"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e7"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e8"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130e9"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ea"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130eb"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ec"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ed"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ee"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ef"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f0"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f1"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f2"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f3"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f4"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f5"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f6"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f7"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f8"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130f9"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130fa"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130fb"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130fc"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d806"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d807"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d808"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d809"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d80a"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d80b"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d80c"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d80d"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d80e"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d80f"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d810"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d811"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d812"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d813"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d814"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d815"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d816"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d817"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d818"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d819"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d81a"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d81b"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d81c"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d81d"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d81e"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d81f"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d820"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d821"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d822"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d823"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d824"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d825"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d826"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d827"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d828"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d829"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d82a"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae86"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae87"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae88"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae89"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae8a"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae8b"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae8c"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae8d"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae8e"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae8f"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae90"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae91"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae92"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae93"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae94"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae95"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae96"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae97"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae98"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae99"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae9a"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae9b"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae9c"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae9d"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae9e"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae9f"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea0"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea1"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea2"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea3"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea4"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea5"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea6"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea7"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea8"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aea9"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744aeaa"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adec"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432aded"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adee"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adef"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf0"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf1"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf2"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf3"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf4"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf5"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf6"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf7"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf8"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adf9"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adfa"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adfb"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adfc"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adfd"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adfe"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adff"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae00"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae01"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae02"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae03"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae04"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae05"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae06"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae07"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae08"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae09"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae0a"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae0b"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae0c"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae0d"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae0e"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae0f"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ae10"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5433"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5434"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5435"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5436"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5437"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5438"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5439"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af543a"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af543b"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af543c"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af543d"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af543e"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af543f"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5440"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5441"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5442"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5443"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5444"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5445"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5446"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5447"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5448"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5449"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af544a"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af544b"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af544c"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af544d"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af544e"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af544f"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5450"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5451"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5452"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5453"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5454"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5455"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5456"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5457"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf9"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebfa"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebfb"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebfc"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebfd"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebfe"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebff"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec00"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec01"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec02"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec03"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec04"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec05"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec06"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec07"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec08"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec09"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec0a"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec0b"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec0c"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec0d"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec0e"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec0f"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec10"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec11"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec12"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec13"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec14"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec15"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec16"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec17"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec18"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec19"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec1a"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec1b"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec1c"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ec1d"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564fe"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564ff"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56500"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56501"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56502"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56503"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56504"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56505"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56506"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56507"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56508"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56509"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5650a"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5650b"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5650c"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5650d"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5650e"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5650f"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56510"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56511"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56512"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56513"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56514"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56515"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56516"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56517"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56518"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56519"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5651a"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5651b"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5651c"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5651d"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5651e"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5651f"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56520"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56521"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56522"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596520"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596521"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596522"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596523"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596524"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596525"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596526"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596527"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596528"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596529"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159652a"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159652b"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159652c"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159652d"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159652e"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159652f"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596530"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596531"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596532"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596533"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596534"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596535"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596536"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596537"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596538"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596539"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159653a"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159653b"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159653c"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159653d"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159653e"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159653f"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596540"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596541"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596542"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596543"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596544"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a1f"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a20"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a21"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a22"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a23"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a24"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a25"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a26"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a27"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a28"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a29"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a2a"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a2b"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a2c"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a2d"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a2e"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a2f"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a30"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a31"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a32"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a33"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a34"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a35"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a36"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a37"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a38"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a39"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a3a"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a3b"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a3c"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a3d"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a3e"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a3f"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a40"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a41"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a42"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a43"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c83"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c84"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c85"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c86"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c87"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c88"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c89"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c8a"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c8b"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c8c"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c8d"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c8e"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c8f"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c90"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c91"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c92"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c93"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c94"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c95"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c96"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c97"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c98"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c99"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c9a"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c9b"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c9c"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c9d"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c9e"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c9f"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca0"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca1"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca2"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca3"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca4"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca5"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca6"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39ca7"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f4"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f5"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f6"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f7"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f8"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f9"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59fa"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59fb"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59fc"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59fd"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59fe"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59ff"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a00"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a01"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a02"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a03"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a04"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a05"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a06"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a07"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a08"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a09"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a0a"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a0b"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a0c"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a0d"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a0e"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a0f"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a10"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a11"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a12"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a13"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a14"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a15"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a16"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a17"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5a18"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea00c"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea00d"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea00e"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea00f"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea010"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea011"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea012"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea013"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea014"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea015"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea016"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea017"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea018"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea019"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea01a"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea01b"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea01c"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea01d"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea01e"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea01f"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea020"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea021"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea022"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea023"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea024"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea025"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea026"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea027"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea028"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea029"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea02a"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea02b"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea02c"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea02d"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea02e"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea02f"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea030"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f569b"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f569c"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f569d"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f569e"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f569f"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a0"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a1"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a2"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a3"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a4"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a5"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a6"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a7"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a8"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56a9"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56aa"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56ab"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56ac"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56ad"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56ae"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56af"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b0"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b1"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b2"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b3"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b4"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b5"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b6"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b7"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b8"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56b9"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56ba"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56bb"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56bc"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56bd"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56be"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f56bf"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd048"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd049"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd04a"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd04b"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd04c"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd04d"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd04e"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd04f"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd050"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd051"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd052"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd053"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd054"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd055"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd056"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd057"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd058"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd059"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd05a"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd05b"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd05c"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd05d"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd05e"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd05f"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd060"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd061"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd062"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd063"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd064"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd065"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd066"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd067"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd068"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd069"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd06a"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd06b"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd06c"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af72"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af73"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af74"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af75"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af76"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af77"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af78"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af79"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af7a"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af7b"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af7c"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af7d"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af7e"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af7f"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af80"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af81"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af82"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af83"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af84"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af85"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af86"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af87"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af88"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af89"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af8a"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af8b"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af8c"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af8d"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af8e"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af8f"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af90"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af91"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af92"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af93"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af94"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af95"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af96"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df190"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df191"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df192"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df193"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df194"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df195"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df196"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df197"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df198"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df199"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df19a"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df19b"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df19c"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df19d"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df19e"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df19f"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a0"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a1"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a2"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a3"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a4"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a5"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a6"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a7"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a8"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1a9"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1aa"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1ab"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1ac"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1ad"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1ae"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1af"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1b0"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1b1"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1b2"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1b3"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df1b4"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd61e"
+  },
+  "WebframeHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 20276
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd61f"
+  },
+  "WebframeHaveWorkedWith": "Node.js",
+  "Number": 19772
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd620"
+  },
+  "WebframeHaveWorkedWith": "React",
+  "Number": 19167
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd621"
+  },
+  "WebframeHaveWorkedWith": "jQuery",
+  "Number": 10381
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd622"
+  },
+  "WebframeHaveWorkedWith": "Next.js",
+  "Number": 8681
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd623"
+  },
+  "WebframeHaveWorkedWith": "Express",
+  "Number": 8614
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd624"
+  },
+  "WebframeHaveWorkedWith": "Angular",
+  "Number": 8306
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd625"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET CORE",
+  "Number": 8187
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd626"
+  },
+  "WebframeHaveWorkedWith": "Vue.js",
+  "Number": 7483
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd627"
+  },
+  "WebframeHaveWorkedWith": "ASP.NET",
+  "Number": 6265
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd628"
+  },
+  "WebframeHaveWorkedWith": "Flask",
+  "Number": 6245
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd629"
+  },
+  "WebframeHaveWorkedWith": "Spring Boot",
+  "Number": 6165
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd62a"
+  },
+  "WebframeHaveWorkedWith": "Django",
+  "Number": 5835
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd62b"
+  },
+  "WebframeHaveWorkedWith": "WordPress",
+  "Number": 5711
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd62c"
+  },
+  "WebframeHaveWorkedWith": "FastAPI",
+  "Number": 4800
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd62d"
+  },
+  "WebframeHaveWorkedWith": "Laravel",
+  "Number": 3834
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd62e"
+  },
+  "WebframeHaveWorkedWith": "AngularJS",
+  "Number": 3292
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd62f"
+  },
+  "WebframeHaveWorkedWith": "Svelte",
+  "Number": 3146
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd630"
+  },
+  "WebframeHaveWorkedWith": "NestJS",
+  "Number": 2832
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd631"
+  },
+  "WebframeHaveWorkedWith": "Blazor",
+  "Number": 2378
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd632"
+  },
+  "WebframeHaveWorkedWith": "Ruby on Rails",
+  "Number": 2294
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd633"
+  },
+  "WebframeHaveWorkedWith": "Nuxt.js",
+  "Number": 1753
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd634"
+  },
+  "WebframeHaveWorkedWith": "Htmx",
+  "Number": 1591
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd635"
+  },
+  "WebframeHaveWorkedWith": "Symfony",
+  "Number": 1531
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd636"
+  },
+  "WebframeHaveWorkedWith": "Astro",
+  "Number": 1462
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd637"
+  },
+  "WebframeHaveWorkedWith": "Fastify",
+  "Number": 1070
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd638"
+  },
+  "WebframeHaveWorkedWith": "Deno",
+  "Number": 943
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd639"
+  },
+  "WebframeHaveWorkedWith": "Phoenix",
+  "Number": 930
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd63a"
+  },
+  "WebframeHaveWorkedWith": "Drupal",
+  "Number": 920
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd63b"
+  },
+  "WebframeHaveWorkedWith": "Strapi",
+  "Number": 815
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd63c"
+  },
+  "WebframeHaveWorkedWith": "CodeIgniter",
+  "Number": 812
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd63d"
+  },
+  "WebframeHaveWorkedWith": "Gatsby",
+  "Number": 758
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd63e"
+  },
+  "WebframeHaveWorkedWith": "Remix",
+  "Number": 757
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd63f"
+  },
+  "WebframeHaveWorkedWith": "Solid.js",
+  "Number": 590
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd640"
+  },
+  "WebframeHaveWorkedWith": "Yii 2",
+  "Number": 454
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd641"
+  },
+  "WebframeHaveWorkedWith": "Play Framework",
+  "Number": 387
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd642"
+  },
+  "WebframeHaveWorkedWith": "Elm",
+  "Number": 309
+}]

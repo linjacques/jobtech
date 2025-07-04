@@ -1,0 +1,4554 @@
+[{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd2"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd3"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd4"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd5"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd6"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd7"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd8"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dd9"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dda"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6ddb"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6ddc"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6ddd"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dde"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6ddf"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de0"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de1"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de2"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de3"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de4"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de5"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de6"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de7"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de8"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6de9"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dea"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6deb"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6dec"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a6ded"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a2"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a3"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a4"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a5"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a6"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a7"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a8"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45a9"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45aa"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45ab"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45ac"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45ad"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45ae"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45af"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b0"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b1"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b2"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b3"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b4"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b5"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b6"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b7"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b8"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45b9"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45ba"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45bb"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45bc"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e45bd"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c5f"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c60"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c61"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c62"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c63"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c64"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c65"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c66"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c67"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c68"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c69"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c6a"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c6b"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c6c"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c6d"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c6e"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c6f"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c70"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c71"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c72"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c73"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c74"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c75"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c76"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c77"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c78"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c79"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1c7a"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8f4"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8f5"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8f6"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8f7"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8f8"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8f9"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8fa"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8fb"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8fc"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8fd"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8fe"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a8ff"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a900"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a901"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a902"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a903"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a904"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a905"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a906"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a907"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a908"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a909"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a90a"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a90b"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a90c"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a90d"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a90e"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a90f"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619123"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619124"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619125"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619126"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619127"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619128"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619129"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561912a"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561912b"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561912c"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561912d"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561912e"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561912f"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619130"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619131"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619132"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619133"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619134"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619135"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619136"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619137"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619138"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5619139"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561913a"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561913b"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561913c"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561913d"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab561913e"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e176"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e177"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e178"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e179"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e17a"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e17b"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e17c"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e17d"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e17e"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e17f"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e180"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e181"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e182"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e183"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e184"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e185"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e186"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e187"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e188"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e189"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e18a"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e18b"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e18c"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e18d"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e18e"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e18f"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e190"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5e191"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134e5"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134e6"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134e7"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134e8"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134e9"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134ea"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134eb"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134ec"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134ed"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134ee"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134ef"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f0"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f1"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f2"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f3"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f4"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f5"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f6"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f7"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f8"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134f9"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134fa"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134fb"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134fc"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134fd"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134fe"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b52134ff"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652ce0794002b5b5213500"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc13"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc14"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc15"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc16"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc17"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc18"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc19"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc1a"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc1b"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc1c"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc1d"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc1e"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc1f"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc20"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc21"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc22"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc23"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc24"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc25"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc26"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc27"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc28"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc29"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc2a"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc2b"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc2c"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc2d"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72dc2e"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b293"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b294"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b295"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b296"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b297"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b298"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b299"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b29a"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b29b"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b29c"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b29d"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b29e"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b29f"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a0"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a1"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a2"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a3"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a4"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a5"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a6"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a7"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a8"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2a9"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2aa"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2ab"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2ac"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2ad"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652dd01fbc6a395744b2ae"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b1f9"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b1fa"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b1fb"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b1fc"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b1fd"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b1fe"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b1ff"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b200"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b201"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b202"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b203"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b204"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b205"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b206"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b207"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b208"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b209"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b20a"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b20b"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b20c"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b20d"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b20e"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b20f"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b210"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b211"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b212"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b213"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652e48c1815e511432b214"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5840"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5841"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5842"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5843"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5844"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5845"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5846"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5847"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5848"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5849"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af584a"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af584b"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af584c"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af584d"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af584e"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af584f"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5850"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5851"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5852"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5853"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5854"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5855"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5856"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5857"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5858"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5859"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af585a"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af585b"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f006"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f007"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f008"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f009"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f00a"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f00b"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f00c"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f00d"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f00e"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f00f"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f010"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f011"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f012"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f013"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f014"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f015"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f016"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f017"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f018"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f019"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f01a"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f01b"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f01c"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f01d"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f01e"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f01f"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f020"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8f021"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5690b"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5690c"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5690d"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5690e"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5690f"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56910"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56911"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56912"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56913"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56914"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56915"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56916"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56917"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56918"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56919"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5691a"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5691b"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5691c"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5691d"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5691e"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff5691f"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56920"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56921"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56922"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56923"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56924"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56925"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff56926"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159692d"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159692e"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159692f"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596930"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596931"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596932"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596933"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596934"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596935"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596936"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596937"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596938"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596939"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159693a"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159693b"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159693c"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159693d"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159693e"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159693f"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596940"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596941"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596942"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596943"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596944"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596945"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596946"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596947"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596948"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e2c"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e2d"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e2e"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e2f"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e30"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e31"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e32"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e33"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e34"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e35"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e36"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e37"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e38"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e39"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e3a"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e3b"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e3c"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e3d"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e3e"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e3f"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e40"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e41"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e42"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e43"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e44"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e45"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e46"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2e47"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a090"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a091"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a092"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a093"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a094"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a095"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a096"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a097"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a098"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a099"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a09a"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a09b"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a09c"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a09d"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a09e"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a09f"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a0"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a1"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a2"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a3"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a4"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a5"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a6"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a7"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a8"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0a9"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0aa"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af3a0ab"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e01"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e02"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e03"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e04"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e05"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e06"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e07"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e08"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e09"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e0a"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e0b"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e0c"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e0d"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e0e"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e0f"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e10"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e11"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e12"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e13"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e14"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e15"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e16"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e17"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e18"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e19"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e1a"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e1b"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f5e1c"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea419"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea41a"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea41b"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea41c"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea41d"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea41e"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea41f"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea420"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea421"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea422"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea423"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea424"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea425"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea426"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea427"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea428"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea429"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea42a"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea42b"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea42c"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea42d"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea42e"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea42f"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea430"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea431"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea432"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea433"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68653cd59fd88f6050aea434"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aa8"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aa9"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aaa"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aab"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aac"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aad"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aae"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aaf"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab0"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab1"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab2"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab3"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab4"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab5"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab6"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab7"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab8"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ab9"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5aba"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5abb"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5abc"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5abd"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5abe"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5abf"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ac0"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ac1"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ac2"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5ac3"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd455"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd456"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd457"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd458"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd459"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd45a"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd45b"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd45c"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd45d"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd45e"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd45f"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd460"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd461"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd462"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd463"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd464"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd465"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd466"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd467"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd468"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd469"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd46a"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd46b"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd46c"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd46d"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd46e"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd46f"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd470"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b37f"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b380"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b381"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b382"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b383"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b384"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b385"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b386"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b387"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b388"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b389"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b38a"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b38b"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b38c"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b38d"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b38e"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b38f"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b390"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b391"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b392"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b393"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b394"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b395"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b396"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b397"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b398"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b399"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549b39a"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f9"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6fa"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6fb"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6fc"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6fd"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6fe"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ff"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df700"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df701"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df702"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df703"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df704"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df705"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df706"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df707"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df708"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df709"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df70a"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df70b"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df70c"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df70d"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df70e"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df70f"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df710"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df711"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df712"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df713"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df714"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb87"
+  },
+  "PlatformHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 23071
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb88"
+  },
+  "PlatformHaveWorkedWith": "Amazon Web Services (AWS)",
+  "Number": 22191
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb89"
+  },
+  "PlatformHaveWorkedWith": "Microsoft Azure",
+  "Number": 12850
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb8a"
+  },
+  "PlatformHaveWorkedWith": "Google Cloud",
+  "Number": 11605
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb8b"
+  },
+  "PlatformHaveWorkedWith": "Cloudflare",
+  "Number": 6974
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb8c"
+  },
+  "PlatformHaveWorkedWith": "Firebase",
+  "Number": 6443
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb8d"
+  },
+  "PlatformHaveWorkedWith": "Vercel",
+  "Number": 5491
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb8e"
+  },
+  "PlatformHaveWorkedWith": "Digital Ocean",
+  "Number": 5409
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb8f"
+  },
+  "PlatformHaveWorkedWith": "Heroku",
+  "Number": 3798
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb90"
+  },
+  "PlatformHaveWorkedWith": "Netlify",
+  "Number": 3238
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb91"
+  },
+  "PlatformHaveWorkedWith": "VMware",
+  "Number": 3043
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb92"
+  },
+  "PlatformHaveWorkedWith": "Hetzner",
+  "Number": 2301
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb93"
+  },
+  "PlatformHaveWorkedWith": "Supabase",
+  "Number": 1767
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb94"
+  },
+  "PlatformHaveWorkedWith": "Linode, now Akamai",
+  "Number": 1425
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb95"
+  },
+  "PlatformHaveWorkedWith": "OVH",
+  "Number": 1397
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb96"
+  },
+  "PlatformHaveWorkedWith": "Managed Hosting",
+  "Number": 1386
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb97"
+  },
+  "PlatformHaveWorkedWith": "Oracle Cloud Infrastructure (OCI)",
+  "Number": 1332
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb98"
+  },
+  "PlatformHaveWorkedWith": "Render",
+  "Number": 1305
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb99"
+  },
+  "PlatformHaveWorkedWith": "Fly.io",
+  "Number": 1189
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb9a"
+  },
+  "PlatformHaveWorkedWith": "OpenShift",
+  "Number": 1120
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb9b"
+  },
+  "PlatformHaveWorkedWith": "Databricks",
+  "Number": 918
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb9c"
+  },
+  "PlatformHaveWorkedWith": "PythonAnywhere",
+  "Number": 892
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb9d"
+  },
+  "PlatformHaveWorkedWith": "Vultr",
+  "Number": 798
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb9e"
+  },
+  "PlatformHaveWorkedWith": "OpenStack",
+  "Number": 716
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb9f"
+  },
+  "PlatformHaveWorkedWith": "Alibaba Cloud",
+  "Number": 548
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdba0"
+  },
+  "PlatformHaveWorkedWith": "IBM Cloud Or Watson",
+  "Number": 506
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdba1"
+  },
+  "PlatformHaveWorkedWith": "Scaleway",
+  "Number": 396
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdba2"
+  },
+  "PlatformHaveWorkedWith": "Colocation",
+  "Number": 307
+}]

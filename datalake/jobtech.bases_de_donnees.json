@@ -1,0 +1,5842 @@
+[{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a1"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a2"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a3"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a4"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a5"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a6"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a7"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a8"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69a9"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69aa"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69ab"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69ac"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69ad"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69ae"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69af"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b0"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b1"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b2"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b3"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b4"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b5"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b6"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b7"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b8"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69b9"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69ba"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69bb"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69bc"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69bd"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69be"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69bf"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c0"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c1"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c2"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c3"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652a725e71c174d62a69c4"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4171"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4172"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4173"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4174"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4175"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4176"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4177"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4178"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4179"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e417a"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e417b"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e417c"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e417d"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e417e"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e417f"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4180"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4181"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4182"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4183"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4184"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4185"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4186"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4187"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4188"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4189"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e418a"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e418b"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e418c"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e418d"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e418e"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e418f"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4190"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4191"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4192"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4193"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652a87795d8fa7df0e4194"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b182e"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b182f"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1830"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1831"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1832"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1833"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1834"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1835"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1836"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1837"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1838"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1839"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b183a"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b183b"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b183c"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b183d"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b183e"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b183f"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1840"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1841"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1842"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1843"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1844"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1845"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1846"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1847"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1848"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1849"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b184a"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b184b"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b184c"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b184d"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b184e"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b184f"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1850"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652aff6bf34e464e7b1851"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4c3"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4c4"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4c5"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4c6"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4c7"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4c8"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4c9"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ca"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4cb"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4cc"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4cd"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4ce"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4cf"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d0"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d1"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d2"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d3"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d4"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d5"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d6"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d7"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d8"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4d9"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4da"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4db"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4dc"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4dd"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4de"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4df"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e0"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e1"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e2"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e3"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e4"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e5"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652b77d0fc77616293a4e6"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf2"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf3"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf4"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf5"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf6"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf7"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf8"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cf9"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cfa"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cfb"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cfc"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cfd"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cfe"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618cff"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d00"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d01"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d02"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d03"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d04"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d05"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d06"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d07"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d08"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d09"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d0a"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d0b"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d0c"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d0d"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d0e"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d0f"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d10"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d11"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d12"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d13"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d14"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652bf035192c0ab5618d15"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd45"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd46"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd47"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd48"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd49"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd4a"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd4b"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd4c"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd4d"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd4e"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd4f"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd50"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd51"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd52"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd53"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd54"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd55"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd56"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd57"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd58"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd59"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd5a"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd5b"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd5c"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd5d"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd5e"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd5f"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd60"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd61"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd62"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd63"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd64"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd65"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd66"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd67"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652c680a698fe7eda5dd68"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130b4"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130b5"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130b6"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130b7"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130b8"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130b9"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ba"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130bb"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130bc"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130bd"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130be"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130bf"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c0"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c1"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c2"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c3"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c4"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c5"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c6"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c7"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c8"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130c9"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ca"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130cb"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130cc"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130cd"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130ce"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130cf"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d0"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d1"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d2"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d3"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d4"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d5"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d6"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652cdf794002b5b52130d7"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e2"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e3"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e4"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e5"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e6"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e7"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e8"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7e9"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7ea"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7eb"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7ec"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7ed"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7ee"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7ef"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f0"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f1"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f2"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f3"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f4"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f5"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f6"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f7"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f8"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7f9"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7fa"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7fb"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7fc"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7fd"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7fe"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d7ff"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d800"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d801"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d802"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d803"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d804"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652d5849db0263db72d805"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae62"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae63"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae64"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae65"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae66"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae67"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae68"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae69"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae6a"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae6b"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae6c"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae6d"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae6e"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae6f"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae70"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae71"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae72"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae73"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae74"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae75"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae76"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae77"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae78"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae79"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae7a"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae7b"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae7c"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae7d"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae7e"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae7f"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae80"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae81"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae82"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae83"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae84"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652dcf1fbc6a395744ae85"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adc8"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adc9"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adca"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adcb"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adcc"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adcd"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adce"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adcf"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add0"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add1"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add2"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add3"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add4"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add5"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add6"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add7"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add8"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432add9"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adda"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432addb"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432addc"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432addd"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adde"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432addf"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade0"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade1"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade2"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade3"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade4"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade5"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade6"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade7"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade8"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432ade9"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adea"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652e47c1815e511432adeb"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af540f"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5410"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5411"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5412"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5413"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5414"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5415"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5416"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5417"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5418"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5419"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af541a"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af541b"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af541c"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af541d"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af541e"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af541f"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5420"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5421"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5422"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5423"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5424"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5425"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5426"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5427"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5428"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5429"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af542a"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af542b"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af542c"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af542d"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af542e"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af542f"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5430"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5431"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652ec06f4bc9a8e0af5432"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebd5"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebd6"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebd7"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebd8"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebd9"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebda"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebdb"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebdc"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebdd"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebde"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebdf"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe0"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe1"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe2"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe3"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe4"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe5"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe6"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe7"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe8"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebe9"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebea"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebeb"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebec"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebed"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebee"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebef"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf0"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf1"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf2"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf3"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf4"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf5"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf6"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf7"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652f37aee49ac66ff8ebf8"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564da"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564db"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564dc"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564dd"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564de"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564df"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e0"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e1"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e2"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e3"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e4"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e5"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e6"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e7"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e8"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564e9"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564ea"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564eb"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564ec"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564ed"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564ee"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564ef"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f0"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f1"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f2"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f3"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f4"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f5"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f6"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f7"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f8"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564f9"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564fa"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564fb"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564fc"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68652fb0cb3ffa91cff564fd"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c15964fc"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c15964fd"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c15964fe"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c15964ff"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596500"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596501"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596502"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596503"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596504"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596505"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596506"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596507"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596508"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596509"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159650a"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159650b"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159650c"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159650d"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159650e"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159650f"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596510"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596511"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596512"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596513"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596514"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596515"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596516"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596517"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596518"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c1596519"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159651a"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159651b"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159651c"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159651d"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159651e"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68653028614eb8e7c159651f"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a29fb"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a29fc"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a29fd"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a29fe"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a29ff"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a00"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a01"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a02"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a03"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a04"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a05"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a06"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a07"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a08"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a09"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a0a"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a0b"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a0c"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a0d"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a0e"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a0f"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a10"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a11"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a12"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a13"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a14"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a15"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a16"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a17"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a18"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a19"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a1a"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a1b"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a1c"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a1d"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "686530a00eb42bf20a9a2a1e"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c5f"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c60"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c61"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c62"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c63"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c64"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c65"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c66"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c67"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c68"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c69"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c6a"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c6b"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c6c"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c6d"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c6e"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c6f"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c70"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c71"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c72"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c73"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c74"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c75"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c76"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c77"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c78"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c79"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c7a"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c7b"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c7c"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c7d"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c7e"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c7f"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c80"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c81"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "686531178db2c4794af39c82"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d0"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d1"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d2"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d3"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d4"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d5"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d6"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d7"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d8"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59d9"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59da"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59db"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59dc"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59dd"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59de"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59df"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e0"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e1"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e2"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e3"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e4"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e5"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e6"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e7"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e8"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59e9"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59ea"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59eb"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59ec"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59ed"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59ee"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59ef"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f0"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f1"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f2"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "686531900e6e2978957f59f3"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fe8"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fe9"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fea"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9feb"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fec"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fed"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fee"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fef"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff0"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff1"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff2"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff3"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff4"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff5"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff6"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff7"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff8"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ff9"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ffa"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ffb"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ffc"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ffd"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9ffe"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050ae9fff"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea000"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea001"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea002"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea003"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea004"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea005"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea006"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea007"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea008"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea009"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea00a"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68653cd49fd88f6050aea00b"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5677"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5678"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5679"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f567a"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f567b"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f567c"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f567d"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f567e"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f567f"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5680"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5681"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5682"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5683"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5684"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5685"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5686"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5687"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5688"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5689"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f568a"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f568b"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f568c"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f568d"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f568e"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f568f"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5690"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5691"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5692"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5693"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5694"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5695"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5696"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5697"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5698"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f5699"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "68653cd6b5f65408d49f569a"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd024"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd025"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd026"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd027"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd028"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd029"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd02a"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd02b"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd02c"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd02d"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd02e"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd02f"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd030"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd031"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd032"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd033"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd034"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd035"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd036"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd037"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd038"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd039"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd03a"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd03b"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd03c"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd03d"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd03e"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd03f"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd040"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd041"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd042"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd043"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd044"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd045"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd046"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "686540183de155d7eedfd047"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af4e"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af4f"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af50"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af51"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af52"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af53"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af54"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af55"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af56"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af57"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af58"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af59"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af5a"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af5b"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af5c"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af5d"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af5e"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af5f"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af60"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af61"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af62"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af63"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af64"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af65"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af66"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af67"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af68"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af69"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af6a"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af6b"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af6c"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af6d"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af6e"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af6f"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af70"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "6865407d2853a4a65549af71"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df16c"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df16d"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df16e"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df16f"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df170"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df171"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df172"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df173"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df174"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df175"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df176"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df177"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df178"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df179"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df17a"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df17b"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df17c"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df17d"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df17e"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df17f"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df180"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df181"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df182"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df183"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df184"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df185"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df186"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df187"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df188"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df189"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df18a"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df18b"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df18c"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df18d"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df18e"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df18f"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd5fa"
+  },
+  "DatabaseHaveWorkedWith": "PostgreSQL",
+  "Number": 25536
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd5fb"
+  },
+  "DatabaseHaveWorkedWith": "MySQL",
+  "Number": 21099
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd5fc"
+  },
+  "DatabaseHaveWorkedWith": "SQLite",
+  "Number": 17365
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd5fd"
+  },
+  "DatabaseHaveWorkedWith": {
+    "$numberDouble": "NaN"
+  },
+  "Number": 15183
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd5fe"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft SQL Server",
+  "Number": 13275
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd5ff"
+  },
+  "DatabaseHaveWorkedWith": "MongoDB",
+  "Number": 13007
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd600"
+  },
+  "DatabaseHaveWorkedWith": "Redis",
+  "Number": 10463
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd601"
+  },
+  "DatabaseHaveWorkedWith": "MariaDB",
+  "Number": 8991
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd602"
+  },
+  "DatabaseHaveWorkedWith": "Elasticsearch",
+  "Number": 6533
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd603"
+  },
+  "DatabaseHaveWorkedWith": "Oracle",
+  "Number": 5273
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd604"
+  },
+  "DatabaseHaveWorkedWith": "Dynamodb",
+  "Number": 4138
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd605"
+  },
+  "DatabaseHaveWorkedWith": "Firebase Realtime Database",
+  "Number": 3018
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd606"
+  },
+  "DatabaseHaveWorkedWith": "Cloud Firestore",
+  "Number": 2842
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd607"
+  },
+  "DatabaseHaveWorkedWith": "BigQuery",
+  "Number": 2531
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd608"
+  },
+  "DatabaseHaveWorkedWith": "Microsoft Access",
+  "Number": 2193
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd609"
+  },
+  "DatabaseHaveWorkedWith": "Supabase",
+  "Number": 2078
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd60a"
+  },
+  "DatabaseHaveWorkedWith": "H2",
+  "Number": 2006
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd60b"
+  },
+  "DatabaseHaveWorkedWith": "Cosmos DB",
+  "Number": 1746
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd60c"
+  },
+  "DatabaseHaveWorkedWith": "Snowflake",
+  "Number": 1364
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd60d"
+  },
+  "DatabaseHaveWorkedWith": "InfluxDB",
+  "Number": 1338
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd60e"
+  },
+  "DatabaseHaveWorkedWith": "Cassandra",
+  "Number": 1268
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd60f"
+  },
+  "DatabaseHaveWorkedWith": "Databricks SQL",
+  "Number": 1003
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd610"
+  },
+  "DatabaseHaveWorkedWith": "Neo4J",
+  "Number": 998
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd611"
+  },
+  "DatabaseHaveWorkedWith": "IBM DB2",
+  "Number": 914
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd612"
+  },
+  "DatabaseHaveWorkedWith": "Clickhouse",
+  "Number": 890
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd613"
+  },
+  "DatabaseHaveWorkedWith": "Solr",
+  "Number": 766
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd614"
+  },
+  "DatabaseHaveWorkedWith": "DuckDB",
+  "Number": 710
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd615"
+  },
+  "DatabaseHaveWorkedWith": "Firebird",
+  "Number": 563
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd616"
+  },
+  "DatabaseHaveWorkedWith": "Couch DB",
+  "Number": 534
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd617"
+  },
+  "DatabaseHaveWorkedWith": "Cockroachdb",
+  "Number": 507
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd618"
+  },
+  "DatabaseHaveWorkedWith": "Couchbase",
+  "Number": 353
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd619"
+  },
+  "DatabaseHaveWorkedWith": "Presto",
+  "Number": 323
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd61a"
+  },
+  "DatabaseHaveWorkedWith": "Datomic",
+  "Number": 184
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd61b"
+  },
+  "DatabaseHaveWorkedWith": "EventStoreDB",
+  "Number": 162
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd61c"
+  },
+  "DatabaseHaveWorkedWith": "RavenDB",
+  "Number": 159
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cd61d"
+  },
+  "DatabaseHaveWorkedWith": "TiDB",
+  "Number": 127
+}]

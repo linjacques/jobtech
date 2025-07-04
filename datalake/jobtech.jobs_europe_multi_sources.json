@@ -1,0 +1,6336 @@
+[{
+  "_id": {
+    "$oid": "6867917fed584b3c203df59d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df59e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df59f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Svelte Developer",
+  "Company": "Green Stuff World",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-svelte-developer-green-stuff-world-1093508"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Python Backend Engineer",
+  "Company": "Orga AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-python-backend-engineer-orga-ai-1093458"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "ModelVault",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-modelvault-1093504"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer",
+  "Company": "Jump",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-jump-1093450"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "React Native Developer",
+  "Company": "Interviews Chat",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-react-native-developer-interviews-chat-1093451"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior WordPress Plugins Developer",
+  "Company": "Melapress",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-wordpress-plugins-developer-melapress-1093402"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Zammad",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-developer-zammad-1093045"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Engineer",
+  "Company": "AMK Solutions",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-engineer-amk-solutions-1093412"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5a9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Founding Engineer",
+  "Company": "Teracy",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-founding-engineer-teracy-1093410"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5aa"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ab"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Javascript Fullstack Engineer Senior",
+  "Company": "Lumenalta",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-javascript-fullstack-engineer-senior-lumenalta-1092919"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ac"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer",
+  "Company": "ControlShift",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-controlshift-1093322"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ad"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Tech Cofounder CTO",
+  "Company": "Founders Factory",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-tech-cofounder-cto-founders-factory-1093267"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ae"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior React Native SDK Engineer",
+  "Company": "Nami ML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-react-native-sdk-engineer-nami-ml-1093276"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5af"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Spanish Speaking Software Support Engineer",
+  "Company": "Payara",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-spanish-speaking-software-support-engineer-payara-1093246"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Administrative Executive",
+  "Company": "Prime Design & Build",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-administrative-executive-prime-design-build-1092987"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer",
+  "Company": "Soda Data",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-soda-data-1087414"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Plato",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110706-remote-lead-data-engineer-plato"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack Engineer",
+  "Company": "ReadMe",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-engineer-readme-1093507"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Aurora Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-aurora-labs-1093506"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer II",
+  "Company": "Trunk.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-ii-trunk-io-1093500"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5b9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer",
+  "Company": "Jump",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-jump-1093450"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ba"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "EMEA Solutions Engineer",
+  "Company": "PingCAP",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-emea-solutions-engineer-pingcap-1093492"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5bb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Full Stack",
+  "Company": "Pano AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-full-stack-pano-ai-1093481"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5bc"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Engineer II",
+  "Company": "TrueML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-engineer-ii-trueml-1093479"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5bd"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Engineer",
+  "Company": "Medely",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-engineer-medely-1093475"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5be"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "DoiT",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-doit-1093474"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5bf"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Front End Engineer",
+  "Company": "Medely",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-front-end-engineer-medely-1093473"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Scientific Software Engineer Magnet Protection Systems",
+  "Company": "Commonwealth Fusion Systems",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-scientific-software-engineer-magnet-protection-systems-commonwealth-fusion-systems-1093472"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Engineer Distributed Systems",
+  "Company": "LaunchDarkly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-engineer-distributed-systems-launchdarkly-1093469"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Site Reliability Engineer ML Platforms",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-site-reliability-engineer-ml-platforms-2100-nvidia-usa-1093465"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Open Source Server",
+  "Company": "Temporal",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-open-source-server-temporal-1093463"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang Engineer",
+  "Company": "Unikraft",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-golang-engineer-unikraft-1093462"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang Engineer",
+  "Company": "Unikraft",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-golang-engineer-unikraft-1093459"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer Interop",
+  "Company": "Mysten Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-interop-mysten-labs-1093455"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Brand Designer",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-brand-designer-contra-1093024"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5c9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Motion Designer",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-motion-designer-contra-1093022"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ca"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Web Developer",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-web-developer-contra-1093019"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5cb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "VP of Engineering",
+  "Company": "Soda Data",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-vp-of-engineering-soda-data-1087577"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5cc"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Symplast Forms Specialist Patient Intake Customizations",
+  "Company": "Symplast",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-symplast-forms-specialist-patient-intake-customizations-symplast-1092967"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5cd"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Migration Specialist Data Import & Export",
+  "Company": "Symplast",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-migration-specialist-data-import-export-symplast-1092966"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ce"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Consultant",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-technical-consultant-contra-1092960"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5cf"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer",
+  "Company": "Soda Data",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-soda-data-1087414"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Warehouse Engineer",
+  "Company": "Plutus",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-warehouse-engineer-plutus-935089"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Scientist & Data Engineer AI ML",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-scientist-data-engineer-ai-ml-lemon-io-613825"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior DataOps Engineer",
+  "Company": "Revelator",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-dataops-engineer-revelator-599532"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Microsoft PowerBI Developer",
+  "Company": "Proxify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-microsoft-powerbi-developer-proxify-382265"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer",
+  "Company": "Proxify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-proxify-382258"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Analyst for Customer Analytics & Insights",
+  "Company": "Nadine West",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-analyst-for-customer-analytics-insights-nadine-west-344392"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer Long term",
+  "Company": "Proxify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-long-term-proxify-187862"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Integrations Team Lead",
+  "Company": "CoinLedger",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-integrations-team-lead-coinledger-248850"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend and Data Engineer",
+  "Company": "Paperpile",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-and-data-engineer-paperpile-235198"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5d9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Engineer",
+  "Company": "Tessera",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-engineer-tessera-225194"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5da"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Data Scientist Search Machine Learning Platform",
+  "Company": "Indeed",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-data-scientist-search-machine-learning-platform-indeed-132377"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5db"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5dc"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Full Stack",
+  "Company": "Pano AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-full-stack-pano-ai-1093481"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5dd"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Site Reliability Engineer ML Platforms",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-site-reliability-engineer-ml-platforms-2100-nvidia-usa-1093465"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5de"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Enterprise Cloud Architect",
+  "Company": "Liatrio",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-enterprise-cloud-architect-liatrio-1093403"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5df"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Staff Engineer Infrastructure",
+  "Company": "Pryon",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-staff-engineer-infrastructure-pryon-1093343"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior DevOps Engineer",
+  "Company": "EasyPost",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-easypost-1093294"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer II",
+  "Company": "Everbridge",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-ii-everbridge-1093283"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack .NET Developer",
+  "Company": "Smart Working Solutions",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-net-developer-smart-working-solutions-1093245"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Lead DevOps",
+  "Company": "Magnet Forensics",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-technical-lead-devops-magnet-forensics-1093224"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Job 23799 Sênior Java Developer Brazil",
+  "Company": "CI&T",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-job-23799-senior-java-developer-brazil-ciampt-1093219"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Analytics Engineer",
+  "Company": "Fullscript",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-analytics-engineer-fullscript-1093152"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer III",
+  "Company": "Nextech",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-iii-nextech-1093125"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Nava",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-nava-1093123"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Computational Journalist Data Reporting",
+  "Company": "500 WP Company LLC",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-computational-journalist-data-reporting-500-wp-company-llc-1093098"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5e9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Fullstack Software Engineer",
+  "Company": "BlackCloak",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-fullstack-software-engineer-blackcloak-1093097"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ea"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Salesforce Developer",
+  "Company": "StackAdapt",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-salesforce-developer-stackadapt-1093096"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5eb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "DevOps Engineer Staking",
+  "Company": "Crypto.com",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-devops-engineer-staking-crypto-com-1093055"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ec"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Product Manager Developer Platform",
+  "Company": "TrueML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-technical-product-manager-developer-platform-trueml-1093012"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ed"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "DevOps Engineer",
+  "Company": "ScaleTech",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-devops-engineer-scaletech-1092992"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ee"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Principal Software Engineer",
+  "Company": "Shippo",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-principal-software-engineer-shippo-1092986"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ef"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Aurora Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-aurora-labs-1093506"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Python Backend Engineer",
+  "Company": "Orga AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-python-backend-engineer-orga-ai-1093458"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Full Stack",
+  "Company": "Pano AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-full-stack-pano-ai-1093481"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "DoiT",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-doit-1093474"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Go Developer Consultant",
+  "Company": "GoDevs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-go-developer-consultant-godevs-1093457"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer II",
+  "Company": "Gametime",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-ii-gametime-1093453"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Staff Software Engineer Backend",
+  "Company": "OneSignal",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-staff-software-engineer-backend-onesignal-1093441"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Site Reliability Engineer",
+  "Company": "Tinybird",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-site-reliability-engineer-tinybird-1093416"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5f9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Developer Node",
+  "Company": "Tether Operations Limited",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-developer-node-tether-operations-limited-1093406"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5fa"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5fb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Golang Backend Engineer",
+  "Company": "Salesforge",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-golang-backend-engineer-salesforge-1093398"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5fc"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineering Team Lead",
+  "Company": "bloXroute Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineering-team-lead-bloxroute-labs-1093363"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5fd"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "MoonPay",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-moonpay-1093336"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5fe"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior UI Engineer Senior Frontend Engineer",
+  "Company": "Toku",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ui-engineer-senior-frontend-engineer-toku-1093332"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df5ff"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Software Engineer",
+  "Company": "Bitwise Asset Management",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-software-engineer-bitwise-asset-management-1093313"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df600"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Product Engineer",
+  "Company": "Zen Educate",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-product-engineer-zen-educate-1093291"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df601"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "Raya",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-raya-1093271"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df602"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Mobile Engineer React Native Europe",
+  "Company": "Hostaway",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-mobile-engineer-react-native-europe-hostaway-1093235"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df603"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df604"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df605"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior UI UX Designer Data & AI Platform",
+  "Company": "Soda",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ui-ux-designer-data-ai-platform-soda-1093427"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df606"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Ruby on Rails Engineer",
+  "Company": "EverAI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-ruby-on-rails-engineer-everai-1093272"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df607"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Intermediate Angular Developer",
+  "Company": "Revelator",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-intermediate-angular-developer-revelator-1058054"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df608"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior PHP Laravel Developer",
+  "Company": "IxDF - Interaction Design Foundation",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-php-laravel-developer-ixdf-interaction-design-foundation-840144"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df609"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Programmer",
+  "Company": "DefiTuna",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-programmer-defituna-784941"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df60a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Rails Frontend & Backend Wizard",
+  "Company": "VIVA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-rails-frontend-backend-wizard-viva-680612"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df60b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Front End Angular Developer",
+  "Company": "Revelator",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-front-end-angular-developer-revelator-701355"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df60c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Developer",
+  "Company": "VIVA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-developer-viva-687315"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df60d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Frontend Developer",
+  "Company": "Center",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-frontend-developer-center-647900"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df60e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "UX Engineer",
+  "Company": "Spectora",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-ux-engineer-spectora-656399"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df60f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Junior FE w Vue.js",
+  "Company": "CSGOEmpire",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-junior-fe-w-vue-js-csgoempire-560988"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df610"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Principal Software Development Engineer SEO",
+  "Company": "Zillow",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/112207-remote-principal-software-development-engineer-seo-zillow"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df611"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "HTML CSS Designer Developer",
+  "Company": "__OperateBeyond__TrailerCentral",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/111567-remote-html-css-designer-developer-operatebeyond-trailercentral"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df612"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Full Stack Software Engineer",
+  "Company": "ServiceBell",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/111204-remote-staff-full-stack-software-engineer-servicebell"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df613"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Web developer",
+  "Company": "EyeSeeTea",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110538-remote-web-developer-eyeseetea"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df614"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Staff Frontend Engineer React",
+  "Company": "Close",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110282-remote-senior-staff-frontend-engineer-react-close"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df615"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Frontend React JS Developer",
+  "Company": "Stellar Software",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110273-remote-senior-frontend-react-js-developer-stellar-software"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df616"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "ModelVault",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-modelvault-1093504"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df617"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df618"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Zammad",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-developer-zammad-1093045"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df619"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Founding Engineer",
+  "Company": "Teracy",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-founding-engineer-teracy-1093410"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df61a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Tech Cofounder CTO",
+  "Company": "Founders Factory",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-tech-cofounder-cto-founders-factory-1093267"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df61b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Developer Winna.com",
+  "Company": "Winna",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-developer-winna-com-winna-1092973"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df61c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack Developer",
+  "Company": "Incyte Studios",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-developer-incyte-studios-1086821"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df61d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior PHP Laravel Developer Full Stack",
+  "Company": "Interaction Design Foundation",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-php-laravel-developer-full-stack-interaction-design-foundation-1084150"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df61e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Sr Software Developer PHP MySQL",
+  "Company": "LendingWise",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-sr-software-developer-php-mysql-lendingwise-1087580"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df61f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Back End Wizard",
+  "Company": "joi.studio",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-back-end-wizard-joi-studio-867839"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df620"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Rebilly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-developer-rebilly-654457"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df621"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Ruby on Rails Developer Latin America",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ruby-on-rails-developer-latin-america-fullstack-labs-482371"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df622"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Mobile Developer Latin America",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-mobile-developer-latin-america-fullstack-labs-469370"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df623"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Systems Administrator Engineer Latin America",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-systems-administrator-engineer-latin-america-fullstack-labs-136573"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df624"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "IOS Developer Canada",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-ios-developer-canada-fullstack-labs-120553"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df625"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Javascript Fullstack Developer",
+  "Company": "Quave",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110736-remote-javascript-fullstack-developer-quave"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df626"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Front End Developer",
+  "Company": "BrickSeek",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110607-remote-front-end-developer-brickseek"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df627"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Sherbet",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110679-remote-senior-full-stack-developer-sherbet"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df628"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full stack JavaScript Developer",
+  "Company": "Mark Copy",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110555-remote-senior-full-stack-javascript-developer-mark-copy"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df629"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "UI UX Web Designer",
+  "Company": "FullStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110294-remote-ui-ux-web-designer-fullstack"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df62a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df62b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Python Backend Engineer",
+  "Company": "Orga AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-python-backend-engineer-orga-ai-1093458"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df62c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Engineer II",
+  "Company": "TrueML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-engineer-ii-trueml-1093479"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df62d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Scientific Software Engineer Magnet Protection Systems",
+  "Company": "Commonwealth Fusion Systems",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-scientific-software-engineer-magnet-protection-systems-commonwealth-fusion-systems-1093472"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df62e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Site Reliability Engineer ML Platforms",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-site-reliability-engineer-ml-platforms-2100-nvidia-usa-1093465"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df62f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Site Reliability Engineer",
+  "Company": "Tinybird",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-site-reliability-engineer-tinybird-1093416"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df630"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df631"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Systems Engineer Autonomous Vehicle Infrastructure",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-systems-engineer-autonomous-vehicle-infrastructure-2100-nvidia-usa-1093327"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df632"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Analyst Canada Wide",
+  "Company": "Newton",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-analyst-canada-wide-newton-1093292"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df633"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Analyst",
+  "Company": "Foodsmart",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-analyst-foodsmart-1093207"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df634"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Testing Engineer",
+  "Company": "Trial Library",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-testing-engineer-trial-library-1093169"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df635"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Werkstudent im Bereich SAP & Cloud Automation",
+  "Company": "Public Cloud Group",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-werkstudent-im-bereich-sap-amp-cloud-automation-public-cloud-group-1093160"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df636"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Analytics Engineer",
+  "Company": "Fullscript",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-analytics-engineer-fullscript-1093152"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df637"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Nava",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-nava-1093123"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df638"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Backend Software Engineer",
+  "Company": "Firework",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-backend-software-engineer-firework-1093113"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df639"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Workflow Engineer",
+  "Company": "Serotonin",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-workflow-engineer-serotonin-1093086"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df63a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer Data",
+  "Company": "Gauntlet",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-data-gauntlet-1093031"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df63b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Developer HPC Cluster Management",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-developer-hpc-cluster-management-2100-nvidia-usa-1092990"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df63c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Principal Software Engineer",
+  "Company": "Shippo",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-principal-software-engineer-shippo-1092986"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df63d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Analytics Manager",
+  "Company": "Serotonin",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-analytics-manager-serotonin-1092915"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df63e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df63f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Svelte Developer",
+  "Company": "Green Stuff World",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-svelte-developer-green-stuff-world-1093508"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df640"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df641"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Fullstack Developer JS Developer",
+  "Company": "GuideWell",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-fullstack-developer-js-developer-guidewell-1093480"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df642"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Engineer",
+  "Company": "Medely",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-engineer-medely-1093475"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df643"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior WordPress Plugins Developer",
+  "Company": "Melapress",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-wordpress-plugins-developer-melapress-1093402"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df644"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df645"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df646"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Blockchain Engineer",
+  "Company": "MoonPay",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-blockchain-engineer-moonpay-1093331"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df647"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Javascript Fullstack Engineer Senior",
+  "Company": "Lumenalta",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-javascript-fullstack-engineer-senior-lumenalta-1092919"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df648"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer II",
+  "Company": "Everbridge",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-ii-everbridge-1093283"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df649"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior React Native SDK Engineer",
+  "Company": "Nami ML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-react-native-sdk-engineer-nami-ml-1093276"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df64a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack .NET Developer",
+  "Company": "Smart Working Solutions",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-net-developer-smart-working-solutions-1093245"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df64b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Mobile Engineer React Native Europe",
+  "Company": "Hostaway",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-mobile-engineer-react-native-europe-hostaway-1093235"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df64c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Developer Winna.com",
+  "Company": "Winna",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-developer-winna-com-winna-1092973"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df64d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Design Centric Senior Front End Engineer",
+  "Company": "Dapper Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-design-centric-senior-front-end-engineer-dapper-labs-1093136"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df64e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer III",
+  "Company": "Nextech",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-iii-nextech-1093125"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df64f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Member of Technical Staff Transparency Front End Engineer",
+  "Company": "Anchorage Digital",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-member-of-technical-staff-transparency-front-end-engineer-anchorage-digital-1093115"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df650"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Fullstack Software Engineer",
+  "Company": "BlackCloak",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-fullstack-software-engineer-blackcloak-1093097"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df651"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Technical Product Manager Wallets",
+  "Company": "Tether Operations Limited",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-technical-product-manager-wallets-tether-operations-limited-1093095"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df652"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Founding AI Engineer",
+  "Company": "Dimension",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-founding-ai-engineer-dimension-701467"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df653"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine learning engineer for large scale ML project",
+  "Company": "OneSecondDelivery",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/106921-remote-machine-learning-engineer-for-large-scale-ml-project-oneseconddelivery"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df654"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack Developer",
+  "Company": "AMNESIA media",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/104488-remote-full-stack-developer-amnesia-media"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df655"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Scientist",
+  "Company": "Ampcontrol",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/103561-remote-data-scientist-ampcontrol"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df656"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Scientist",
+  "Company": "Shopify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/103484-remote-senior-data-scientist-shopify"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df657"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Scientist",
+  "Company": "NannyML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/103333-remote-senior-data-scientist-nannyml"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df658"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Community Manager",
+  "Company": "Iterative",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99931-remote-technical-community-manager-iterative"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df659"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "CTO",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99223-remote-cto-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df65a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99221-remote-senior-software-engineer-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df65b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99219-remote-machine-learning-engineer-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df65c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior NLP Software Engineer",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99218-remote-senior-nlp-software-engineer-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df65d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "Senseye",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/71779-remote-machine-learning-engineer-senseye"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df65e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "Senseye",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/63109-remote-machine-learning-engineer-senseye"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df65f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "Senseye",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/61811-remote-machine-learning-engineer-senseye"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df660"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "VP Machine Learning",
+  "Company": "Sway Ops",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/12579-remote-vp-machine-learning-sway-ops"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df661"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang developer with knowledge within machine learning",
+  "Company": "Real Audience AB",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/12090-remote-golang-developer-with-knowledge-within-machine-learning-real-audience-ab"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df662"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang Software Engineer",
+  "Company": "NodePrime",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/9466-remote-golang-software-engineer-nodeprime"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda2b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda2c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda2d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Svelte Developer",
+  "Company": "Green Stuff World",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-svelte-developer-green-stuff-world-1093508"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda2e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Python Backend Engineer",
+  "Company": "Orga AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-python-backend-engineer-orga-ai-1093458"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda2f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "ModelVault",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-modelvault-1093504"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda30"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda31"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer",
+  "Company": "Jump",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-jump-1093450"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda32"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "React Native Developer",
+  "Company": "Interviews Chat",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-react-native-developer-interviews-chat-1093451"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda33"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior WordPress Plugins Developer",
+  "Company": "Melapress",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-wordpress-plugins-developer-melapress-1093402"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda34"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda35"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Zammad",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-developer-zammad-1093045"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda36"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Engineer",
+  "Company": "AMK Solutions",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-engineer-amk-solutions-1093412"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda37"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Founding Engineer",
+  "Company": "Teracy",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-founding-engineer-teracy-1093410"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda38"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda39"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Javascript Fullstack Engineer Senior",
+  "Company": "Lumenalta",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-javascript-fullstack-engineer-senior-lumenalta-1092919"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda3a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer",
+  "Company": "ControlShift",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-controlshift-1093322"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda3b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Tech Cofounder CTO",
+  "Company": "Founders Factory",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-tech-cofounder-cto-founders-factory-1093267"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda3c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior React Native SDK Engineer",
+  "Company": "Nami ML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-react-native-sdk-engineer-nami-ml-1093276"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda3d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Spanish Speaking Software Support Engineer",
+  "Company": "Payara",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-spanish-speaking-software-support-engineer-payara-1093246"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda3e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Administrative Executive",
+  "Company": "Prime Design & Build",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-administrative-executive-prime-design-build-1092987"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda3f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer",
+  "Company": "Soda Data",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-soda-data-1087414"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda40"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Plato",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110706-remote-lead-data-engineer-plato"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda41"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda42"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda43"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack Engineer",
+  "Company": "ReadMe",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-engineer-readme-1093507"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda44"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Aurora Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-aurora-labs-1093506"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda45"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda46"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer II",
+  "Company": "Trunk.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-ii-trunk-io-1093500"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda47"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer",
+  "Company": "Jump",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-jump-1093450"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda48"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "EMEA Solutions Engineer",
+  "Company": "PingCAP",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-emea-solutions-engineer-pingcap-1093492"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda49"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Full Stack",
+  "Company": "Pano AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-full-stack-pano-ai-1093481"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda4a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Engineer II",
+  "Company": "TrueML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-engineer-ii-trueml-1093479"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda4b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Engineer",
+  "Company": "Medely",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-engineer-medely-1093475"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda4c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "DoiT",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-doit-1093474"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda4d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Front End Engineer",
+  "Company": "Medely",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-front-end-engineer-medely-1093473"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda4e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Scientific Software Engineer Magnet Protection Systems",
+  "Company": "Commonwealth Fusion Systems",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-scientific-software-engineer-magnet-protection-systems-commonwealth-fusion-systems-1093472"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda4f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Engineer Distributed Systems",
+  "Company": "LaunchDarkly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-engineer-distributed-systems-launchdarkly-1093469"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda50"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Site Reliability Engineer ML Platforms",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-site-reliability-engineer-ml-platforms-2100-nvidia-usa-1093465"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda51"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Open Source Server",
+  "Company": "Temporal",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-open-source-server-temporal-1093463"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda52"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang Engineer",
+  "Company": "Unikraft",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-golang-engineer-unikraft-1093462"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda53"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang Engineer",
+  "Company": "Unikraft",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-golang-engineer-unikraft-1093459"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda54"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer Interop",
+  "Company": "Mysten Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-interop-mysten-labs-1093455"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda55"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda56"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Brand Designer",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-brand-designer-contra-1093024"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda57"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Motion Designer",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-motion-designer-contra-1093022"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda58"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Web Developer",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-web-developer-contra-1093019"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda59"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "VP of Engineering",
+  "Company": "Soda Data",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-vp-of-engineering-soda-data-1087577"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda5a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Symplast Forms Specialist Patient Intake Customizations",
+  "Company": "Symplast",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-symplast-forms-specialist-patient-intake-customizations-symplast-1092967"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda5b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Migration Specialist Data Import & Export",
+  "Company": "Symplast",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-migration-specialist-data-import-export-symplast-1092966"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda5c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Consultant",
+  "Company": "Contra",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-technical-consultant-contra-1092960"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda5d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer",
+  "Company": "Soda Data",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-soda-data-1087414"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda5e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Warehouse Engineer",
+  "Company": "Plutus",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-warehouse-engineer-plutus-935089"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda5f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Scientist & Data Engineer AI ML",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-scientist-data-engineer-ai-ml-lemon-io-613825"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda60"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior DataOps Engineer",
+  "Company": "Revelator",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-dataops-engineer-revelator-599532"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda61"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Microsoft PowerBI Developer",
+  "Company": "Proxify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-microsoft-powerbi-developer-proxify-382265"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda62"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer",
+  "Company": "Proxify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-proxify-382258"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda63"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Analyst for Customer Analytics & Insights",
+  "Company": "Nadine West",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-analyst-for-customer-analytics-insights-nadine-west-344392"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda64"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Engineer Long term",
+  "Company": "Proxify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-engineer-long-term-proxify-187862"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda65"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Integrations Team Lead",
+  "Company": "CoinLedger",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-integrations-team-lead-coinledger-248850"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda66"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend and Data Engineer",
+  "Company": "Paperpile",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-and-data-engineer-paperpile-235198"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda67"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Engineer",
+  "Company": "Tessera",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-engineer-tessera-225194"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda68"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Data Scientist Search Machine Learning Platform",
+  "Company": "Indeed",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-data-scientist-search-machine-learning-platform-indeed-132377"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda69"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda6a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Full Stack",
+  "Company": "Pano AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-full-stack-pano-ai-1093481"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda6b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Site Reliability Engineer ML Platforms",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-site-reliability-engineer-ml-platforms-2100-nvidia-usa-1093465"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda6c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Enterprise Cloud Architect",
+  "Company": "Liatrio",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-enterprise-cloud-architect-liatrio-1093403"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda6d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Staff Engineer Infrastructure",
+  "Company": "Pryon",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-staff-engineer-infrastructure-pryon-1093343"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda6e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior DevOps Engineer",
+  "Company": "EasyPost",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-easypost-1093294"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda6f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer II",
+  "Company": "Everbridge",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-ii-everbridge-1093283"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda70"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack .NET Developer",
+  "Company": "Smart Working Solutions",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-net-developer-smart-working-solutions-1093245"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda71"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Lead DevOps",
+  "Company": "Magnet Forensics",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-technical-lead-devops-magnet-forensics-1093224"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda72"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Job 23799 Sênior Java Developer Brazil",
+  "Company": "CI&T",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-job-23799-senior-java-developer-brazil-ciampt-1093219"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda73"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Analytics Engineer",
+  "Company": "Fullscript",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-analytics-engineer-fullscript-1093152"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda74"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer III",
+  "Company": "Nextech",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-iii-nextech-1093125"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda75"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Nava",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-nava-1093123"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda76"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Computational Journalist Data Reporting",
+  "Company": "500 WP Company LLC",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-computational-journalist-data-reporting-500-wp-company-llc-1093098"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda77"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Fullstack Software Engineer",
+  "Company": "BlackCloak",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-fullstack-software-engineer-blackcloak-1093097"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda78"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Salesforce Developer",
+  "Company": "StackAdapt",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-salesforce-developer-stackadapt-1093096"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda79"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "DevOps Engineer Staking",
+  "Company": "Crypto.com",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-devops-engineer-staking-crypto-com-1093055"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda7a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Product Manager Developer Platform",
+  "Company": "TrueML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-technical-product-manager-developer-platform-trueml-1093012"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda7b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "DevOps Engineer",
+  "Company": "ScaleTech",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-devops-engineer-scaletech-1092992"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda7c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Principal Software Engineer",
+  "Company": "Shippo",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-principal-software-engineer-shippo-1092986"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda7d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Aurora Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-aurora-labs-1093506"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda7e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Python Backend Engineer",
+  "Company": "Orga AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-python-backend-engineer-orga-ai-1093458"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda7f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda80"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer Full Stack",
+  "Company": "Pano AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-full-stack-pano-ai-1093481"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda81"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "DoiT",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-doit-1093474"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda82"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Go Developer Consultant",
+  "Company": "GoDevs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-go-developer-consultant-godevs-1093457"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda83"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer II",
+  "Company": "Gametime",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-ii-gametime-1093453"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda84"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Staff Software Engineer Backend",
+  "Company": "OneSignal",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-staff-software-engineer-backend-onesignal-1093441"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda85"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda86"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Site Reliability Engineer",
+  "Company": "Tinybird",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-site-reliability-engineer-tinybird-1093416"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda87"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Developer Node",
+  "Company": "Tether Operations Limited",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-developer-node-tether-operations-limited-1093406"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda88"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda89"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Golang Backend Engineer",
+  "Company": "Salesforge",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-golang-backend-engineer-salesforge-1093398"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda8a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineering Team Lead",
+  "Company": "bloXroute Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineering-team-lead-bloxroute-labs-1093363"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda8b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "MoonPay",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-moonpay-1093336"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda8c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior UI Engineer Senior Frontend Engineer",
+  "Company": "Toku",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ui-engineer-senior-frontend-engineer-toku-1093332"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda8d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Software Engineer",
+  "Company": "Bitwise Asset Management",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-software-engineer-bitwise-asset-management-1093313"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda8e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Product Engineer",
+  "Company": "Zen Educate",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-product-engineer-zen-educate-1093291"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda8f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "Raya",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-raya-1093271"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda90"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Mobile Engineer React Native Europe",
+  "Company": "Hostaway",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-mobile-engineer-react-native-europe-hostaway-1093235"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda91"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda92"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda93"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior UI UX Designer Data & AI Platform",
+  "Company": "Soda",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ui-ux-designer-data-ai-platform-soda-1093427"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda94"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Ruby on Rails Engineer",
+  "Company": "EverAI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-ruby-on-rails-engineer-everai-1093272"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda95"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Intermediate Angular Developer",
+  "Company": "Revelator",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-intermediate-angular-developer-revelator-1058054"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda96"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior PHP Laravel Developer",
+  "Company": "IxDF - Interaction Design Foundation",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-php-laravel-developer-ixdf-interaction-design-foundation-840144"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda97"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Programmer",
+  "Company": "DefiTuna",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-programmer-defituna-784941"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda98"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Rails Frontend & Backend Wizard",
+  "Company": "VIVA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-rails-frontend-backend-wizard-viva-680612"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda99"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Front End Angular Developer",
+  "Company": "Revelator",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-front-end-angular-developer-revelator-701355"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda9a"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Developer",
+  "Company": "VIVA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-developer-viva-687315"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda9b"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Frontend Developer",
+  "Company": "Center",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-frontend-developer-center-647900"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda9c"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "UX Engineer",
+  "Company": "Spectora",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-ux-engineer-spectora-656399"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda9d"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Junior FE w Vue.js",
+  "Company": "CSGOEmpire",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-junior-fe-w-vue-js-csgoempire-560988"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda9e"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Principal Software Development Engineer SEO",
+  "Company": "Zillow",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/112207-remote-principal-software-development-engineer-seo-zillow"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cda9f"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "HTML CSS Designer Developer",
+  "Company": "__OperateBeyond__TrailerCentral",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/111567-remote-html-css-designer-developer-operatebeyond-trailercentral"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Full Stack Software Engineer",
+  "Company": "ServiceBell",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/111204-remote-staff-full-stack-software-engineer-servicebell"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Web developer",
+  "Company": "EyeSeeTea",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110538-remote-web-developer-eyeseetea"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Staff Frontend Engineer React",
+  "Company": "Close",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110282-remote-senior-staff-frontend-engineer-react-close"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Frontend React JS Developer",
+  "Company": "Stellar Software",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110273-remote-senior-frontend-react-js-developer-stellar-software"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "ModelVault",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-modelvault-1093504"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Zammad",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-developer-zammad-1093045"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Founding Engineer",
+  "Company": "Teracy",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-founding-engineer-teracy-1093410"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Tech Cofounder CTO",
+  "Company": "Founders Factory",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-tech-cofounder-cto-founders-factory-1093267"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaa9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Developer Winna.com",
+  "Company": "Winna",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-developer-winna-com-winna-1092973"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaaa"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack Developer",
+  "Company": "Incyte Studios",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-developer-incyte-studios-1086821"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaab"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior PHP Laravel Developer Full Stack",
+  "Company": "Interaction Design Foundation",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-php-laravel-developer-full-stack-interaction-design-foundation-1084150"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaac"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Sr Software Developer PHP MySQL",
+  "Company": "LendingWise",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-sr-software-developer-php-mysql-lendingwise-1087580"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaad"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Back End Wizard",
+  "Company": "joi.studio",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-back-end-wizard-joi-studio-867839"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaae"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Rebilly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-full-stack-developer-rebilly-654457"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaaf"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Ruby on Rails Developer Latin America",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ruby-on-rails-developer-latin-america-fullstack-labs-482371"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Mobile Developer Latin America",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-mobile-developer-latin-america-fullstack-labs-469370"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Systems Administrator Engineer Latin America",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-systems-administrator-engineer-latin-america-fullstack-labs-136573"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "IOS Developer Canada",
+  "Company": "FullStack Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-ios-developer-canada-fullstack-labs-120553"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Javascript Fullstack Developer",
+  "Company": "Quave",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110736-remote-javascript-fullstack-developer-quave"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Front End Developer",
+  "Company": "BrickSeek",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110607-remote-front-end-developer-brickseek"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full Stack Developer",
+  "Company": "Sherbet",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110679-remote-senior-full-stack-developer-sherbet"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Full stack JavaScript Developer",
+  "Company": "Mark Copy",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110555-remote-senior-full-stack-javascript-developer-mark-copy"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "UI UX Web Designer",
+  "Company": "FullStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/110294-remote-ui-ux-web-designer-fullstack"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Lead Data Engineer",
+  "Company": "Open Architects",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-lead-data-engineer-open-architects-1093295"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdab9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Python Backend Engineer",
+  "Company": "Orga AI",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-python-backend-engineer-orga-ai-1093458"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaba"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Engineer II",
+  "Company": "TrueML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-engineer-ii-trueml-1093479"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdabb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Scientific Software Engineer Magnet Protection Systems",
+  "Company": "Commonwealth Fusion Systems",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-scientific-software-engineer-magnet-protection-systems-commonwealth-fusion-systems-1093472"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdabc"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Site Reliability Engineer ML Platforms",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-site-reliability-engineer-ml-platforms-2100-nvidia-usa-1093465"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdabd"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Site Reliability Engineer",
+  "Company": "Tinybird",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-site-reliability-engineer-tinybird-1093416"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdabe"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdabf"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Systems Engineer Autonomous Vehicle Infrastructure",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-systems-engineer-autonomous-vehicle-infrastructure-2100-nvidia-usa-1093327"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Analyst Canada Wide",
+  "Company": "Newton",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-analyst-canada-wide-newton-1093292"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Analyst",
+  "Company": "Foodsmart",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-data-analyst-foodsmart-1093207"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Testing Engineer",
+  "Company": "Trial Library",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-testing-engineer-trial-library-1093169"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Werkstudent im Bereich SAP & Cloud Automation",
+  "Company": "Public Cloud Group",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-werkstudent-im-bereich-sap-amp-cloud-automation-public-cloud-group-1093160"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Analytics Engineer",
+  "Company": "Fullscript",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-data-analytics-engineer-fullscript-1093152"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "Nava",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-nava-1093123"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Backend Software Engineer",
+  "Company": "Firework",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-backend-software-engineer-firework-1093113"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Workflow Engineer",
+  "Company": "Serotonin",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-workflow-engineer-serotonin-1093086"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer Data",
+  "Company": "Gauntlet",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-data-gauntlet-1093031"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdac9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Developer HPC Cluster Management",
+  "Company": "2100 NVIDIA USA",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-software-developer-hpc-cluster-management-2100-nvidia-usa-1092990"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaca"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Principal Software Engineer",
+  "Company": "Shippo",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-principal-software-engineer-shippo-1092986"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdacb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Analytics Manager",
+  "Company": "Serotonin",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-analytics-manager-serotonin-1092915"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdacc"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Application Engineer",
+  "Company": "LaunchBrightly",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-application-engineer-launchbrightly-1093516"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdacd"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Svelte Developer",
+  "Company": "Green Stuff World",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-svelte-developer-green-stuff-world-1093508"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdace"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Backend Engineer",
+  "Company": "HockeyStack",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-hockeystack-1093257"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdacf"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Fullstack Developer JS Developer",
+  "Company": "GuideWell",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-fullstack-developer-js-developer-guidewell-1093480"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Engineer",
+  "Company": "Medely",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-engineer-medely-1093475"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior WordPress Plugins Developer",
+  "Company": "Melapress",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-wordpress-plugins-developer-melapress-1093402"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Fullstack Developer",
+  "Company": "Swipe Games",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-fullstack-developer-swipe-games-1093439"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior AI Engineer Python & LLM Engineer",
+  "Company": "Lemon.io",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-ai-engineer-python-llm-engineer-lemon-io-1093400"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Blockchain Engineer",
+  "Company": "MoonPay",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-blockchain-engineer-moonpay-1093331"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Javascript Fullstack Engineer Senior",
+  "Company": "Lumenalta",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-javascript-fullstack-engineer-senior-lumenalta-1092919"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer II",
+  "Company": "Everbridge",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-ii-everbridge-1093283"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior React Native SDK Engineer",
+  "Company": "Nami ML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-react-native-sdk-engineer-nami-ml-1093276"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack .NET Developer",
+  "Company": "Smart Working Solutions",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-full-stack-net-developer-smart-working-solutions-1093245"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdad9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Staff Mobile Engineer React Native Europe",
+  "Company": "Hostaway",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-staff-mobile-engineer-react-native-europe-hostaway-1093235"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdada"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Back End Developer Winna.com",
+  "Company": "Winna",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-back-end-developer-winna-com-winna-1092973"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdadb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Design Centric Senior Front End Engineer",
+  "Company": "Dapper Labs",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-design-centric-senior-front-end-engineer-dapper-labs-1093136"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdadc"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Software Engineer III",
+  "Company": "Nextech",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-software-engineer-iii-nextech-1093125"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdadd"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Member of Technical Staff Transparency Front End Engineer",
+  "Company": "Anchorage Digital",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-member-of-technical-staff-transparency-front-end-engineer-anchorage-digital-1093115"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdade"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Fullstack Software Engineer",
+  "Company": "BlackCloak",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-fullstack-software-engineer-blackcloak-1093097"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdadf"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Technical Product Manager Wallets",
+  "Company": "Tether Operations Limited",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-senior-technical-product-manager-wallets-tether-operations-limited-1093095"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Founding AI Engineer",
+  "Company": "Dimension",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/remote-founding-ai-engineer-dimension-701467"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae1"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine learning engineer for large scale ML project",
+  "Company": "OneSecondDelivery",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/106921-remote-machine-learning-engineer-for-large-scale-ml-project-oneseconddelivery"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae2"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Full Stack Developer",
+  "Company": "AMNESIA media",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/104488-remote-full-stack-developer-amnesia-media"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae3"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Data Scientist",
+  "Company": "Ampcontrol",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/103561-remote-data-scientist-ampcontrol"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae4"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Scientist",
+  "Company": "Shopify",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/103484-remote-senior-data-scientist-shopify"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae5"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Data Scientist",
+  "Company": "NannyML",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/103333-remote-senior-data-scientist-nannyml"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae6"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Technical Community Manager",
+  "Company": "Iterative",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99931-remote-technical-community-manager-iterative"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae7"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "CTO",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99223-remote-cto-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae8"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior Software Engineer",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99221-remote-senior-software-engineer-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdae9"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99219-remote-machine-learning-engineer-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaea"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Senior NLP Software Engineer",
+  "Company": "neuronbits",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/99218-remote-senior-nlp-software-engineer-neuronbits"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaeb"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "Senseye",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/71779-remote-machine-learning-engineer-senseye"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaec"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "Senseye",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/63109-remote-machine-learning-engineer-senseye"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaed"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Machine Learning Engineer",
+  "Company": "Senseye",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/61811-remote-machine-learning-engineer-senseye"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaee"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "VP Machine Learning",
+  "Company": "Sway Ops",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/12579-remote-vp-machine-learning-sway-ops"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaef"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang developer with knowledge within machine learning",
+  "Company": "Real Audience AB",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/12090-remote-golang-developer-with-knowledge-within-machine-learning-real-audience-ab"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf0"
+  },
+  "Source": "RemoteOK",
+  "Country": "Unknown",
+  "Job Title": "Golang Software Engineer",
+  "Company": "NodePrime",
+  "Salary": {
+    "$numberDouble": "NaN"
+  },
+  "Skills": {
+    "$numberDouble": "NaN"
+  },
+  "Job Link": "https://remoteok.com/remote-jobs/9466-remote-golang-software-engineer-nodeprime"
+}]

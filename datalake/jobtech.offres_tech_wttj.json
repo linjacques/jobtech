@@ -1,0 +1,3688 @@
+[{
+  "_id": {
+    "$oid": "6867917fed584b3c203df663"
+  },
+  "titre_metier": "Deep Tech & Innovation Consulting Intern",
+  "entreprise": "HELLO TOMORROW",
+  "salaire": "1,1K à 1,5K € par mois",
+  "contract": "Stage",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df664"
+  },
+  "titre_metier": "Tech Lead Data H/F",
+  "entreprise": "KLINT",
+  "salaire": "60K à 75K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Levallois-Perret"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df665"
+  },
+  "titre_metier": "Tech Lead .Net - Cloud F/H",
+  "entreprise": "ORANGE",
+  "salaire": "45K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Massy"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df666"
+  },
+  "titre_metier": "Tech Lead Java - React/js ou Vue.js H/F",
+  "entreprise": "DAVEO",
+  "salaire": "45K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df667"
+  },
+  "titre_metier": "Account Executive - Tech",
+  "entreprise": "IGNITION PROGRAM",
+  "salaire": "70K à 80K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df668"
+  },
+  "titre_metier": "Consultant.e Product Manager Tech",
+  "entreprise": "IKXO",
+  "salaire": "45K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df669"
+  },
+  "titre_metier": "Tech Lead Fullstack Java-JS H/F",
+  "entreprise": "VADUO",
+  "salaire": "45K à 75K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df66a"
+  },
+  "titre_metier": "Tech Lead Backend Java H/F",
+  "entreprise": "VADUO",
+  "salaire": "45K à 75K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df66b"
+  },
+  "titre_metier": "Tech Lead Data F/H",
+  "entreprise": "GROUPE SII",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Le Mans"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df66c"
+  },
+  "titre_metier": "Tech Talent Acquisition specialist - CDI - Paris",
+  "entreprise": "STOCKLY",
+  "salaire": "38K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df66d"
+  },
+  "titre_metier": "Tech Lead Data (H/F)",
+  "entreprise": "THÉLIO",
+  "salaire": "45K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df66e"
+  },
+  "titre_metier": "Tech Lead / Data Architect (H/F)",
+  "entreprise": "THÉLIO",
+  "salaire": "50K à 65K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df66f"
+  },
+  "titre_metier": "Tech Lead / Data Architect (H/F)",
+  "entreprise": "THÉLIO",
+  "salaire": "50K à 65K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Bordeaux"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df670"
+  },
+  "titre_metier": "Tech Lead (F/H)",
+  "entreprise": "GROUPE LA CENTRALE",
+  "salaire": "55K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df671"
+  },
+  "titre_metier": "LEAD TECH JAVA & IA H/F",
+  "entreprise": "VIRTUALEXPO",
+  "salaire": "50 à 55 €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df672"
+  },
+  "titre_metier": "Tech Lead H/F",
+  "entreprise": "FIGARO CLASSIFIEDS",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df673"
+  },
+  "titre_metier": "Tech Lead GED Nuxeo (50% télétravail) F/H",
+  "entreprise": "EDF",
+  "salaire": "47K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Nanterre"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df674"
+  },
+  "titre_metier": "Business developer / tech recruteur Freelance H/F - full Télétravail",
+  "entreprise": "BLUECODERS",
+  "salaire": "60K à 200K €",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Lille · Bordeaux · Lyon…Voir plus\n+4"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df675"
+  },
+  "titre_metier": "Tech lead Java",
+  "entreprise": "EASY PARTNER",
+  "salaire": "45K à 55K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df676"
+  },
+  "titre_metier": "Tech lead Confirmé.e F/H",
+  "entreprise": "FASST",
+  "salaire": "40K à 52K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Nantes · Marseille…Voir plus\n+23"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df677"
+  },
+  "titre_metier": "Tech lead Sénior F/H",
+  "entreprise": "FASST",
+  "salaire": "48K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Nantes · Marseille…Voir plus\n+23"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df678"
+  },
+  "titre_metier": "Tech Lead SRE F/H",
+  "entreprise": "ORANGE",
+  "salaire": "40K à 45K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Villejuif"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df679"
+  },
+  "titre_metier": "Tech Lead fullstack F/H",
+  "entreprise": "ORANGE",
+  "salaire": "35K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Cesson-Sévigné"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df67a"
+  },
+  "titre_metier": "Développeur Full-stack pour notre tech lab",
+  "entreprise": "KARETIS",
+  "salaire": "42K à 52K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon · Neuilly-sur-Seine"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df67b"
+  },
+  "titre_metier": "Tech Lead Back-end H/F",
+  "entreprise": "MANUTAN",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Gonesse"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df67c"
+  },
+  "titre_metier": "Tech lead Java (F/H) - Tours",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Tours"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df67d"
+  },
+  "titre_metier": "Tech lead Java (H/F)",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Niort"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df67e"
+  },
+  "titre_metier": "Tech informatique alternance bts sio (H/F)",
+  "entreprise": "ESUP",
+  "salaire": {
+    "$numberDouble": "NaN"
+  },
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Puteaux"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df67f"
+  },
+  "titre_metier": "Lead tech Java F/H",
+  "entreprise": "INOCO",
+  "salaire": "60K à 72K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df680"
+  },
+  "titre_metier": "Lead Tech C# .NET Cloud Azure H/F",
+  "entreprise": "COLIBRI",
+  "salaire": "55K à 68K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon · Boulogne-Billancourt"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df681"
+  },
+  "titre_metier": "Tech Lead Node.JS- BFF (H/F)",
+  "entreprise": "THE ONE STUDIO",
+  "salaire": "52K à 61K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df682"
+  },
+  "titre_metier": "Tech Lead Java (senior)",
+  "entreprise": "EXALT",
+  "salaire": "47K à 57K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Bordeaux"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df683"
+  },
+  "titre_metier": "Senior Consultant - Deep Tech & Innovation",
+  "entreprise": "HELLO TOMORROW",
+  "salaire": "52K à 56K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df684"
+  },
+  "titre_metier": "Tech lead / Software Python video player",
+  "entreprise": "BLUECODERS",
+  "salaire": "1 à 1 000 €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df685"
+  },
+  "titre_metier": "Lead Tech Java (F/H) - Nantes",
+  "entreprise": "GROUPE SII",
+  "salaire": "42K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df686"
+  },
+  "titre_metier": "Tech Lead Vue.js 3 - (H/F)",
+  "entreprise": "THE ONE STUDIO",
+  "salaire": "55K à 68K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Issy-les-Moulineaux"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df687"
+  },
+  "titre_metier": "Chef de Secteur High Tech H/F",
+  "entreprise": "CPM FRANCE",
+  "salaire": "1,9K à 2,1K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df688"
+  },
+  "titre_metier": "Alternance : Chargé·e de partenariats tech à partir de Septembre 2025",
+  "entreprise": "SHARE IT",
+  "salaire": "1,5K € par mois",
+  "contract": "Alternance",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df689"
+  },
+  "titre_metier": "Senior Backend Engineer - Tech Lead F/H",
+  "entreprise": "CYIM",
+  "salaire": "45K à 55K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Rennes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df68a"
+  },
+  "titre_metier": "Tech Recruiter / Business Developer - CDI - H/F - Paris",
+  "entreprise": "KATCHME",
+  "salaire": "30K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df68b"
+  },
+  "titre_metier": "Tech Lead C++ H/F",
+  "entreprise": "GROUPE SII",
+  "salaire": "55K à 65K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "La Défense"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df68c"
+  },
+  "titre_metier": "Tech Lead ASP.NET Core MVC - Pôle Collectivité",
+  "entreprise": "BERGER-LEVRAULT",
+  "salaire": "50K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "La Chapelle-sur-Erdre"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df68d"
+  },
+  "titre_metier": "Tech Lead Java (F/H)",
+  "entreprise": "GROUPE SII",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df68e"
+  },
+  "titre_metier": "Tech Lead JAVA H/F",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 45K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Strasbourg"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df68f"
+  },
+  "titre_metier": "Lead Tech Vue.JS H/F",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Brest"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df690"
+  },
+  "titre_metier": "Tech Lead SAP - H/F",
+  "entreprise": "AUGUSTA REEVES GROUP",
+  "salaire": "60K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df691"
+  },
+  "titre_metier": "Tech Lead Front End (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "38K à 42K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Rodez"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df692"
+  },
+  "titre_metier": "Tech Lead Devops - expert Ansible",
+  "entreprise": "GROUPE SII",
+  "salaire": "65K à 68K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "La Défense"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df693"
+  },
+  "titre_metier": "Tech Lead JAVA (H/F)",
+  "entreprise": "APSIDE",
+  "salaire": "50K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Aix-en-Provence"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df694"
+  },
+  "titre_metier": "Technicien(e) approvisionnement LEAB F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "27,9K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villeneuve-d'Ascq"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df695"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "27K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Beauvais"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df696"
+  },
+  "titre_metier": "Technico-commercial Pest control H/F",
+  "entreprise": "ELIS",
+  "salaire": "40K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Rouen"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df697"
+  },
+  "titre_metier": "Technicien de maintenance en alternance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "12,7K à 15,9K €",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Illkirch-Graffenstaden"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df698"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "25K à 26,5K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Illkirch-Graffenstaden"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df699"
+  },
+  "titre_metier": "Technicien de maintenance confirmé (F/H), Pôle Hôtelier",
+  "entreprise": "EVIAN RESORT",
+  "salaire": "2,4K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évian-les-Bains"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df69a"
+  },
+  "titre_metier": "Chef de Projet Technique (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Niort"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df69b"
+  },
+  "titre_metier": "Chef de Projet Technique (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df69c"
+  },
+  "titre_metier": "Ingénieur Données Techniques H/F",
+  "entreprise": "TAKOMA",
+  "salaire": "35K à 37K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Mérignac"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df69d"
+  },
+  "titre_metier": "Directeur technique H/F",
+  "entreprise": "VIAXOFT",
+  "salaire": "70K à 90K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df69e"
+  },
+  "titre_metier": "🚀 Chef.fe de Projet Technique/Intégration - Paris",
+  "entreprise": "BEEDEEZ",
+  "salaire": "≥ 52K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df69f"
+  },
+  "titre_metier": "Alternance - Technicien Excellence Opérationnelle F/H",
+  "entreprise": "FRAMATOME",
+  "salaire": "990 à 1 441 € par mois",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Grenoble"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a0"
+  },
+  "titre_metier": "Technicienne/Technicien instrumentation/mesures F/H",
+  "entreprise": "EDF",
+  "salaire": "30K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Vulbas"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a1"
+  },
+  "titre_metier": "Technicien Essais H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "27K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Mérignac"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a2"
+  },
+  "titre_metier": "Technicien de Mesure d'Equipement Electronique Numérique - Spatial H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "27K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a3"
+  },
+  "titre_metier": "Technicien de laboratoire - distribution et approvisionnement stock central CDD Strasbourg F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Strasbourg"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a4"
+  },
+  "titre_metier": "Ingénieur Technico-Commercial Itinérant - Menuiserie Métallique (F/H)",
+  "entreprise": "DESCOURS & CABAUD",
+  "salaire": "40K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Bonneuil-sur-Marne"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a5"
+  },
+  "titre_metier": "Technicien essai H/F",
+  "entreprise": "DELABIE [FR]",
+  "salaire": "32K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Friville-Escarbotin"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a6"
+  },
+  "titre_metier": "Technicien de laboratoire en thérapie cellulaire Saint Laurent du var F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Laurent-du-Var"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a7"
+  },
+  "titre_metier": "Technicien de laboratoire IH Délivrance Avignon F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Avignon"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a8"
+  },
+  "titre_metier": "Technicien automatisme HF",
+  "entreprise": "NORMANDISE PET FOOD",
+  "salaire": "30K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Vire Normandie"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6a9"
+  },
+  "titre_metier": "Technicien ordonnateur au sein du service achat",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26,8K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6aa"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ab"
+  },
+  "titre_metier": "1 Technicien(cienne) de facturation (F/H) - CDD Temps plein",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "28K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Coubert"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ac"
+  },
+  "titre_metier": "Technicien ordonnateur au sein du service achat",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26,8K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ad"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ae"
+  },
+  "titre_metier": "Technicien(ne) Traitement de l'Information (H/F)",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "1 917 à 1 918 € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6af"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) - CDI 35h à partir de juillet",
+  "entreprise": "DECATHLON",
+  "salaire": "1,8K à 2K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Scionzier"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b0"
+  },
+  "titre_metier": "Conseiller-ère Vente Technicien-ne Atelier (H/F)",
+  "entreprise": "DECATHLON",
+  "salaire": "1,7K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Montreuil"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b1"
+  },
+  "titre_metier": "Conseiller-ère Vente Technicien-ne (H/F)",
+  "entreprise": "DECATHLON",
+  "salaire": "1,7K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Pierre-d'Oléron"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b2"
+  },
+  "titre_metier": "Technicien ordonnateur au sein du service achat",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26,8K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b3"
+  },
+  "titre_metier": "Assistant technique polyvalent (H/F)",
+  "entreprise": "ACTUAL GROUP",
+  "salaire": "2K à 2,5K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Eaubonne"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b4"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b5"
+  },
+  "titre_metier": "Technicien mécanique (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "30K à 40K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Combeaufontaine"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b6"
+  },
+  "titre_metier": "Technicien sur chariots (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "25K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Geispolsheim"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b7"
+  },
+  "titre_metier": "Technicien mécanique sur chariots (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "25K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Biesheim"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b8"
+  },
+  "titre_metier": "Technicien de maintenance à cestas (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "30K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Cestas"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6b9"
+  },
+  "titre_metier": "Alternance - Technicien Domotique / Visioconférence (H/F)",
+  "entreprise": "MOTILDE",
+  "salaire": "500 à 1 400 € par mois",
+  "contract": "Alternance",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ba"
+  },
+  "titre_metier": "Designer Graphique PowerPoint – Expert.e Technique",
+  "entreprise": "MPREZ®",
+  "salaire": "34K à 36K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Bordeaux · Lisboa · Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6bb"
+  },
+  "titre_metier": "Leader technique Drupal H/F",
+  "entreprise": "KLEE GROUP",
+  "salaire": "50K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes · Lyon…Voir plus\n+3"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6bc"
+  },
+  "titre_metier": "Leader technique Ibexa H/F",
+  "entreprise": "KLEE GROUP",
+  "salaire": "50K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes · Lyon…Voir plus\n+3"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6bd"
+  },
+  "titre_metier": "Technicien Helpdesk H/F",
+  "entreprise": "KLEE GROUP",
+  "salaire": "3K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Le Plessis-Robinson"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6be"
+  },
+  "titre_metier": "Ingénieur Bureau Etudes Technique Eoliens F/H - CDI - Paris",
+  "entreprise": "Q ENERGY FRANCE",
+  "salaire": {
+    "$numberDouble": "NaN"
+  },
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Courbevoie"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6bf"
+  },
+  "titre_metier": "Responsable Technique H/F",
+  "entreprise": "EKLO HOTELS",
+  "salaire": "45K à 48K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Vanves"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c0"
+  },
+  "titre_metier": "Technicien de maintenance F/H F/H",
+  "entreprise": "VINCI ENERGIES EN FRANCE",
+  "salaire": "25K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Parçay-Meslay"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c1"
+  },
+  "titre_metier": "Technico commercial(e) en alternance (H/F)",
+  "entreprise": "ESUP",
+  "salaire": "5K à 15K €",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c2"
+  },
+  "titre_metier": "Technicien itinérant polyvalent ventilation/maîtrise des nuisibles H/F",
+  "entreprise": "AVIPUR",
+  "salaire": "2,2K à 2,5K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Gap"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c3"
+  },
+  "titre_metier": "Technicien informatique - Gestionnaire de parc F/H",
+  "entreprise": "GÉNÉRALE FRIGORIFIQUE FRANCE",
+  "salaire": "26K à 28K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Saint-Bonnet-de-Mure"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c4"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "25K à 26,5K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villeneuve-d'Ascq"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c5"
+  },
+  "titre_metier": "Technicien(e) approvisionnement EEGP F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "27,9K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villeneuve-d'Ascq"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c6"
+  },
+  "titre_metier": "Alternant en ingénierie techno pédagogique (H/F)",
+  "entreprise": "EFREI",
+  "salaire": "9,3K à 16,9K €",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villejuif"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c7"
+  },
+  "titre_metier": "Technico commercial sédentaire (Grands Comptes) CVC H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "32K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Colombes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c8"
+  },
+  "titre_metier": "Ingénieure ou Ingénieur R&D technologies de batteries F/H",
+  "entreprise": "EDF",
+  "salaire": "45K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Moret-Loing-et-Orvanne"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6c9"
+  },
+  "titre_metier": "Technicien ou technicienne Matériels Electriques F/H",
+  "entreprise": "EDF",
+  "salaire": "26,5K à 31,7K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Moret-Loing-et-Orvanne"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ca"
+  },
+  "titre_metier": "Technical Product Owner H/F",
+  "entreprise": "DAVEO",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6cb"
+  },
+  "titre_metier": "Référent technique F/H",
+  "entreprise": "LABEL CO-PILOTES (L’ALLIANCE DES EXPERTS-COMPTABLES INDÉPENDANTS)",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Grenoble"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6cc"
+  },
+  "titre_metier": "Consultant en architecture technique & cloud H.F",
+  "entreprise": "ENIOKA CONSEIL",
+  "salaire": "45K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6cd"
+  },
+  "titre_metier": "Support Technique H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "26K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ce"
+  },
+  "titre_metier": "Support Technique H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "28K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6cf"
+  },
+  "titre_metier": "Technicien Systèmes & Réseaux F/H",
+  "entreprise": "ELCIA GROUPE",
+  "salaire": "≥ 28K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Brignais"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d0"
+  },
+  "titre_metier": "Technicien Validation Automobile Powertrain H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "28K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Montigny-le-Bretonneux"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d1"
+  },
+  "titre_metier": "Technicien de production F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d2"
+  },
+  "titre_metier": "Technicien de laboratoire IH Délivrance Nice Pasteur F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nice"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d3"
+  },
+  "titre_metier": "Technicien de maintenance H/F",
+  "entreprise": "MAPEI FRANCE",
+  "salaire": "35K à 40K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Saint-Vulbas"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d4"
+  },
+  "titre_metier": "Technico Commercial Sédentaire - Quincaillerie de Batiment (F/H)",
+  "entreprise": "DESCOURS & CABAUD",
+  "salaire": "25K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Mondeville"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d5"
+  },
+  "titre_metier": "Agent Technique H/F",
+  "entreprise": "COALLIA",
+  "salaire": "2,1K à 2,3K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Tours"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d6"
+  },
+  "titre_metier": "Agent Technique H/F",
+  "entreprise": "COALLIA",
+  "salaire": "2K à 2,1K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d7"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) - Temps partiel",
+  "entreprise": "DECATHLON",
+  "salaire": "1,8K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Pontault-Combault"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d8"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) Cycle Juillet - Août",
+  "entreprise": "DECATHLON",
+  "salaire": "1,8K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Haguenau"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6d9"
+  },
+  "titre_metier": "Gestionnaire Technicien éditique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "2K à 2,3K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Grentheville"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6da"
+  },
+  "titre_metier": "Technicien(ne) Traitement de l'Information (H/F)",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "1 917 à 1 918 € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6db"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6dc"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) CDD ETE",
+  "entreprise": "DECATHLON",
+  "salaire": "1,7K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Vannes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6dd"
+  },
+  "titre_metier": "Technicien service desk (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "22K à 25K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Theix-Noyalo"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6de"
+  },
+  "titre_metier": "Technicien helpdesk (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "22K à 25K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Chartres"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6df"
+  },
+  "titre_metier": "Technical Account Manager",
+  "entreprise": "SIRDATA",
+  "salaire": "36K à 45K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e0"
+  },
+  "titre_metier": "Technico commercial F/H",
+  "entreprise": "WALTER LEARNING",
+  "salaire": "21K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e1"
+  },
+  "titre_metier": "Technico commercial F/H",
+  "entreprise": "WALTER LEARNING",
+  "salaire": "27K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e2"
+  },
+  "titre_metier": "Technico commercial F/H",
+  "entreprise": "WALTER LEARNING",
+  "salaire": "27K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Aix-en-Provence"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e3"
+  },
+  "titre_metier": "Technicien helpdesk (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "22K à 25K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "La Courneuve"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e4"
+  },
+  "titre_metier": "Technico-commercial H/F - Secteur Rhône-Alpes",
+  "entreprise": "JOBGLOBER",
+  "salaire": "60K à 80K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Marseille…Voir plus\n+5"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e5"
+  },
+  "titre_metier": "Technicien d'affaires F/H",
+  "entreprise": "VINCI ENERGIES EN FRANCE",
+  "salaire": "41K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Ancenis-Saint-Géréon"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e6"
+  },
+  "titre_metier": "Admissions Techniciens (freelance)",
+  "entreprise": "LA SOLIVE",
+  "salaire": "160 à 154 € par jour",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e7"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "VINCI ENERGIES EN FRANCE",
+  "salaire": "28K à 34K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Héricourt"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e8"
+  },
+  "titre_metier": "Technicien.ne Halieute & Mammifères Marins",
+  "entreprise": "SINAY",
+  "salaire": "22,5K à 24,5K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Brest · Lorient · Caen"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6e9"
+  },
+  "titre_metier": "Technicien.ne électroménager senior",
+  "entreprise": "UNDERDOG",
+  "salaire": "24,4K à 28,2K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ea"
+  },
+  "titre_metier": "Technicien.ne électroménager (H/F)",
+  "entreprise": "UNDERDOG",
+  "salaire": "≥ 24,4K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6eb"
+  },
+  "titre_metier": "Technicien(ne) de maintenance industrielle H/F",
+  "entreprise": "ELIS",
+  "salaire": "25K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Chuzelles"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ec"
+  },
+  "titre_metier": "TECHNICIEN SUPPORT N1 (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "175 à 225 € par jour",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Luc-la-Primaube"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ed"
+  },
+  "titre_metier": "TECHNICIEN SUPPORT N1 (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "175 à 225 € par jour",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Mazères"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ee"
+  },
+  "titre_metier": "Leader Technique - H/F",
+  "entreprise": "FRANCE TRAVAIL DSI (DIRECTION DES SYSTÈMES D'INFORMATION)",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon · Montreuil"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6ef"
+  },
+  "titre_metier": "Technicien d'essai électronique/électrotech",
+  "entreprise": "GROUPE CNPP",
+  "salaire": "25K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Marcel"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f0"
+  },
+  "titre_metier": "Technicien de maintenance opérationnelle SPAC F/H",
+  "entreprise": "FRAMATOME",
+  "salaire": "30K à 40K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Romans-sur-Isère"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f1"
+  },
+  "titre_metier": "Technicien documentaire et méthode F/H",
+  "entreprise": "FRAMATOME",
+  "salaire": "30K à 40K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f2"
+  },
+  "titre_metier": "Technico-commercial itinérant CVC (Zone Afrique) - H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "32K à 36K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "La Penne-sur-Huveaune"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f3"
+  },
+  "titre_metier": "Technicienne / Technicien de recherche mécanique F/H",
+  "entreprise": "EDF",
+  "salaire": "26,5K à 31,7K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Moret-Loing-et-Orvanne"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f4"
+  },
+  "titre_metier": "Technico commercial sédentaire CVC H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "28K à 32K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f5"
+  },
+  "titre_metier": "Technico commercial sédentaire CVC H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "28K à 32K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Rennes"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f6"
+  },
+  "titre_metier": "Responsable Technique de Contrat Logistique F/H",
+  "entreprise": "EDF",
+  "salaire": "40,7K à 49,3K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f7"
+  },
+  "titre_metier": "Technicien réseaux et téléphonie F/H",
+  "entreprise": "EIFFAGE ÉNERGIE SYSTÈMES",
+  "salaire": "25K à 38K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Ytrac"
+},
+{
+  "_id": {
+    "$oid": "6867917fed584b3c203df6f8"
+  },
+  "titre_metier": "Technicien Navigabilité CAMO H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "30K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Vitrolles"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf1"
+  },
+  "titre_metier": "Deep Tech & Innovation Consulting Intern",
+  "entreprise": "HELLO TOMORROW",
+  "salaire": "1,1K à 1,5K € par mois",
+  "contract": "Stage",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf2"
+  },
+  "titre_metier": "Tech Lead Data H/F",
+  "entreprise": "KLINT",
+  "salaire": "60K à 75K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Levallois-Perret"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf3"
+  },
+  "titre_metier": "Tech Lead .Net - Cloud F/H",
+  "entreprise": "ORANGE",
+  "salaire": "45K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Massy"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf4"
+  },
+  "titre_metier": "Tech Lead Java - React/js ou Vue.js H/F",
+  "entreprise": "DAVEO",
+  "salaire": "45K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf5"
+  },
+  "titre_metier": "Account Executive - Tech",
+  "entreprise": "IGNITION PROGRAM",
+  "salaire": "70K à 80K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf6"
+  },
+  "titre_metier": "Consultant.e Product Manager Tech",
+  "entreprise": "IKXO",
+  "salaire": "45K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf7"
+  },
+  "titre_metier": "Tech Lead Fullstack Java-JS H/F",
+  "entreprise": "VADUO",
+  "salaire": "45K à 75K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf8"
+  },
+  "titre_metier": "Tech Lead Backend Java H/F",
+  "entreprise": "VADUO",
+  "salaire": "45K à 75K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaf9"
+  },
+  "titre_metier": "Tech Lead Data F/H",
+  "entreprise": "GROUPE SII",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Le Mans"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdafa"
+  },
+  "titre_metier": "Tech Talent Acquisition specialist - CDI - Paris",
+  "entreprise": "STOCKLY",
+  "salaire": "38K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdafb"
+  },
+  "titre_metier": "Tech Lead Data (H/F)",
+  "entreprise": "THÉLIO",
+  "salaire": "45K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdafc"
+  },
+  "titre_metier": "Tech Lead / Data Architect (H/F)",
+  "entreprise": "THÉLIO",
+  "salaire": "50K à 65K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdafd"
+  },
+  "titre_metier": "Tech Lead / Data Architect (H/F)",
+  "entreprise": "THÉLIO",
+  "salaire": "50K à 65K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Bordeaux"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdafe"
+  },
+  "titre_metier": "Tech Lead (F/H)",
+  "entreprise": "GROUPE LA CENTRALE",
+  "salaire": "55K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdaff"
+  },
+  "titre_metier": "LEAD TECH JAVA & IA H/F",
+  "entreprise": "VIRTUALEXPO",
+  "salaire": "50 à 55 €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb00"
+  },
+  "titre_metier": "Tech Lead H/F",
+  "entreprise": "FIGARO CLASSIFIEDS",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb01"
+  },
+  "titre_metier": "Tech Lead GED Nuxeo (50% télétravail) F/H",
+  "entreprise": "EDF",
+  "salaire": "47K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Nanterre"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb02"
+  },
+  "titre_metier": "Business developer / tech recruteur Freelance H/F - full Télétravail",
+  "entreprise": "BLUECODERS",
+  "salaire": "60K à 200K €",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Lille · Bordeaux · Lyon…Voir plus\n+4"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb03"
+  },
+  "titre_metier": "Tech lead Java",
+  "entreprise": "EASY PARTNER",
+  "salaire": "45K à 55K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb04"
+  },
+  "titre_metier": "Tech lead Confirmé.e F/H",
+  "entreprise": "FASST",
+  "salaire": "40K à 52K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Nantes · Marseille…Voir plus\n+23"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb05"
+  },
+  "titre_metier": "Tech lead Sénior F/H",
+  "entreprise": "FASST",
+  "salaire": "48K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Nantes · Marseille…Voir plus\n+23"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb06"
+  },
+  "titre_metier": "Tech Lead SRE F/H",
+  "entreprise": "ORANGE",
+  "salaire": "40K à 45K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Villejuif"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb07"
+  },
+  "titre_metier": "Tech Lead fullstack F/H",
+  "entreprise": "ORANGE",
+  "salaire": "35K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Cesson-Sévigné"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb08"
+  },
+  "titre_metier": "Développeur Full-stack pour notre tech lab",
+  "entreprise": "KARETIS",
+  "salaire": "42K à 52K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon · Neuilly-sur-Seine"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb09"
+  },
+  "titre_metier": "Tech Lead Back-end H/F",
+  "entreprise": "MANUTAN",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Gonesse"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb0a"
+  },
+  "titre_metier": "Tech lead Java (F/H) - Tours",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Tours"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb0b"
+  },
+  "titre_metier": "Tech lead Java (H/F)",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Niort"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb0c"
+  },
+  "titre_metier": "Tech informatique alternance bts sio (H/F)",
+  "entreprise": "ESUP",
+  "salaire": {
+    "$numberDouble": "NaN"
+  },
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Puteaux"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb0d"
+  },
+  "titre_metier": "Lead tech Java F/H",
+  "entreprise": "INOCO",
+  "salaire": "60K à 72K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb0e"
+  },
+  "titre_metier": "Lead Tech C# .NET Cloud Azure H/F",
+  "entreprise": "COLIBRI",
+  "salaire": "55K à 68K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon · Boulogne-Billancourt"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb0f"
+  },
+  "titre_metier": "Tech Lead Node.JS- BFF (H/F)",
+  "entreprise": "THE ONE STUDIO",
+  "salaire": "52K à 61K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb10"
+  },
+  "titre_metier": "Tech Lead Java (senior)",
+  "entreprise": "EXALT",
+  "salaire": "47K à 57K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Bordeaux"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb11"
+  },
+  "titre_metier": "Senior Consultant - Deep Tech & Innovation",
+  "entreprise": "HELLO TOMORROW",
+  "salaire": "52K à 56K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb12"
+  },
+  "titre_metier": "Tech lead / Software Python video player",
+  "entreprise": "BLUECODERS",
+  "salaire": "1 à 1 000 €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb13"
+  },
+  "titre_metier": "Lead Tech Java (F/H) - Nantes",
+  "entreprise": "GROUPE SII",
+  "salaire": "42K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb14"
+  },
+  "titre_metier": "Tech Lead Vue.js 3 - (H/F)",
+  "entreprise": "THE ONE STUDIO",
+  "salaire": "55K à 68K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Issy-les-Moulineaux"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb15"
+  },
+  "titre_metier": "Chef de Secteur High Tech H/F",
+  "entreprise": "CPM FRANCE",
+  "salaire": "1,9K à 2,1K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb16"
+  },
+  "titre_metier": "Alternance : Chargé·e de partenariats tech à partir de Septembre 2025",
+  "entreprise": "SHARE IT",
+  "salaire": "1,5K € par mois",
+  "contract": "Alternance",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb17"
+  },
+  "titre_metier": "Senior Backend Engineer - Tech Lead F/H",
+  "entreprise": "CYIM",
+  "salaire": "45K à 55K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Rennes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb18"
+  },
+  "titre_metier": "Tech Recruiter / Business Developer - CDI - H/F - Paris",
+  "entreprise": "KATCHME",
+  "salaire": "30K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb19"
+  },
+  "titre_metier": "Tech Lead C++ H/F",
+  "entreprise": "GROUPE SII",
+  "salaire": "55K à 65K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "La Défense"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb1a"
+  },
+  "titre_metier": "Tech Lead ASP.NET Core MVC - Pôle Collectivité",
+  "entreprise": "BERGER-LEVRAULT",
+  "salaire": "50K à 60K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "La Chapelle-sur-Erdre"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb1b"
+  },
+  "titre_metier": "Tech Lead Java (F/H)",
+  "entreprise": "GROUPE SII",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb1c"
+  },
+  "titre_metier": "Tech Lead JAVA H/F",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 45K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Strasbourg"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb1d"
+  },
+  "titre_metier": "Lead Tech Vue.JS H/F",
+  "entreprise": "GROUPE SII",
+  "salaire": "35K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Brest"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb1e"
+  },
+  "titre_metier": "Tech Lead SAP - H/F",
+  "entreprise": "AUGUSTA REEVES GROUP",
+  "salaire": "60K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb1f"
+  },
+  "titre_metier": "Tech Lead Front End (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "38K à 42K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Rodez"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb20"
+  },
+  "titre_metier": "Tech Lead Devops - expert Ansible",
+  "entreprise": "GROUPE SII",
+  "salaire": "65K à 68K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "La Défense"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb21"
+  },
+  "titre_metier": "Tech Lead JAVA (H/F)",
+  "entreprise": "APSIDE",
+  "salaire": "50K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Aix-en-Provence"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb22"
+  },
+  "titre_metier": "Technicien(e) approvisionnement LEAB F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "27,9K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villeneuve-d'Ascq"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb23"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "27K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Beauvais"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb24"
+  },
+  "titre_metier": "Technico-commercial Pest control H/F",
+  "entreprise": "ELIS",
+  "salaire": "40K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Rouen"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb25"
+  },
+  "titre_metier": "Technicien de maintenance en alternance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "12,7K à 15,9K €",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Illkirch-Graffenstaden"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb26"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "25K à 26,5K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Illkirch-Graffenstaden"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb27"
+  },
+  "titre_metier": "Technicien de maintenance confirmé (F/H), Pôle Hôtelier",
+  "entreprise": "EVIAN RESORT",
+  "salaire": "2,4K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évian-les-Bains"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb28"
+  },
+  "titre_metier": "Chef de Projet Technique (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Niort"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb29"
+  },
+  "titre_metier": "Chef de Projet Technique (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "60K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb2a"
+  },
+  "titre_metier": "Ingénieur Données Techniques H/F",
+  "entreprise": "TAKOMA",
+  "salaire": "35K à 37K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Mérignac"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb2b"
+  },
+  "titre_metier": "Directeur technique H/F",
+  "entreprise": "VIAXOFT",
+  "salaire": "70K à 90K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb2c"
+  },
+  "titre_metier": "🚀 Chef.fe de Projet Technique/Intégration - Paris",
+  "entreprise": "BEEDEEZ",
+  "salaire": "≥ 52K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb2d"
+  },
+  "titre_metier": "Alternance - Technicien Excellence Opérationnelle F/H",
+  "entreprise": "FRAMATOME",
+  "salaire": "990 à 1 441 € par mois",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Grenoble"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb2e"
+  },
+  "titre_metier": "Technicienne/Technicien instrumentation/mesures F/H",
+  "entreprise": "EDF",
+  "salaire": "30K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Vulbas"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb2f"
+  },
+  "titre_metier": "Technicien Essais H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "27K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Mérignac"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb30"
+  },
+  "titre_metier": "Technicien de Mesure d'Equipement Electronique Numérique - Spatial H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "27K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb31"
+  },
+  "titre_metier": "Technicien de laboratoire - distribution et approvisionnement stock central CDD Strasbourg F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Strasbourg"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb32"
+  },
+  "titre_metier": "Ingénieur Technico-Commercial Itinérant - Menuiserie Métallique (F/H)",
+  "entreprise": "DESCOURS & CABAUD",
+  "salaire": "40K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Bonneuil-sur-Marne"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb33"
+  },
+  "titre_metier": "Technicien essai H/F",
+  "entreprise": "DELABIE [FR]",
+  "salaire": "32K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Friville-Escarbotin"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb34"
+  },
+  "titre_metier": "Technicien de laboratoire en thérapie cellulaire Saint Laurent du var F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Laurent-du-Var"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb35"
+  },
+  "titre_metier": "Technicien de laboratoire IH Délivrance Avignon F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Avignon"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb36"
+  },
+  "titre_metier": "Technicien automatisme HF",
+  "entreprise": "NORMANDISE PET FOOD",
+  "salaire": "30K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Vire Normandie"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb37"
+  },
+  "titre_metier": "Technicien ordonnateur au sein du service achat",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26,8K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb38"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb39"
+  },
+  "titre_metier": "1 Technicien(cienne) de facturation (F/H) - CDD Temps plein",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "28K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Coubert"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb3a"
+  },
+  "titre_metier": "Technicien ordonnateur au sein du service achat",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26,8K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb3b"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb3c"
+  },
+  "titre_metier": "Technicien(ne) Traitement de l'Information (H/F)",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "1 917 à 1 918 € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb3d"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) - CDI 35h à partir de juillet",
+  "entreprise": "DECATHLON",
+  "salaire": "1,8K à 2K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Scionzier"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb3e"
+  },
+  "titre_metier": "Conseiller-ère Vente Technicien-ne Atelier (H/F)",
+  "entreprise": "DECATHLON",
+  "salaire": "1,7K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Montreuil"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb3f"
+  },
+  "titre_metier": "Conseiller-ère Vente Technicien-ne (H/F)",
+  "entreprise": "DECATHLON",
+  "salaire": "1,7K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Pierre-d'Oléron"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb40"
+  },
+  "titre_metier": "Technicien ordonnateur au sein du service achat",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26,8K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb41"
+  },
+  "titre_metier": "Assistant technique polyvalent (H/F)",
+  "entreprise": "ACTUAL GROUP",
+  "salaire": "2K à 2,5K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Eaubonne"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb42"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb43"
+  },
+  "titre_metier": "Technicien mécanique (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "30K à 40K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Combeaufontaine"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb44"
+  },
+  "titre_metier": "Technicien sur chariots (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "25K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Geispolsheim"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb45"
+  },
+  "titre_metier": "Technicien mécanique sur chariots (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "25K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Biesheim"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb46"
+  },
+  "titre_metier": "Technicien de maintenance à cestas (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "30K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Cestas"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb47"
+  },
+  "titre_metier": "Alternance - Technicien Domotique / Visioconférence (H/F)",
+  "entreprise": "MOTILDE",
+  "salaire": "500 à 1 400 € par mois",
+  "contract": "Alternance",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb48"
+  },
+  "titre_metier": "Designer Graphique PowerPoint – Expert.e Technique",
+  "entreprise": "MPREZ®",
+  "salaire": "34K à 36K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Bordeaux · Lisboa · Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb49"
+  },
+  "titre_metier": "Leader technique Drupal H/F",
+  "entreprise": "KLEE GROUP",
+  "salaire": "50K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes · Lyon…Voir plus\n+3"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb4a"
+  },
+  "titre_metier": "Leader technique Ibexa H/F",
+  "entreprise": "KLEE GROUP",
+  "salaire": "50K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes · Lyon…Voir plus\n+3"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb4b"
+  },
+  "titre_metier": "Technicien Helpdesk H/F",
+  "entreprise": "KLEE GROUP",
+  "salaire": "3K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Le Plessis-Robinson"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb4c"
+  },
+  "titre_metier": "Ingénieur Bureau Etudes Technique Eoliens F/H - CDI - Paris",
+  "entreprise": "Q ENERGY FRANCE",
+  "salaire": {
+    "$numberDouble": "NaN"
+  },
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Courbevoie"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb4d"
+  },
+  "titre_metier": "Responsable Technique H/F",
+  "entreprise": "EKLO HOTELS",
+  "salaire": "45K à 48K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Vanves"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb4e"
+  },
+  "titre_metier": "Technicien de maintenance F/H F/H",
+  "entreprise": "VINCI ENERGIES EN FRANCE",
+  "salaire": "25K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Parçay-Meslay"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb4f"
+  },
+  "titre_metier": "Technico commercial(e) en alternance (H/F)",
+  "entreprise": "ESUP",
+  "salaire": "5K à 15K €",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb50"
+  },
+  "titre_metier": "Technicien itinérant polyvalent ventilation/maîtrise des nuisibles H/F",
+  "entreprise": "AVIPUR",
+  "salaire": "2,2K à 2,5K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Gap"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb51"
+  },
+  "titre_metier": "Technicien informatique - Gestionnaire de parc F/H",
+  "entreprise": "GÉNÉRALE FRIGORIFIQUE FRANCE",
+  "salaire": "26K à 28K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Saint-Bonnet-de-Mure"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb52"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "25K à 26,5K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villeneuve-d'Ascq"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb53"
+  },
+  "titre_metier": "Technicien(e) approvisionnement EEGP F/H",
+  "entreprise": "AUCHAN",
+  "salaire": "27,9K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villeneuve-d'Ascq"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb54"
+  },
+  "titre_metier": "Alternant en ingénierie techno pédagogique (H/F)",
+  "entreprise": "EFREI",
+  "salaire": "9,3K à 16,9K €",
+  "contract": "Alternance",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Villejuif"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb55"
+  },
+  "titre_metier": "Technico commercial sédentaire (Grands Comptes) CVC H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "32K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Colombes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb56"
+  },
+  "titre_metier": "Ingénieure ou Ingénieur R&D technologies de batteries F/H",
+  "entreprise": "EDF",
+  "salaire": "45K à 65K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Moret-Loing-et-Orvanne"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb57"
+  },
+  "titre_metier": "Technicien ou technicienne Matériels Electriques F/H",
+  "entreprise": "EDF",
+  "salaire": "26,5K à 31,7K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Moret-Loing-et-Orvanne"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb58"
+  },
+  "titre_metier": "Technical Product Owner H/F",
+  "entreprise": "DAVEO",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb59"
+  },
+  "titre_metier": "Référent technique F/H",
+  "entreprise": "LABEL CO-PILOTES (L’ALLIANCE DES EXPERTS-COMPTABLES INDÉPENDANTS)",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Grenoble"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb5a"
+  },
+  "titre_metier": "Consultant en architecture technique & cloud H.F",
+  "entreprise": "ENIOKA CONSEIL",
+  "salaire": "45K à 70K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb5b"
+  },
+  "titre_metier": "Support Technique H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "26K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb5c"
+  },
+  "titre_metier": "Support Technique H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "28K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Toulouse"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb5d"
+  },
+  "titre_metier": "Technicien Systèmes & Réseaux F/H",
+  "entreprise": "ELCIA GROUPE",
+  "salaire": "≥ 28K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Brignais"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb5e"
+  },
+  "titre_metier": "Technicien Validation Automobile Powertrain H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "28K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Montigny-le-Bretonneux"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb5f"
+  },
+  "titre_metier": "Technicien de production F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb60"
+  },
+  "titre_metier": "Technicien de laboratoire IH Délivrance Nice Pasteur F/H",
+  "entreprise": "ETABLISSEMENT FRANÇAIS DU SANG",
+  "salaire": "20K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nice"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb61"
+  },
+  "titre_metier": "Technicien de maintenance H/F",
+  "entreprise": "MAPEI FRANCE",
+  "salaire": "35K à 40K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Saint-Vulbas"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb62"
+  },
+  "titre_metier": "Technico Commercial Sédentaire - Quincaillerie de Batiment (F/H)",
+  "entreprise": "DESCOURS & CABAUD",
+  "salaire": "25K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Mondeville"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb63"
+  },
+  "titre_metier": "Agent Technique H/F",
+  "entreprise": "COALLIA",
+  "salaire": "2,1K à 2,3K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Tours"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb64"
+  },
+  "titre_metier": "Agent Technique H/F",
+  "entreprise": "COALLIA",
+  "salaire": "2K à 2,1K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Poitiers"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb65"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) - Temps partiel",
+  "entreprise": "DECATHLON",
+  "salaire": "1,8K € par mois",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Pontault-Combault"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb66"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) Cycle Juillet - Août",
+  "entreprise": "DECATHLON",
+  "salaire": "1,8K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Haguenau"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb67"
+  },
+  "titre_metier": "Gestionnaire Technicien éditique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "2K à 2,3K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Grentheville"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb68"
+  },
+  "titre_metier": "Technicien(ne) Traitement de l'Information (H/F)",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "1 917 à 1 918 € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb69"
+  },
+  "titre_metier": "Technicien logistique H/F",
+  "entreprise": "LA SÉCURITÉ SOCIALE",
+  "salaire": "26 845 à 26 846 €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Évry-Courcouronnes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb6a"
+  },
+  "titre_metier": "Technicien-ne Atelier (H/F) CDD ETE",
+  "entreprise": "DECATHLON",
+  "salaire": "1,7K € par mois",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Vannes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb6b"
+  },
+  "titre_metier": "Technicien service desk (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "22K à 25K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Theix-Noyalo"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb6c"
+  },
+  "titre_metier": "Technicien helpdesk (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "22K à 25K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Chartres"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb6d"
+  },
+  "titre_metier": "Technical Account Manager",
+  "entreprise": "SIRDATA",
+  "salaire": "36K à 45K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb6e"
+  },
+  "titre_metier": "Technico commercial F/H",
+  "entreprise": "WALTER LEARNING",
+  "salaire": "21K à 35K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb6f"
+  },
+  "titre_metier": "Technico commercial F/H",
+  "entreprise": "WALTER LEARNING",
+  "salaire": "27K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Marseille"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb70"
+  },
+  "titre_metier": "Technico commercial F/H",
+  "entreprise": "WALTER LEARNING",
+  "salaire": "27K à 45K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Aix-en-Provence"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb71"
+  },
+  "titre_metier": "Technicien helpdesk (H/F)",
+  "entreprise": "AGENCES D'EMPLOI : GÉNÉRALISTE, SPÉCIALISÉE ET INSERTION",
+  "salaire": "22K à 25K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "La Courneuve"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb72"
+  },
+  "titre_metier": "Technico-commercial H/F - Secteur Rhône-Alpes",
+  "entreprise": "JOBGLOBER",
+  "salaire": "60K à 80K €",
+  "contract": "CDI",
+  "remote": "Télétravail total",
+  "ville": "Marseille…Voir plus\n+5"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb73"
+  },
+  "titre_metier": "Technicien d'affaires F/H",
+  "entreprise": "VINCI ENERGIES EN FRANCE",
+  "salaire": "41K à 55K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Ancenis-Saint-Géréon"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb74"
+  },
+  "titre_metier": "Admissions Techniciens (freelance)",
+  "entreprise": "LA SOLIVE",
+  "salaire": "160 à 154 € par jour",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Paris"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb75"
+  },
+  "titre_metier": "Technicien de maintenance F/H",
+  "entreprise": "VINCI ENERGIES EN FRANCE",
+  "salaire": "28K à 34K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Héricourt"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb76"
+  },
+  "titre_metier": "Technicien.ne Halieute & Mammifères Marins",
+  "entreprise": "SINAY",
+  "salaire": "22,5K à 24,5K €",
+  "contract": "CDD / Temporaire",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Brest · Lorient · Caen"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb77"
+  },
+  "titre_metier": "Technicien.ne électroménager senior",
+  "entreprise": "UNDERDOG",
+  "salaire": "24,4K à 28,2K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb78"
+  },
+  "titre_metier": "Technicien.ne électroménager (H/F)",
+  "entreprise": "UNDERDOG",
+  "salaire": "≥ 24,4K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb79"
+  },
+  "titre_metier": "Technicien(ne) de maintenance industrielle H/F",
+  "entreprise": "ELIS",
+  "salaire": "25K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Chuzelles"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb7a"
+  },
+  "titre_metier": "TECHNICIEN SUPPORT N1 (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "175 à 225 € par jour",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Luc-la-Primaube"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb7b"
+  },
+  "titre_metier": "TECHNICIEN SUPPORT N1 (H/F)",
+  "entreprise": "LINK CONSULTING",
+  "salaire": "175 à 225 € par jour",
+  "contract": "Freelance",
+  "remote": "Télétravail total",
+  "ville": "Mazères"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb7c"
+  },
+  "titre_metier": "Leader Technique - H/F",
+  "entreprise": "FRANCE TRAVAIL DSI (DIRECTION DES SYSTÈMES D'INFORMATION)",
+  "salaire": "40K à 50K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Lyon · Montreuil"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb7d"
+  },
+  "titre_metier": "Technicien d'essai électronique/électrotech",
+  "entreprise": "GROUPE CNPP",
+  "salaire": "25K à 30K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Saint-Marcel"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb7e"
+  },
+  "titre_metier": "Technicien de maintenance opérationnelle SPAC F/H",
+  "entreprise": "FRAMATOME",
+  "salaire": "30K à 40K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Romans-sur-Isère"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb7f"
+  },
+  "titre_metier": "Technicien documentaire et méthode F/H",
+  "entreprise": "FRAMATOME",
+  "salaire": "30K à 40K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb80"
+  },
+  "titre_metier": "Technico-commercial itinérant CVC (Zone Afrique) - H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "32K à 36K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "La Penne-sur-Huveaune"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb81"
+  },
+  "titre_metier": "Technicienne / Technicien de recherche mécanique F/H",
+  "entreprise": "EDF",
+  "salaire": "26,5K à 31,7K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Moret-Loing-et-Orvanne"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb82"
+  },
+  "titre_metier": "Technico commercial sédentaire CVC H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "28K à 32K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Nantes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb83"
+  },
+  "titre_metier": "Technico commercial sédentaire CVC H/F",
+  "entreprise": "FRANCE AIR",
+  "salaire": "28K à 32K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Rennes"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb84"
+  },
+  "titre_metier": "Responsable Technique de Contrat Logistique F/H",
+  "entreprise": "EDF",
+  "salaire": "40,7K à 49,3K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Lyon"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb85"
+  },
+  "titre_metier": "Technicien réseaux et téléphonie F/H",
+  "entreprise": "EIFFAGE ÉNERGIE SYSTÈMES",
+  "salaire": "25K à 38K €",
+  "contract": "CDI",
+  "remote": {
+    "$numberDouble": "NaN"
+  },
+  "ville": "Ytrac"
+},
+{
+  "_id": {
+    "$oid": "686791819538e03d9a4cdb86"
+  },
+  "titre_metier": "Technicien Navigabilité CAMO H/F",
+  "entreprise": "EXPLEO",
+  "salaire": "30K €",
+  "contract": "CDI",
+  "remote": "Télétravail fréquent",
+  "ville": "Vitrolles"
+}]
