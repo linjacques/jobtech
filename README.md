@@ -108,7 +108,7 @@ Pour utiliser l'API :
 ### lancer l'app Django
 aller dans le dossier de l'app 
 ```bash
-    cd api
+    cd django
 ```
 
 et taper :
