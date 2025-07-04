@@ -26,8 +26,13 @@ with DAG(
         bash_command="python /opt/airflow/job/01_scrapping/scrapping_stack_overflow.py"
     )
 
+    run_remoteok = BashOperator(
+        task_id="scrape_remoteok",
+        bash_command="python /opt/airflow/job/01_scrapping/scrapping_remoteok.py"
+    )
+
     run_github = BashOperator(
         task_id="scrape_github",
         bash_command="python /opt/airflow/job/01_scrapping/scrapping_githubAPI.py"
     )
-    run_adzuna >> run_stack >> run_github
+    run_adzuna >> run_stack >> run_remoteok >>run_github
