@@ -101,6 +101,22 @@ Les fichiers CSV générés seront visibles dans :
 ./data/raw/stack_overflow_jobs.csv
 ```
 
+##  Résultats
+---
+Pour utiliser l'API :
+
+### lancer l'app Django
+aller dans le dossier de l'app 
+```bash
+    cd api
+```
+
+et taper :
+```bash
+python manage.py runserver
+```
+
+
 ## groupe :
 
 Anira José MENDES PEREIRA
