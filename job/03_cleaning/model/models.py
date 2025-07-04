@@ -56,3 +56,26 @@ class github_repo(Base):
     updated_at = Column(DateTime)
     license = Column(String(255))
     homepage = Column(String(500))    
+
+class remoteok_job(Base):
+    __tablename__ = "remoteok_job"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+
+    source = Column(String(100))       
+    country = Column(String(100))      
+    job_title = Column(String(255))    
+    company = Column(String(255))      
+    job_link = Column(Text)         
+
+class job_offer(Base):
+    __tablename__ = "job_offer"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+
+    job_title = Column(String(255))  
+    company = Column(String(255))     
+    salary = Column(String(100))        
+    contract = Column(String(100))       
+    remote = Column(String(50))          
+    city = Column(String(100))          

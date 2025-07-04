@@ -21,6 +21,11 @@ with DAG(
         bash_command="python /opt/airflow/job/01_scrapping/scrapping_api_adzuna.py"
     )
 
+    run_web_scrapping = BashOperator(
+        task_id="web_scrapping",
+        bash_command="pip install Selenium webdriver_manager && python /opt/airflow/job/01_scrapping/web_scrapping.py"
+    )
+
     run_stack = BashOperator(
         task_id="scrape_stack_overflow",
         bash_command="python /opt/airflow/job/01_scrapping/scrapping_stack_overflow.py"
@@ -28,11 +33,11 @@ with DAG(
 
     run_remoteok = BashOperator(
         task_id="scrape_remoteok",
-        bash_command="python /opt/airflow/job/01_scrapping/scrapping_remoteok.py"
+        bash_command="pip install Beautifulsoup4 && python /opt/airflow/job/01_scrapping/scrapping_remoteok.py"
     )
 
     run_github = BashOperator(
         task_id="scrape_github",
         bash_command="python /opt/airflow/job/01_scrapping/scrapping_githubAPI.py"
     )
-    run_adzuna >> run_stack >> run_remoteok >>run_github
+    run_adzuna >> run_web_scrapping >> run_stack >> run_remoteok >>run_github

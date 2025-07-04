@@ -1,5 +1,5 @@
 from db.mysql_con import get_session
-from model.models import adzuna_job, database, web_framework, top_tech, platform, github_repo
+from model.models import adzuna_job, database, web_framework, top_tech, platform, github_repo, remoteok_job, job_offer
 from db.mongo_con import get_mongo_collections
 from utils.cleaner import normalize_document
 
@@ -60,6 +60,25 @@ def main():
                 updated_at = normalized.get("updated_at"),
                 license = normalized.get("license"),
                 homepage = normalized.get("homepage")
+            ))
+
+        elif collection_name == "jobs_europe_multi_sources":
+            session.add(remoteok_job(
+                source = normalized.get("source"),
+                job_title = normalized.get("job title"),
+                company = normalized.get("company"),
+                country = normalized.get("country"),
+                job_link = normalized.get("job link")
+            ))
+
+        elif collection_name == "offres_tech_wttj":
+            session.add(job_offer(
+                job_title = normalized.get("titre_metier"),
+                company = normalized.get("entreprise"),
+                salary = normalized.get("salaire"),
+                contract = normalized.get("contract"),
+                remote = normalized.get("remote"),
+                city = normalized.get("ville")
             ))
 
     session.commit()
