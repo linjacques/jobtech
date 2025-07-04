@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Déconnexion</title>
+    <meta http-equiv="refresh" content="2;url={% url 'login' %}" />
+    <style>
+        body { font-family: Arial, sans-serif; background: #f7f7f7; }
+        .container { max-width: 400px; margin: 80px auto; background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #0001; padding: 32px 24px; text-align: center; }
+        h2 { font-size: 2.2em; margin-bottom: 32px; color: #2c3e50; }
+        .link { color: #3498db; text-decoration: none; }
+        .link:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Vous avez été déconnecté.</h2>
+        <p>Redirection vers la page de connexion...</p>
+        <p><a class="link" href="{% url 'login' %}">Cliquez ici si la redirection ne fonctionne pas</a></p>
+    </div>
+</body>
+</html>
